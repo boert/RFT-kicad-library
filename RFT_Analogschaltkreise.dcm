@@ -1,32 +1,44 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP A202D
+D Aufnahme-, Mikrofon- und Wiedergabeverstärker
+K TDA1002
+F https://www.tu-chemnitz.de/etit/zentral/ddr/a202.gif
+$ENDCMP
+#
 $CMP A244D
 D Integrierter AM-Empfänger bis 30 MHz
+K TCA440
 F https://www.tu-chemnitz.de/etit/zentral/ddr/a244.gif
 $ENDCMP
 #
 $CMP B060D
 D Kleinleistungs-BIFET-OPV, externe Frequenzkompensation, Offsetabgleich
+K TL060
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
 $CMP B061D
 D Kleinleistungs-BIFET-OPV, interne Frequenzkompensation, Offsetabgleich
+K TL061
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
 $CMP B062D
 D zweifach Kleinleistungs-BIFET-OPV, interne Frequenzkompensation
+K TL062
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
 $CMP B064D
 D vierfach Kleinleistungs-BIFET-OPV, interne Frequenzkompensation
+K TL064
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
 $CMP B066D
 D Kleinleistungs-BIFET-OPV, interne Frequenzkompensation, Offsetabgleich, Leistungssteuerung
+K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #

@@ -40,4 +40,9 @@ D Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
 F https://www.tu-chemnitz.de/etit/zentral/ddr/sf126.gif
 $ENDCMP
 #
+$CMP SSY20
+D Si-npn-Schalttransistor für EDV
+F https://www.tu-chemnitz.de/etit/zentral/ddr/ssy20.gif
+$ENDCMP
+#
 #End Doc Library
