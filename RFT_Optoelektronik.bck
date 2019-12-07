@@ -1,14 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP L110C
-D CCD-Zeile, 256 Pixel
+D CCD-Zeile 256 Pixel
 K CCD110
 F https://www.tu-chemnitz.de/etit/zentral/ddr/l110.gif
-$ENDCMP
-#
-$CMP L133C
-D CCD-Zeile, 1024 Pixel
-F https://www.tu-chemnitz.de/etit/zentral/ddr/l133.gif
 $ENDCMP
 #
 $CMP MB101
