@@ -42,4 +42,25 @@ K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
+$CMP C560C
+D 8-bit-D/A-Wandler mit Latch
+K AD558
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c560.gif
+$ENDCMP
+#
+$CMP C5650C
+D 10-bit-D/A-Wandler ohne Latch
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c565.gif
+$ENDCMP
+#
+$CMP C5658C
+D 8-bit-D/A-Wandler ohne Latch
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c5658.gif
+$ENDCMP
+#
+$CMP C565C
+D 12-bit-D/A-Wandler ohne Latch
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c565.gif
+$ENDCMP
+#
 #End Doc Library
