@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SC236
+D Silizium-npn-Transistor für NF-Vor- und Treiberstufen
+F https://www.tu-chemnitz.de/etit/zentral/ddr/sc236.gif
+$ENDCMP
+#
+$CMP SC237
+D Silizium-npn-Transistor für NF-Vor- und Treiberstufen
+F https://www.tu-chemnitz.de/etit/zentral/ddr/sc236.gif
+$ENDCMP
+#
+$CMP SC238
+D Silizium-npn-Transistor für NF-Vor- und Treiberstufen
+F https://www.tu-chemnitz.de/etit/zentral/ddr/sc236.gif
+$ENDCMP
+#
+$CMP SC239
+D Silizium-npn-Transistor für NF-Vor- und Treiberstufen
+F https://www.tu-chemnitz.de/etit/zentral/ddr/sc236.gif
+$ENDCMP
+#
+$CMP SF126
+D Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+F https://www.tu-chemnitz.de/etit/zentral/ddr/sf126.gif
+$ENDCMP
+#
+$CMP SF127
+D Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+F https://www.tu-chemnitz.de/etit/zentral/ddr/sf126.gif
+$ENDCMP
+#
+$CMP SF128
+D Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+F https://www.tu-chemnitz.de/etit/zentral/ddr/sf126.gif
+$ENDCMP
+#
+$CMP SF129
+D Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+F https://www.tu-chemnitz.de/etit/zentral/ddr/sf126.gif
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MB104
+D Optoelektronischer Koppler aus IR-Diode und npn-Si-Fototransistor
+F https://www.tu-chemnitz.de/etit/zentral/ddr/mb104.gif
+$ENDCMP
+#
+$CMP MB110
+D Optoelektronischer Koppler aus GaAs-LED und Si-Fotodiode
+F https://www.tu-chemnitz.de/etit/zentral/ddr/mb110.gif
+$ENDCMP
+#
+$CMP MB111
+D Optoelektronischer Koppler aus GaAs-LED und Si-Fotodiode, Ausgang open-collector, TTL-kompatibel
+F https://www.tu-chemnitz.de/etit/zentral/ddr/mb111.gif
+$ENDCMP
+#
+#End Doc Library

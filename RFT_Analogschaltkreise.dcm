@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A244D
+D Integrierter AM-Empfänger bis 30 MHz
+F https://www.tu-chemnitz.de/etit/zentral/ddr/a244.gif
+$ENDCMP
+#
+$CMP B060D
+D Kleinleistungs-BIFET-OPV, externe Frequenzkompensation, Offsetabgleich
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
+$ENDCMP
+#
+$CMP B061D
+D Kleinleistungs-BIFET-OPV, interne Frequenzkompensation, Offsetabgleich
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
+$ENDCMP
+#
+$CMP B062D
+D zweifach Kleinleistungs-BIFET-OPV, interne Frequenzkompensation
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
+$ENDCMP
+#
+$CMP B064D
+D vierfach Kleinleistungs-BIFET-OPV, interne Frequenzkompensation
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
+$ENDCMP
+#
+$CMP B066D
+D Kleinleistungs-BIFET-OPV, interne Frequenzkompensation, Offsetabgleich, Leistungssteuerung
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
+$ENDCMP
+#
+#End Doc Library
