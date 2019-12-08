@@ -42,6 +42,12 @@ K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
+$CMP C520D
+D A/D-Umsetzer -2..+3 Stellen mit BCD-Ausgang
+K AD2020
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c520.gif
+$ENDCMP
+#
 $CMP C560C
 D 8-bit-D/A-Wandler mit Latch
 K AD558
@@ -61,6 +67,30 @@ $ENDCMP
 $CMP C565C
 D 12-bit-D/A-Wandler ohne Latch
 F https://www.tu-chemnitz.de/etit/zentral/ddr/c565.gif
+$ENDCMP
+#
+$CMP C570C
+D 8-bit-A/D-Wandler ohne Tristate
+K AD570
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c570.gif
+$ENDCMP
+#
+$CMP C571C
+D 10-bit-A/D-Wandler ohne Tristate
+K AD571
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c570.gif
+$ENDCMP
+#
+$CMP C574C
+D 12-bit-A/D-Wandler mit 8-bit-Businterface
+K AD574JD
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c574.gif
+$ENDCMP
+#
+$CMP C670C
+D 8-bit-A/D-Wandler mit Tristate
+K (AD673JD)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c670.gif
 $ENDCMP
 #
 $CMP C7136D
