@@ -42,6 +42,228 @@ K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
+$CMP B222D
+D Doppelgegentaktmischer
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b222.gif
+$ENDCMP
+#
+$CMP B260D
+D Ansteuerschaltkreis für Schaltnetzteile
+K TDA1060
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b260.gif
+$ENDCMP
+#
+$CMP B2960VG
+D Schaltregler-Schaltkreis
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b2960.gif
+$ENDCMP
+#
+$CMP B303D
+D Initiatorschaltkreis für induktive, kapazitive und optische Näherungsschalter
+K (TCA205A)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b303.gif
+$ENDCMP
+#
+$CMP B3040DA
+D Treiber-Sensor für Leiterplattentester
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3040.gif
+$ENDCMP
+#
+$CMP B304D
+D Initiatorschaltkreis für induktive, kapazitive und optische Näherungsschalter
+K (TCA205A)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b303.gif
+$ENDCMP
+#
+$CMP B305D
+D Initiatorschaltkreis für induktive, kapazitive und optische Näherungsschalter, mit LED-Ausgang
+K (TCA205A)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b303.gif
+$ENDCMP
+#
+$CMP B306D
+D Initiatorschaltkreis für induktive, kapazitive und optische Näherungsschalter
+K (TCA205A)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b303.gif
+$ENDCMP
+#
+$CMP B308D
+D NF-Verstärker für Telefonhörer
+K (TBA830)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b308.gif
+$ENDCMP
+#
+$CMP B315D
+D Transistor-Leistungs-Array
+K Q2T2222
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b315.gif
+$ENDCMP
+#
+$CMP B3170V
+D Positiv-Spannungsregler, einstellbar
+K LM317T
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
+$ENDCMP
+#
+$CMP B3171V
+D Positiv-Spannungsregler, einstellbar
+K LM317HV
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
+$ENDCMP
+#
+$CMP B318D
+D NF-Verstärker für Telefonhörer
+K (TBA830)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b308.gif
+$ENDCMP
+#
+$CMP B325D
+D Transistor-Leistungs-Array
+K Q2T2222
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b315.gif
+$ENDCMP
+#
+$CMP B3370V
+D Negativ-Spannungsregler, einstellbar
+K LM337T
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
+$ENDCMP
+#
+$CMP B3371V
+D Negativ-Spannungsregler, einstellbar
+K LM337HV
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
+$ENDCMP
+#
+$CMP B340D
+D Transistor-Kleinleistungs-Array
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b340.gif
+$ENDCMP
+#
+$CMP B341D
+D Transistor-Kleinleistungs-Array
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b340.gif
+$ENDCMP
+#
+$CMP B342D
+D Transistor-Kleinleistungs-Array
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b340.gif
+$ENDCMP
+#
+$CMP B360D
+D Transistor-Leistungs-Array
+K TPQ2222, TPQ3724
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b315.gif
+$ENDCMP
+#
+$CMP B3718VC
+D Schrittmotor-Treiberschaltkreis
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3718.gif
+$ENDCMP
+#
+$CMP B380D
+D Transistor-Leistungs-Array
+K TPQ2221, TPQ3725
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b315.gif
+$ENDCMP
+#
+$CMP B390D
+D Regler für Gleichstromkleinstmotoren
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b390.gif
+$ENDCMP
+#
+$CMP B391D
+D Motorprozessor für Kassettenlaufwerke
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b391.gif
+$ENDCMP
+#
+$CMP B3925DD
+D Motorprozessor für Diskettenlaufwerke
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3925.gif
+$ENDCMP
+#
+$CMP B4002D
+D Schnittstelle Logik zu Leistung
+K UAA4002DP
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b4002.gif
+$ENDCMP
+#
+$CMP B4206D
+D Drehzahlregelung, stromgeführt
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b4206.gif
+$ENDCMP
+#
+$CMP B4207D
+D Drehzahlregelung, tachogeführt
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b4207.gif
+$ENDCMP
+#
+$CMP B4211D
+D Drehzahlregelung, tachogeführt, Phasenanschnitt
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b4211.gif
+$ENDCMP
+#
+$CMP B555D
+D Zeitgeber mit 200-mA-Ausgang
+K LM555CN
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b555.gif
+$ENDCMP
+#
+$CMP B556D
+D Zeitgeber mit 200-mA-Ausgang
+K LM556CN
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b555.gif
+$ENDCMP
+#
+$CMP B654D
+D Servomotor-Steuerschaltkreis mit Brückenschaltung
+K SN28654
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b654.gif
+$ENDCMP
+#
+$CMP C500D
+D Analog-Teil eines 2-Flanken-Umsetzers (14 Bit, 4 1/4 Digit)
+K TL500
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c500.gif
+$ENDCMP
+#
+$CMP C501D
+D Analog-Teil eines 2-Flanken-Umsetzers (11 Bit, 3 1/2 Digit)
+K TL501
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c500.gif
+$ENDCMP
+#
+$CMP C502D
+D Digital-Teil des 2-Flanken-Umsetzers mit Siebensegmentausgang
+K dual slope, TL502
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c500.gif
+$ENDCMP
+#
+$CMP C504D
+D Digital-Teil des 2-Flanken-Umsetzers mit BCD-Ausgang
+K dual slope
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c504.gif
+$ENDCMP
+#
+$CMP C520D
+D A/D-Umsetzer -2..+3 Stellen mit BCD-Ausgang
+K AD2020
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c520.gif
+$ENDCMP
+#
 $CMP C560C
 D 8-bit-D/A-Wandler mit Latch
 K AD558
@@ -50,17 +272,44 @@ $ENDCMP
 #
 $CMP C5650C
 D 10-bit-D/A-Wandler ohne Latch
+K DAC
 F https://www.tu-chemnitz.de/etit/zentral/ddr/c565.gif
 $ENDCMP
 #
 $CMP C5658C
 D 8-bit-D/A-Wandler ohne Latch
+K DAC
 F https://www.tu-chemnitz.de/etit/zentral/ddr/c5658.gif
 $ENDCMP
 #
 $CMP C565C
 D 12-bit-D/A-Wandler ohne Latch
+K DAC
 F https://www.tu-chemnitz.de/etit/zentral/ddr/c565.gif
+$ENDCMP
+#
+$CMP C570C
+D 8-bit-A/D-Wandler ohne Tristate
+K AD570
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c570.gif
+$ENDCMP
+#
+$CMP C571C
+D 10-bit-A/D-Wandler ohne Tristate
+K AD571
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c570.gif
+$ENDCMP
+#
+$CMP C574C
+D 12-bit-A/D-Wandler mit 8-bit-Businterface
+K AD574JD
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c574.gif
+$ENDCMP
+#
+$CMP C670C
+D 8-bit-A/D-Wandler mit Tristate
+K (AD673JD)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c670.gif
 $ENDCMP
 #
 $CMP C7136D
@@ -71,7 +320,14 @@ $ENDCMP
 #
 $CMP E310
 D Blinkgeberschaltung
+K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/E310.pdf
+$ENDCMP
+#
+$CMP U7650DD
+D Chopperstabilisierter CMOS-OPV
+K ICL7650
+F https://www.tu-chemnitz.de/etit/zentral/ddr/u7650.gif
 $ENDCMP
 #
 #End Doc Library
