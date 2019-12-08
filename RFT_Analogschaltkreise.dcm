@@ -63,4 +63,15 @@ D 12-bit-D/A-Wandler ohne Latch
 F https://www.tu-chemnitz.de/etit/zentral/ddr/c565.gif
 $ENDCMP
 #
+$CMP C7136D
+D 3 1/2-stelliger A/D-Umsetzer für LCD-Ansteuerung
+K ICL7136
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c7136.gif
+$ENDCMP
+#
+$CMP E310
+D Blinkgeberschaltung
+F https://www.tu-chemnitz.de/etit/zentral/ddr/E310.pdf
+$ENDCMP
+#
 #End Doc Library
