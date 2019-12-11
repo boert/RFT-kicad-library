@@ -78,6 +78,12 @@ K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b3925.gif
 $ENDCMP
 #
+$CMP B654D
+D Servomotor-Steuerschaltkreis mit Brückenschaltung
+K SN28654
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b654.gif
+$ENDCMP
+#
 $CMP C500D
 D Analog-Teil eines 2-Flanken-Umsetzers (14 Bit, 4 1/4 Digit)
 K TL500
