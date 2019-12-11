@@ -42,6 +42,12 @@ K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
+$CMP B222D
+D Doppelgegentaktmischer
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b222.gif
+$ENDCMP
+#
 $CMP B260D
 D Ansteuerschaltkreis für Schaltnetzteile
 K TDA1060
