@@ -42,6 +42,12 @@ K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
+$CMP B260D
+D Ansteuerschaltkreis für Schaltnetzteile
+K TDA1060
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b260.gif
+$ENDCMP
+#
 $CMP B3170V
 D Positiv-Spannungsregler, einstellbar
 K LM317T
@@ -70,6 +76,12 @@ $CMP B3718VC
 D Schrittmotor-Treiberschaltkreis
 K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b3718.gif
+$ENDCMP
+#
+$CMP B390D
+D Regler für Gleichstromkleinstmotoren
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b390.gif
 $ENDCMP
 #
 $CMP B391D
