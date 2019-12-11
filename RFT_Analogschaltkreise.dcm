@@ -42,6 +42,30 @@ K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
+$CMP B3170V
+D Positiv-Spannungsregler, einstellbar
+K LM317T
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
+$ENDCMP
+#
+$CMP B3171V
+D Positiv-Spannungsregler, einstellbar
+K LM317HV
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
+$ENDCMP
+#
+$CMP B3370V
+D Negativ-Spannungsregler, einstellbar
+K LM337T
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
+$ENDCMP
+#
+$CMP B3371V
+D Negativ-Spannungsregler, einstellbar
+K LM337HV
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
+$ENDCMP
+#
 $CMP B3718VC
 D Schrittmotor-Treiberschaltkreis
 K ~
