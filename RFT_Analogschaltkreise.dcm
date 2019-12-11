@@ -72,10 +72,28 @@ K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b3718.gif
 $ENDCMP
 #
+$CMP B391D
+D Motorprozessor für Kassettenlaufwerke
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b391.gif
+$ENDCMP
+#
 $CMP B3925DD
 D Motorprozessor für Diskettenlaufwerke
 K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b3925.gif
+$ENDCMP
+#
+$CMP B555D
+D Zeitgeber mit 200-mA-Ausgang
+K LM555CN
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b555.gif
+$ENDCMP
+#
+$CMP B556D
+D Zeitgeber mit 200-mA-Ausgang
+K LM556CN
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b555.gif
 $ENDCMP
 #
 $CMP B654D
