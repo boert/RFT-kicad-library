@@ -42,6 +42,30 @@ K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
+$CMP C500D
+D Analog-Teil eines 2-Flanken-Umsetzers (14 Bit, 4 1/4 Digit)
+K TL500
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c500.gif
+$ENDCMP
+#
+$CMP C501D
+D Analog-Teil eines 2-Flanken-Umsetzers (11 Bit, 3 1/2 Digit)
+K TL501
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c500.gif
+$ENDCMP
+#
+$CMP C502D
+D Digital-Teil des 2-Flanken-Umsetzers mit Siebensegmentausgang
+K dual slope, TL502
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c500.gif
+$ENDCMP
+#
+$CMP C504D
+D Digital-Teil des 2-Flanken-Umsetzers mit BCD-Ausgang
+K dual slope
+F https://www.tu-chemnitz.de/etit/zentral/ddr/c504.gif
+$ENDCMP
+#
 $CMP C520D
 D A/D-Umsetzer -2..+3 Stellen mit BCD-Ausgang
 K AD2020
@@ -56,16 +80,19 @@ $ENDCMP
 #
 $CMP C5650C
 D 10-bit-D/A-Wandler ohne Latch
+K DAC
 F https://www.tu-chemnitz.de/etit/zentral/ddr/c565.gif
 $ENDCMP
 #
 $CMP C5658C
 D 8-bit-D/A-Wandler ohne Latch
+K DAC
 F https://www.tu-chemnitz.de/etit/zentral/ddr/c5658.gif
 $ENDCMP
 #
 $CMP C565C
 D 12-bit-D/A-Wandler ohne Latch
+K DAC
 F https://www.tu-chemnitz.de/etit/zentral/ddr/c565.gif
 $ENDCMP
 #
@@ -101,6 +128,7 @@ $ENDCMP
 #
 $CMP E310
 D Blinkgeberschaltung
+K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/E310.pdf
 $ENDCMP
 #
