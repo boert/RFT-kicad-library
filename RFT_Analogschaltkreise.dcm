@@ -60,10 +60,34 @@ K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b2960.gif
 $ENDCMP
 #
+$CMP B303D
+D Initiatorschaltkreis für induktive, kapazitive und optische Näherungsschalter
+K (TCA205A)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b303.gif
+$ENDCMP
+#
 $CMP B3040DA
 D Treiber-Sensor für Leiterplattentester
 K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b3040.gif
+$ENDCMP
+#
+$CMP B304D
+D Initiatorschaltkreis für induktive, kapazitive und optische Näherungsschalter
+K (TCA205A)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b303.gif
+$ENDCMP
+#
+$CMP B305D
+D Initiatorschaltkreis für induktive, kapazitive und optische Näherungsschalter, mit LED-Ausgang
+K (TCA205A)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b303.gif
+$ENDCMP
+#
+$CMP B306D
+D Initiatorschaltkreis für induktive, kapazitive und optische Näherungsschalter
+K (TCA205A)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b303.gif
 $ENDCMP
 #
 $CMP B308D
