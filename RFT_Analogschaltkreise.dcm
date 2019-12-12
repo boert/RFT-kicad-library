@@ -42,6 +42,18 @@ K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
 $ENDCMP
 #
+$CMP B176D
+D Programmierbarer OPV
+K µA176
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b176.gif
+$ENDCMP
+#
+$CMP B177D
+D Programmierbarer OPV
+K µA177
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b176.gif
+$ENDCMP
+#
 $CMP B222D
 D Doppelgegentaktmischer
 K ~
@@ -52,6 +64,24 @@ $CMP B260D
 D Ansteuerschaltkreis für Schaltnetzteile
 K TDA1060
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b260.gif
+$ENDCMP
+#
+$CMP B2761D
+D 2-fach OPV mit offenem Kollektor
+K TAA2761A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B2765D
+D 2-fach OPV mit offenem Kollektor
+K TAA2765A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B2765S
+D 2-fach OPV mit Darlington-Ausgang
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b2765.gif
 $ENDCMP
 #
 $CMP B2960VG
@@ -198,6 +228,12 @@ K UAA4002DP
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b4002.gif
 $ENDCMP
 #
+$CMP B411DD
+D Präzisions-BIFET-OPV, interne Frequenzkompensation, Offsetabgleich
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b411.gif
+$ENDCMP
+#
 $CMP B4206D
 D Drehzahlregelung, stromgeführt
 K ~
@@ -216,6 +252,18 @@ K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b4211.gif
 $ENDCMP
 #
+$CMP B4761D
+D 4-fach OPV mit offenem Kollektor
+K TAA4761A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B4765D
+D 4-fach OPV mit offenem Kollektor
+K TAA4765A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
 $CMP B555D
 D Zeitgeber mit 200-mA-Ausgang
 K LM555CN
@@ -228,10 +276,70 @@ K LM556CN
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b555.gif
 $ENDCMP
 #
+$CMP B611D
+D OPV mit TTL-Ausgang
+K TCA311A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B615D
+D OPV mit TTL-Ausgang
+K TCA315A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B621D
+D OPV mit TTL-Ausgang
+K TCA321A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B625D
+D OPV mit TTL-Ausgang
+K TCA325A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B631D
+D OPV mit offenem Kollektor
+K TCA331A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B635D
+D OPV mit offenem Kollektor
+K TCA335A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
 $CMP B654D
 D Servomotor-Steuerschaltkreis mit Brückenschaltung
 K SN28654
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b654.gif
+$ENDCMP
+#
+$CMP B761D
+D OPV mit offenem Kollektor
+K TAA761A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B765D
+D OPV mit offenem Kollektor
+K TAA765A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B861D
+D OPV mit offenem Kollektor
+K TAA861A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
+$ENDCMP
+#
+$CMP B865D
+D OPV mit offenem Kollektor
+K TAA865A
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b611.gif
 $ENDCMP
 #
 $CMP C500D
