@@ -54,6 +54,12 @@ K TDA1060
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b260.gif
 $ENDCMP
 #
+$CMP B308D
+D NF-Verstärker für Telefonhörer
+K (TBA830)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b308.gif
+$ENDCMP
+#
 $CMP B3170V
 D Positiv-Spannungsregler, einstellbar
 K LM317T
@@ -64,6 +70,12 @@ $CMP B3171V
 D Positiv-Spannungsregler, einstellbar
 K LM317HV
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
+$ENDCMP
+#
+$CMP B318D
+D NF-Verstärker für Telefonhörer
+K (TBA830)
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b308.gif
 $ENDCMP
 #
 $CMP B3370V
