@@ -96,6 +96,12 @@ K (TBA830)
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b308.gif
 $ENDCMP
 #
+$CMP B315D
+D Transistor-Leistungs-Array
+K Q2T2222
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b315.gif
+$ENDCMP
+#
 $CMP B3170V
 D Positiv-Spannungsregler, einstellbar
 K LM317T
@@ -114,6 +120,12 @@ K (TBA830)
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b308.gif
 $ENDCMP
 #
+$CMP B325D
+D Transistor-Leistungs-Array
+K Q2T2222
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b315.gif
+$ENDCMP
+#
 $CMP B3370V
 D Negativ-Spannungsregler, einstellbar
 K LM337T
@@ -126,10 +138,40 @@ K LM337HV
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b3170.gif
 $ENDCMP
 #
+$CMP B340D
+D Transistor-Kleinleistungs-Array
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b340.gif
+$ENDCMP
+#
+$CMP B341D
+D Transistor-Kleinleistungs-Array
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b340.gif
+$ENDCMP
+#
+$CMP B342D
+D Transistor-Kleinleistungs-Array
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b340.gif
+$ENDCMP
+#
+$CMP B360D
+D Transistor-Leistungs-Array
+K TPQ2222, TPQ3724
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b315.gif
+$ENDCMP
+#
 $CMP B3718VC
 D Schrittmotor-Treiberschaltkreis
 K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b3718.gif
+$ENDCMP
+#
+$CMP B380D
+D Transistor-Leistungs-Array
+K TPQ2221, TPQ3725
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b315.gif
 $ENDCMP
 #
 $CMP B390D
