@@ -324,4 +324,10 @@ K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/E310.pdf
 $ENDCMP
 #
+$CMP U7650DD
+D Chopperstabilisierter CMOS-OPV
+K ICL7650
+F https://www.tu-chemnitz.de/etit/zentral/ddr/u7650.gif
+$ENDCMP
+#
 #End Doc Library
