@@ -54,6 +54,12 @@ K TDA1060
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b260.gif
 $ENDCMP
 #
+$CMP B2960VG
+D Schaltregler-Schaltkreis
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b2960.gif
+$ENDCMP
+#
 $CMP B308D
 D NF-Verstärker für Telefonhörer
 K (TBA830)
