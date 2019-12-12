@@ -126,6 +126,30 @@ K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b3925.gif
 $ENDCMP
 #
+$CMP B4002D
+D Schnittstelle Logik zu Leistung
+K UAA4002DP
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b4002.gif
+$ENDCMP
+#
+$CMP B4206D
+D Drehzahlregelung, stromgeführt
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b4206.gif
+$ENDCMP
+#
+$CMP B4207D
+D Drehzahlregelung, tachogeführt
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b4207.gif
+$ENDCMP
+#
+$CMP B4211D
+D Drehzahlregelung, tachogeführt, Phasenanschnitt
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b4211.gif
+$ENDCMP
+#
 $CMP B555D
 D Zeitgeber mit 200-mA-Ausgang
 K LM555CN
