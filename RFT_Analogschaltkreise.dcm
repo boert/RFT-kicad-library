@@ -60,6 +60,12 @@ K ~
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b2960.gif
 $ENDCMP
 #
+$CMP B3040DA
+D Treiber-Sensor für Leiterplattentester
+K ~
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b3040.gif
+$ENDCMP
+#
 $CMP B308D
 D NF-Verstärker für Telefonhörer
 K (TBA830)
