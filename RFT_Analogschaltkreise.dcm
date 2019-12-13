@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP A109D
+D Universeller OPV
+K https://www.tu-chemnitz.de/etit/zentral/ddr/b109.gif
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b109.gif
+$ENDCMP
+#
 $CMP A202D
 D Aufnahme-, Mikrofon- und Wiedergabeverstärker
 K TDA1002
@@ -40,6 +46,48 @@ $CMP B066D
 D Kleinleistungs-BIFET-OPV, interne Frequenzkompensation, Offsetabgleich, Leistungssteuerung
 K TL066
 F https://www.tu-chemnitz.de/etit/zentral/ddr/b060.gif
+$ENDCMP
+#
+$CMP B080D
+D BIFET-OPV, externe Frequenzkompensation, Offsetabgleich
+K TL080
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b080.gif
+$ENDCMP
+#
+$CMP B081D
+D BIFET-OPV, interne Frequenzkompensation, Offsetabgleich
+K TL081
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b080.gif
+$ENDCMP
+#
+$CMP B082D
+D zweifach BIFET-OPV, interne Frequenzkompensation
+K TL082
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b080.gif
+$ENDCMP
+#
+$CMP B083D
+D zweifach BIFET-OPV, interne Frequenzkompensation, Offsetabgleich
+K TL083
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b080.gif
+$ENDCMP
+#
+$CMP B084D
+D vierfach BIFET-OPV, interne Frequenzkompensation
+K TL084
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b080.gif
+$ENDCMP
+#
+$CMP B109D
+D Universeller OPV
+K https://www.tu-chemnitz.de/etit/zentral/ddr/b109.gif
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b109.gif
+$ENDCMP
+#
+$CMP B165D
+D Leistungs-OPV 20 W
+K L165
+F https://www.tu-chemnitz.de/etit/zentral/ddr/b165.gif
 $ENDCMP
 #
 $CMP B176D
