@@ -1,19 +1,13 @@
 # RFT-kicad-library
 KiCAD symbols for semiconductors from GDR
-<<<<<<< HEAD
 
-=======
->>>>>>> 8368027bac481232288c3d67c32b626df3255f5a
 KiCAD-Symbole für in der DDR hergestellte Halbleiter
 
 ```
 Achtung: Verwendung auf eigene Gefahr!
-<<<<<<< HEAD
+
 Die Bauteile wurden anhand der Datenblättern erstellt und 
 nur zu einem kleinen Teil in realen Schaltungen gerüft.
-=======
-Die Bauteile wurden anhand der Datenblättern erstellt und nur zu einem kleinen Teil in realen Schaltungen gerüft.
->>>>>>> 8368027bac481232288c3d67c32b626df3255f5a
 
 ```
 
