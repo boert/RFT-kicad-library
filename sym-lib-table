@@ -2,4 +2,5 @@
   (lib (name RFT_Analogschaltkreise)(type Legacy)(uri ${KIPRJMOD}/RFT_Analogschaltkreise.lib)(options "")(descr ""))
   (lib (name RFT_Optoelektronik)(type Legacy)(uri ${KIPRJMOD}/RFT_Optoelektronik.lib)(options "")(descr ""))
   (lib (name RFT_Transistoren_und_Dioden)(type Legacy)(uri ${KIPRJMOD}/RFT_Transistoren_und_Dioden.lib)(options "")(descr ""))
+  (lib (name RFT_Digitalschaltkreise)(type Legacy)(uri ${KIPRJMOD}/RFT_Digitalschaltkreise.lib)(options "")(descr ""))
 )

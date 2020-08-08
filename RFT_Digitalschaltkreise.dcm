@@ -1,0 +1,91 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D100D
+D 4 NAND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d100.gif
+$ENDCMP
+#
+$CMP D103D
+D 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d103.gif
+$ENDCMP
+#
+$CMP D104D
+D 6 Inverter
+$ENDCMP
+#
+$CMP D108D
+D 4 AND-Gatter mit je 2 Eingängen
+$ENDCMP
+#
+$CMP D110D
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d110.gif
+$ENDCMP
+#
+$CMP D200D
+D 4 NAND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d200.gif
+$ENDCMP
+#
+$CMP D201D
+D 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d201.gif
+$ENDCMP
+#
+$CMP D204D
+D 6 Inverter
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d204.gif
+$ENDCMP
+#
+$CMP D210
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d210.gif
+$ENDCMP
+#
+$CMP D210D
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d210.gif
+$ENDCMP
+#
+$CMP DL000D
+D 4 NAND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl000.gif
+$ENDCMP
+#
+$CMP DL002D
+D 4 NOR-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl000.gif
+$ENDCMP
+#
+$CMP DL003D
+D 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl003.gif
+$ENDCMP
+#
+$CMP DL004D
+D 6 Inverter
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl003.gif
+$ENDCMP
+#
+$CMP DL005DC
+D 6 Inverter
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?139
+$ENDCMP
+#
+$CMP DL008D
+D 4 AND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP DL010D
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP DL011D
+D 3 AND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+#End Doc Library
