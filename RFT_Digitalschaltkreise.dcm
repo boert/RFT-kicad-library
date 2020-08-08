@@ -23,6 +23,31 @@ D 3 NAND-Gatter mit je 3 Eingängen
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d110.gif
 $ENDCMP
 #
+$CMP D120D
+D 2 NAND-Gatter mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d120.gif
+$ENDCMP
+#
+$CMP D126D
+D 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor, 12V
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d126.gif
+$ENDCMP
+#
+$CMP D130D
+D 1 NAND-Gatter mit 8 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d130.gif
+$ENDCMP
+#
+$CMP D140D
+D 2 NAND-Treiber mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d140.gif
+$ENDCMP
+#
+$CMP D174D
+D 2 positiv flanken-getrigge D-Flip-Flop
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d174.gif
+$ENDCMP
+#
 $CMP D200D
 D 4 NAND-Gatter mit je 2 Eingängen
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d200.gif
@@ -38,14 +63,29 @@ D 6 Inverter
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d204.gif
 $ENDCMP
 #
-$CMP D210
+$CMP D210D
 D 3 NAND-Gatter mit je 3 Eingängen
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d210.gif
 $ENDCMP
 #
-$CMP D210D
-D 3 NAND-Gatter mit je 3 Eingängen
-F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d210.gif
+$CMP D220D
+D 2 NAND-Gatter mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d220.gif
+$ENDCMP
+#
+$CMP D230D
+D 1 NAND-Gatter mit 8 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d230.gif
+$ENDCMP
+#
+$CMP D240D
+D 2 NAND-Treiber mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d240.gif
+$ENDCMP
+#
+$CMP D274D
+D 2 positiv flanken-getrigge D-Flip-Flop
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d274.gif
 $ENDCMP
 #
 $CMP DL000D
@@ -69,7 +109,7 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP DL005DC
-D 6 Inverter
+D 6 Inverter mit offenem Kollektor
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?139
 $ENDCMP
 #
@@ -86,6 +126,81 @@ $ENDCMP
 $CMP DL011D
 D 3 AND-Gatter mit je 3 Eingängen
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP DL014D
+D 6 Schmitt-Trigger-Inverter
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl014.gif
+$ENDCMP
+#
+$CMP DL016D
+D 6 Inverter mit offenem Kollektor
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?144
+$ENDCMP
+#
+$CMP DL020D
+D 2 NAND-Gatter mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl014.gif
+$ENDCMP
+#
+$CMP DL021D
+D 2 AND-Gatter mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl021.gif
+$ENDCMP
+#
+$CMP DL026D
+D 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor, 15V
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?147
+$ENDCMP
+#
+$CMP DL030D
+D 1 NAND-Gatter mit 8 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl021.gif
+$ENDCMP
+#
+$CMP DL032D
+D 4 OR-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?149
+$ENDCMP
+#
+$CMP DL037D
+D 4 NAND-Treiber mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl037.gif
+$ENDCMP
+#
+$CMP DL038D
+D 4 NAND-Treiber mit je 2 Eingängen, offener Kollektor
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl037.gif
+$ENDCMP
+#
+$CMP DL040D
+D 2 NAND-Treiber mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl040.gif
+$ENDCMP
+#
+$CMP DL051D
+D 2 AND-NOR-Getter mit 2×3 Eingängen bzw. 2×2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl040.gif
+$ENDCMP
+#
+$CMP DL074D
+D 2 positiv flanken-getrigge D-Flip-Flop
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl074.gif
+$ENDCMP
+#
+$CMP DL086D
+D 4 Exklusiv-OR-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl074.gif
+$ENDCMP
+#
+$CMP DL155D
+D Dekoder/Demultiplexer
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl155.gif
+$ENDCMP
+#
+$CMP DL374D
+D 8 D-Flip-Flop mit Freigabeeingang
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?174
 $ENDCMP
 #
 #End Doc Library

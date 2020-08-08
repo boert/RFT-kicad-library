@@ -163,6 +163,51 @@ SF129       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnel
 SSY20       | Si-npn-Schalttransistor für EDV
 
 
+## Digitalschaltkreise
+
+Bezeichnung | Beschreibung
+----------- | ------------
+D100D       | NAND-Gatter mit 2 Eingängen
+D103D       | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
+D104D       | 6 Inverter
+D108D       | 4 AND-Gatter mit je 2 Eingängen
+D110D       | 3 NAND-Gatter mit je 3 Eingängen
+D120D       | 2 NAND-Gatter mit je 4 Eingängen
+D126D       | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor, 12V
+D130D       | 1 NAND-Gatter mit 8 Eingängen
+D140D       | 2 NAND-Treiber mit je 4 Eingängen
+D174D       | 2 positiv flanken-getrigge D-Flip-Flop
+D200D       | 4 NAND-Gatter mit je 2 Eingängen
+D201D       | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
+D204D       | 6 Inverter
+D210D       | 3 NAND-Gatter mit je 3 Eingängen
+D220D       | 2 NAND-Gatter mit je 4 Eingängen
+D230D       | 1 NAND-Gatter mit 8 Eingängen
+D240D       | 2 NAND-Treiber mit je 4 Eingängen
+D274D       | 2 positiv flanken-getrigge D-Flip-Flop
+DL000D      | 4 NAND-Gatter mit je 2 Eingängen
+DL002D      | 4 NOR-Gatter mit je 2 Eingängen
+DL003D      | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
+DL004D      | 6 Inverter
+DL005DC     | 6 Inverter mit offenem Kollektor
+DL008D      | 4 AND-Gatter mit je 2 Eingängen
+DL010D      | 3 NAND-Gatter mit je 3 Eingängen
+DL011D      | 3 AND-Gatter mit je 3 Eingängen
+DL014D      | 6 Schmitt-Trigger-Inverter
+DL016D      | 6 Inverter mit offenem Kollektor
+DL020D      | 2 NAND-Gatter mit je 4 Eingängen
+DL021D      | 2 AND-Gatter mit je 4 Eingängen
+DL026D      | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor, 15V
+DL030D      | 1 NAND-Gatter mit 8 Eingängen
+DL032D      | 4 OR-Gatter mit je 2 Eingängen
+DL037D      | 4 NAND-Treiber mit je 2 Eingängen
+DL038D      | 4 NAND-Treiber mit je 2 Eingängen, offener Kollektor
+DL040D      | 2 NAND-Treiber mit je 4 Eingängen
+DL051D      | 2 AND-NOR-Getter mit 2×3 Eingängen bzw. 2×2 Eingängen
+DL074D      | 2 positiv flanken-getrigge D-Flip-Flop
+DL086D      | 4 Exklusiv-OR-Gatter mit je 2 Eingängen
+DL155D      | Dekoder/Demultiplexer
+DL374D      | 8 D-Flip-Flop mit Freigabeeingang
 
 
 
