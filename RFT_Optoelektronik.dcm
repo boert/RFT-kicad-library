@@ -82,4 +82,166 @@ K CNY17
 F https://www.tu-chemnitz.de/etit/zentral/ddr/mb133.gif
 $ENDCMP
 #
+$CMP VQ110
+D Infrarotemitterdiode 940nm, 4mm, rund
+K IR
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vq110.gif
+$ENDCMP
+#
+$CMP VQ120
+D Infrarotemitterdiode 940nm, In-Loch-Montage
+K IR
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vq120.gif
+$ENDCMP
+#
+$CMP VQ121
+D GaAs Infrarotemitterdiode 940nm, 2mm
+K IR
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vq121.gif
+$ENDCMP
+#
+$CMP VQ123
+D Infrarotemitterdiode 940nm, 3mm, rund
+K IR
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vq123.gif
+$ENDCMP
+#
+$CMP VQ125
+D Infrarotemitterdiode 900nm...980nm, 5mm, rund
+K IR
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vq125.gif
+$ENDCMP
+#
+$CMP VQA10
+D Leuchtdiode rot, 635nm, 5mm, rund, rot diffus
+K IR
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa10.gif
+$ENDCMP
+#
+$CMP VQA12
+D Leuchtdiode rot, 630nm...690nm, 4mm, rund, rot diffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa12.gif
+$ENDCMP
+#
+$CMP VQA13
+D Leuchtdiode rot, 660nm, 5mm, rund, diffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa13.gif
+$ENDCMP
+#
+$CMP VQA14
+D Leuchtdiode rot, 635nm, 5mm, rechteckig anreihbar, teildiffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa14.gif
+$ENDCMP
+#
+$CMP VQA15
+D Leuchtdiode rot, 660nm, 2mm, rund, farblos
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa15.gif
+$ENDCMP
+#
+$CMP VQA16
+D Leuchtdiode rot, 635nm, 5mm, rund, Farbe klar
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa16.gif
+$ENDCMP
+#
+$CMP VQA17
+D Leuchtdiode rot, 635nm, 3mm, rund, Farbe diffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa17.gif
+$ENDCMP
+#
+$CMP VQA18
+D Leuchtdiode rot, 635nm, 5mm, rechteckig nicht anreihbar, teildiffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa18.gif
+$ENDCMP
+#
+$CMP VQA23
+D Leuchtdiode grün, 560nm, 5mm, rund, diffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa13.gif
+$ENDCMP
+#
+$CMP VQA24
+D Leuchtdiode grün, 560nm, 5mm, rechteckig anreihbar, teildiffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa14.gif
+$ENDCMP
+#
+$CMP VQA25
+D Leuchtdiode grün, 560nm, 2mm, rund, Farbe klar
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa15.gif
+$ENDCMP
+#
+$CMP VQA26
+D Leuchtdiode grün, 560nm, 5mm, rund, Farbe klar
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa16.gif
+$ENDCMP
+#
+$CMP VQA27
+D Leuchtdiode grün, 560nm, 3mm, rund, Farbe diffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa17.gif
+$ENDCMP
+#
+$CMP VQA28
+D Leuchtdiode grün, 560nm, 5mm, rechteckig nicht anreihbar, teildiffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa18.gif
+$ENDCMP
+#
+$CMP VQA33
+D Leuchtdiode gelb, 590nm, 5mm, rund, diffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa13.gif
+$ENDCMP
+#
+$CMP VQA34
+D Leuchtdiode gelb, 590nm, 5mm, rechteckig anreihbar, teildiffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa14.gif
+$ENDCMP
+#
+$CMP VQA35
+D Leuchtdiode gelb, 590nm, 2mm, rund, Farbe klar
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa15.gif
+$ENDCMP
+#
+$CMP VQA36
+D Leuchtdiode gelb, 590nm, 5mm, rund, Farbe klar
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa16.gif
+$ENDCMP
+#
+$CMP VQA37
+D Leuchtdiode gelb, 590nm, 3mm, rund, Farbe diffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa17.gif
+$ENDCMP
+#
+$CMP VQA38
+D Leuchtdiode gelb, 590nm, 5mm, rechteckig nicht anreihbar, teildiffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa18.gif
+$ENDCMP
+#
+$CMP VQA46
+D Leuchtdiode orange, 610nm, 5mm, rund, Farbe klar
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa16.gif
+$ENDCMP
+#
+$CMP VQA47
+D Leuchtdiode orange, 610nm, 3mm, rund, Farbe diffus
+K LED
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/vqa17.gif
+$ENDCMP
+#
 #End Doc Library

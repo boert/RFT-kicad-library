@@ -119,6 +119,33 @@ MB126       | Reflexkoppler: GaAs-LED + Si-Fototransistor
 MB133       | IR-LED + Si-npn-Fototransistor
 MB134       | IR-LED + Si-npn-Fototransistor
 MB135       | IR-LED + Si-npn-Fototransistor
+VQ110       | Infrarotemitterdiode 940nm, 4mm, rund
+VQ120       | Infrarotemitterdiode 940nm, In-Loch-Montage
+VQ121       | GaAs Infrarotemitterdiode 940nm, 2mm
+VQ123       | Infrarotemitterdiode 940nm, 3mm, rund
+VQ125       | Infrarotemitterdiode 900nm...980nm, 5mm, rund
+VQA10       | Leuchtdiode rot, 635nm, 5mm, rund, rot diffus
+VQA12       | Leuchtdiode rot, 630nm...690nm, 4mm, rund, rot diffus
+VQA13       | Leuchtdiode rot, 660nm, 5mm, rund, diffus
+VQA14       | Leuchtdiode rot, 635nm, 5mm, rechteckig anreihbar, teildiffus
+VQA15       | Leuchtdiode rot, 660nm, 2mm, rund, farblos
+VQA16       | Leuchtdiode rot, 635nm, 5mm, rund, Farbe klar
+VQA17       | Leuchtdiode rot, 635nm, 3mm, rund, Farbe diffus
+VQA18       | Leuchtdiode rot, 635nm, 5mm, rechteckig nicht anreihbar, teildiffus
+VQA23       | Leuchtdiode grün, 560nm, 5mm, rund, diffus
+VQA24       | Leuchtdiode grün, 560nm, 5mm, rechteckig anreihbar, teildiffus
+VQA25       | Leuchtdiode grün, 560nm, 2mm, rund, Farbe klar
+VQA26       | Leuchtdiode grün, 560nm, 5mm, rund, Farbe klar
+VQA27       | Leuchtdiode grün, 560nm, 3mm, rund, Farbe diffus
+VQA28       | Leuchtdiode grün, 560nm, 5mm, rechteckig nicht anreihbar, teildiffus
+VQA33       | Leuchtdiode gelb, 590nm, 5mm, rund, diffus
+VQA34       | Leuchtdiode gelb, 590nm, 5mm, rechteckig anreihbar, teildiffus
+VQA35       | Leuchtdiode gelb, 590nm, 2mm, rund, Farbe klar
+VQA36       | Leuchtdiode gelb, 590nm, 5mm, rund, Farbe klar
+VQA37       | Leuchtdiode gelb, 590nm, 3mm, rund, Farbe diffus
+VQA38       | Leuchtdiode gelb, 590nm, 5mm, rechteckig nicht anreihbar, teildiffus
+VQA46       | Leuchtdiode orange, 610nm, 5mm, rund, Farbe klar
+VQA47       | Leuchtdiode orange, 610nm, 3mm, rund, Farbe diffus
 
 
 ## Transistoren & Dioden
