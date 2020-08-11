@@ -9,6 +9,8 @@ Achtung: Verwendung auf eigene Gefahr!
 Die Bauteile wurden anhand der Datenblättern erstellt und 
 nur zu einem kleinen Teil in realen Schaltungen gerüft.
 
+Hinweise zu Fehlern und Verbesserungen werden gern entgegengenommen.
+
 ```
 
 
@@ -208,6 +210,9 @@ DL074D      | 2 positiv flanken-getrigge D-Flip-Flop
 DL086D      | 4 Exklusiv-OR-Gatter mit je 2 Eingängen
 DL155D      | Dekoder/Demultiplexer
 DL374D      | 8 D-Flip-Flop mit Freigabeeingang
+U2764       | 8k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+U27128      | 16k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+U27256      | 32k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 
 
 

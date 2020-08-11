@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Brücke
+D Brücke, geöffnet
+F ~
+$ENDCMP
+#
 $CMP D100D
 D 4 NAND-Gatter mit je 2 Eingängen
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d100.gif
@@ -201,6 +206,21 @@ $ENDCMP
 $CMP DL374D
 D 8 D-Flip-Flop mit Freigabeeingang
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?174
+$ENDCMP
+#
+$CMP U27128
+D 16k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+K EPROM
+$ENDCMP
+#
+$CMP U27256
+D 32k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+K EPROM
+$ENDCMP
+#
+$CMP U2764
+D 8k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+K EPROM
 $ENDCMP
 #
 #End Doc Library
