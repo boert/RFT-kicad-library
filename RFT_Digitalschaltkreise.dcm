@@ -209,17 +209,17 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP U27128
-D 16k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+D 16K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 K EPROM
 $ENDCMP
 #
 $CMP U27256
-D 32k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+D 32K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 K EPROM
 $ENDCMP
 #
 $CMP U2764
-D 8k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+D 8K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 K EPROM
 $ENDCMP
 #
