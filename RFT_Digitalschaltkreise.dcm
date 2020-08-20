@@ -235,9 +235,129 @@ K EPROM
 F http://informatik.rostfrank.de/rt/lex10/rom/2732.html
 $ENDCMP
 #
+$CMP U27512
+D 64K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+K EPROM
+$ENDCMP
+#
 $CMP U2764
 D 8K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 K EPROM
+$ENDCMP
+#
+$CMP К555ИД4
+D Dekoder/Demultiplexer
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl155.gif
+$ENDCMP
+#
+$CMP К555ИР23
+D 8 D-Flip-Flop mit Freigabeeingang
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?174
+$ENDCMP
+#
+$CMP К555ЛА1
+D 2 NAND-Gatter mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl014.gif
+$ENDCMP
+#
+$CMP К555ЛА11
+D 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor, 15V
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?147
+$ENDCMP
+#
+$CMP К555ЛА12
+D 4 NAND-Treiber mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl037.gif
+$ENDCMP
+#
+$CMP К555ЛА13
+D 4 NAND-Treiber mit je 2 Eingängen, offener Kollektor
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl037.gif
+$ENDCMP
+#
+$CMP К555ЛА2
+D 1 NAND-Gatter mit 8 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl021.gif
+$ENDCMP
+#
+$CMP К555ЛА3
+D 4 NAND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl000.gif
+$ENDCMP
+#
+$CMP К555ЛА4
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP К555ЛА6
+D 2 NAND-Treiber mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl040.gif
+$ENDCMP
+#
+$CMP К555ЛА9
+D 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl003.gif
+$ENDCMP
+#
+$CMP К555ЛЕ1
+D 4 NOR-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl000.gif
+$ENDCMP
+#
+$CMP К555ЛИ1
+D 4 AND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP К555ЛИ3
+D 3 AND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl008.gif
+$ENDCMP
+#
+$CMP К555ЛИ6
+D 2 AND-Gatter mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl021.gif
+$ENDCMP
+#
+$CMP К555ЛЛ1
+D 4 OR-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?149
+$ENDCMP
+#
+$CMP К555ЛН1
+D 6 Inverter
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl003.gif
+$ENDCMP
+#
+$CMP К555ЛН2
+D 6 Inverter mit offenem Kollektor
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?139
+$ENDCMP
+#
+$CMP К555ЛП5
+D 4 Exklusiv-OR-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl074.gif
+$ENDCMP
+#
+$CMP К555ЛР11
+D 2 AND-NOR-Getter mit 2×3 Eingängen bzw. 2×2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl040.gif
+$ENDCMP
+#
+$CMP К555ТЛ2
+D 6 Schmitt-Trigger-Inverter
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl014.gif
+$ENDCMP
+#
+$CMP К555ТМ2
+D 2 positiv flanken-getrigge D-Flip-Flop
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl074.gif
+$ENDCMP
+#
+$CMP К555ТМ8
+D 4 D-Flip-Flop, gemeinsamer Clear- und Takteingang
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl155.gif
 $ENDCMP
 #
 #End Doc Library
