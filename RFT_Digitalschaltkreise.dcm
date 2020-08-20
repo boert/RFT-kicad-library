@@ -189,13 +189,33 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP DL074D
-D 2 positiv flanken-getrigge D-Flip-Flop
+D 2 positiv flanken-getriggerte D-Flip-Flop
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl074.gif
+$ENDCMP
+#
+$CMP DL083D
+D 4 Bit Volladdierer
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?155
 $ENDCMP
 #
 $CMP DL086D
 D 4 Exklusiv-OR-Gatter mit je 2 Eingängen
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl074.gif
+$ENDCMP
+#
+$CMP DL090D
+D Dezimalzähler 4 Bit
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl090.gif
+$ENDCMP
+#
+$CMP DL093D
+D 4 Bit Binärzähler
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl093.gif
+$ENDCMP
+#
+$CMP DL112D
+D 2 negativ flanken-getriggerte JK-Flip-Flop
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl112.gif
 $ENDCMP
 #
 $CMP DL155D
@@ -248,6 +268,21 @@ $ENDCMP
 $CMP К555ИД4
 D Dekoder/Demultiplexer
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl155.gif
+$ENDCMP
+#
+$CMP К555ИЕ2
+D Dezimalzähler 4 Bit
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl090.gif
+$ENDCMP
+#
+$CMP К555ИЕ5
+D 4 Bit Binärzähler
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl093.gif
+$ENDCMP
+#
+$CMP К555ИМ3
+D 4 Bit Volladdierer
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl090.gif
 $ENDCMP
 #
 $CMP К555ИР23
@@ -343,6 +378,11 @@ $ENDCMP
 $CMP К555ЛР11
 D 2 AND-NOR-Getter mit 2×3 Eingängen bzw. 2×2 Eingängen
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl040.gif
+$ENDCMP
+#
+$CMP К555ТВ9
+D 2 negativ flanken-getrigge JK-Flip-Flop
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl112.gif
 $ENDCMP
 #
 $CMP К555ТЛ2

@@ -206,8 +206,12 @@ DL037D      | 4 NAND-Treiber mit je 2 Eingängen
 DL038D      | 4 NAND-Treiber mit je 2 Eingängen, offener Kollektor
 DL040D      | 2 NAND-Treiber mit je 4 Eingängen
 DL051D      | 2 AND-NOR-Getter mit 2×3 Eingängen bzw. 2×2 Eingängen
-DL074D      | 2 positiv flanken-getrigge D-Flip-Flop
+DL074D      | 2 positiv flanken-getriggerte D-Flip-Flop
+DL083D      | 4 Bit Volladdierer
 DL086D      | 4 Exklusiv-OR-Gatter mit je 2 Eingängen
+DL090D      | Dezimalzähler 4 Bit
+DL093D      | 4 Bit Binärzähler
+DL112D      | 2 negativ flanken-getriggerte JK-Flip-Flop
 DL155D      | Dekoder/Demultiplexer
 DL175D      | 4 D-Flip-Flop, gemeinsamer Clear- und Takteingang
 DL374D      | 8 D-Flip-Flop mit Freigabeeingang
@@ -216,6 +220,7 @@ U2732       | 4k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U2764       | 8k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U27128      | 16k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U27256      | 32k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
+U27512      | 64k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 
 
 
