@@ -228,9 +228,49 @@ D 4 D-Flip-Flop, gemeinsamer Clear- und Takteingang
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl155.gif
 $ENDCMP
 #
+$CMP DL251D
+D 8- auf 1-Multiplexer mit Tristate-Ausgängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl251.gif
+$ENDCMP
+#
+$CMP DL253D
+D Zweifach 4- auf 1-Multiplexer mit Tristate-Ausgängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl251.gif
+$ENDCMP
+#
+$CMP DL257D
+D Vierfach 2- auf 1-Multiplexer mit Tristate-Ausgängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl251.gif
+$ENDCMP
+#
+$CMP DL259D
+D 8-Bit-Latch, adressierbar, mit Enable und Clear 
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?171
+$ENDCMP
+#
+$CMP DL295D
+D 4 Bit Rechts-/Links-Schieberegister
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl194.gif
+$ENDCMP
+#
+$CMP DL299D
+D 8 Bit Universalschieberegister
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?173
+$ENDCMP
+#
 $CMP DL374D
 D 8 D-Flip-Flop mit Freigabeeingang
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?174
+$ENDCMP
+#
+$CMP DL540D
+D 8 Bit Leitungstreiber, invertierend, Tristäte-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?175
+$ENDCMP
+#
+$CMP DL541D
+D 8 Bit Leitungstreiber, nichtinvertierend, Tristäte-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?175
 $ENDCMP
 #
 $CMP U27128
@@ -285,9 +325,39 @@ D 4 Bit Volladdierer
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl090.gif
 $ENDCMP
 #
+$CMP К555ИР16
+D 4 Bit Rechts-/Links-Schieberegister
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl194.gif
+$ENDCMP
+#
 $CMP К555ИР23
 D 8 D-Flip-Flop mit Freigabeeingang
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?174
+$ENDCMP
+#
+$CMP К555ИР24
+D 8 Bit Universalschieberegister
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?173
+$ENDCMP
+#
+$CMP К555ИР30
+D 8-Bit-Latch, adressierbar, mit Enable und Clear
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?171
+$ENDCMP
+#
+$CMP К555КП11
+D Vierfach 2- auf 1-Multiplexer mit Tristate-Ausgängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl251.gif
+$ENDCMP
+#
+$CMP К555КП12
+D Zweifach 4- auf 1-Multiplexer mit Tristate-Ausgängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl251.gif
+$ENDCMP
+#
+$CMP К555КП15
+D 8- auf 1-Multiplexer mit Tristate-Ausgängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl251.gif
 $ENDCMP
 #
 $CMP К555ЛА1

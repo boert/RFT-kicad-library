@@ -7,7 +7,7 @@ KiCAD-Symbole für in der DDR hergestellte Halbleiter
 Achtung: Verwendung auf eigene Gefahr!
 
 Die Bauteile wurden anhand der Datenblättern erstellt und 
-nur zu einem kleinen Teil in realen Schaltungen gerüft.
+nur zu einem sehr kleinen Teil in realen Schaltungen geprüft.
 
 Hinweise zu Fehlern und Verbesserungen werden gern entgegengenommen.
 
@@ -214,7 +214,15 @@ DL093D      | 4 Bit Binärzähler
 DL112D      | 2 negativ flanken-getriggerte JK-Flip-Flop
 DL155D      | Dekoder/Demultiplexer
 DL175D      | 4 D-Flip-Flop, gemeinsamer Clear- und Takteingang
+DL251D      | 8- auf 1-Multiplexer mit Tristate-Ausgängen
+DL253D      | Zweifach 4- auf 1-Multiplexer mit Tristate-Ausgängen
+DL257D      | Vierfach 2- auf 1-Multiplexer mit Tristate-Ausgängen
+DL259D      | 8-Bit-Latch, adressierbar, mit Enable und Clear
+DL295D      | 4 Bit Rechts-/Links-Schieberegister
+DL299D      | 8 Bit Universalschieberegister
 DL374D      | 8 D-Flip-Flop mit Freigabeeingang
+DL540D      | Bit Leitungstreiber, invertierend, Tristäte-Ausgänge
+DL541D      | Bit Leitungstreiber, nichtinvertierend, Tristäte-Ausgänge
 U2716       | 2k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U2732       | 4k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U2764       | 8k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
