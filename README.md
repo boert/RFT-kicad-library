@@ -228,6 +228,8 @@ DS8212D     | 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge
 DS8216D     | Paraleller bidirektionaler 4 Bit Bustreiber, Tristäte-Ausgänge
 DS8282D     | 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge
 DS8283D     | 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge, invertierend
+DS8286D     | 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge
+DS8287D     | 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge, invertierend
 U2716       | 2k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U2732       | 4k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U2764       | 8k × 8 bit UV-löschbarer Festwertspeicher (EPROM)

@@ -298,6 +298,16 @@ D 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge, invertierend
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8282.gif
 $ENDCMP
 #
+$CMP DS8286D
+D 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
+$ENDCMP
+#
+$CMP DS8287D
+D 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge, invertierend
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
+$ENDCMP
+#
 $CMP U27128
 D 16K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 K EPROM
