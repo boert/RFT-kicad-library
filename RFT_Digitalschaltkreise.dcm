@@ -370,6 +370,21 @@ D CPU, Zentrale Verarbeitungseinheit
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u880.gif
 $ENDCMP
 #
+$CMP UB8001C
+D 16-bit-Mikroprozessor
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u8001.gif
+$ENDCMP
+#
+$CMP UB8830
+D 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?207..
+$ENDCMP
+#
+$CMP UB8831
+D 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader, power down option
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?207..
+$ENDCMP
+#
 $CMP Z80CPU
 D CPU, Zentrale Verarbeitungseinheit
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?173

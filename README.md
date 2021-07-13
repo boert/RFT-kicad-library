@@ -239,4 +239,7 @@ U27512      | 64k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U855D       | PIO, Schaltkreis für parallele Ein-/Ausgabe
 U856D       | SIO, Schaltkreis für serielle Ein-/Ausgabe
 U880D       | CPU, Zentrale Verarbeitungseinheit
+UB8001C     | 16-bit-Mikroprozessor
+UB8830      | 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader
+UB8831      | 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader, power down option
 
