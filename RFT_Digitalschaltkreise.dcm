@@ -340,6 +340,51 @@ D 8K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 K EPROM
 $ENDCMP
 #
+$CMP U84C00
+D CPU, Zentrale Verarbeitungseinheit
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u880.gif
+$ENDCMP
+#
+$CMP U84C20
+D PIO, Schaltkreis für parallele Ein-/Ausgabe
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u855.gif
+$ENDCMP
+#
+$CMP U84C40
+D SIO, Schaltkreis für serielle Ein-/Ausgabe
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u856.gif
+$ENDCMP
+#
+$CMP U855D
+D PIO, Schaltkreis für parallele Ein-/Ausgabe
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u855.gif
+$ENDCMP
+#
+$CMP U856D
+D SIO, Schaltkreis für serielle Ein-/Ausgabe
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u856.gif
+$ENDCMP
+#
+$CMP U880D
+D CPU, Zentrale Verarbeitungseinheit
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u880.gif
+$ENDCMP
+#
+$CMP Z80CPU
+D CPU, Zentrale Verarbeitungseinheit
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?173
+$ENDCMP
+#
+$CMP Z80PIO
+D PIO, Schaltkreis für parallele Ein-/Ausgabe
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u855.gif
+$ENDCMP
+#
+$CMP Z80SIO
+D SIO, Schaltkreis für serielle Ein-/Ausgabe
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u856.gif
+$ENDCMP
+#
 $CMP К555ИД4
 D Dekoder/Demultiplexer
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl155.gif

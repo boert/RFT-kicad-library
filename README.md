@@ -236,10 +236,7 @@ U2764       | 8k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U27128      | 16k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U27256      | 32k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U27512      | 64k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
-
-
-
-
-
-
+U855D       | PIO, Schaltkreis für parallele Ein-/Ausgabe
+U856D       | SIO, Schaltkreis für serielle Ein-/Ausgabe
+U880D       | CPU, Zentrale Verarbeitungseinheit
 
