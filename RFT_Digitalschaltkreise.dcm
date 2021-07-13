@@ -244,7 +244,7 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP DL259D
-D 8-Bit-Latch, adressierbar, mit Enable und Clear 
+D 8-Bit-Latch, adressierbar, mit Enable und Clear
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?171
 $ENDCMP
 #
@@ -271,6 +271,31 @@ $ENDCMP
 $CMP DL541D
 D 8 Bit Leitungstreiber, nichtinvertierend, Tristäte-Ausgänge
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?175
+$ENDCMP
+#
+$CMP DS8205D
+D 1-aus-8 Binärdekoder
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8205.gif
+$ENDCMP
+#
+$CMP DS8212D
+D 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?175
+$ENDCMP
+#
+$CMP DS8216D
+D Paraleller bidirektionaler 4 Bit Bustreiber, Tristäte-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8216.gif
+$ENDCMP
+#
+$CMP DS8282D
+D 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8282.gif
+$ENDCMP
+#
+$CMP DS8283D
+D 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge, invertierend
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8282.gif
 $ENDCMP
 #
 $CMP U27128
