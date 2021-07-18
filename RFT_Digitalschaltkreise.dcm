@@ -269,12 +269,12 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP DL540D
-D 8 Bit Leitungstreiber, invertierend, Tristäte-Ausgänge
+D 8 Bit Leitungstreiber, invertierend, Tristate-Ausgänge
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?175
 $ENDCMP
 #
 $CMP DL541D
-D 8 Bit Leitungstreiber, nichtinvertierend, Tristäte-Ausgänge
+D 8 Bit Leitungstreiber, nichtinvertierend, Tristate-Ausgänge
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?175
 $ENDCMP
 #
@@ -284,32 +284,32 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP DS8212D
-D 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge
+D 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?175
 $ENDCMP
 #
 $CMP DS8216D
-D Paraleller bidirektionaler 4 Bit Bustreiber, Tristäte-Ausgänge
+D Paraleller bidirektionaler 4 Bit Bustreiber, Tristate-Ausgänge
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8216.gif
 $ENDCMP
 #
 $CMP DS8282D
-D 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge
+D 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8282.gif
 $ENDCMP
 #
 $CMP DS8283D
-D 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge, invertierend
+D 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge, invertierend
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8282.gif
 $ENDCMP
 #
 $CMP DS8286D
-D 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge
+D 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
 $ENDCMP
 #
 $CMP DS8287D
-D 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge, invertierend
+D 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge, invertierend
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
 $ENDCMP
 #
