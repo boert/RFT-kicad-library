@@ -394,11 +394,13 @@ $ENDCMP
 #
 $CMP UB8830
 D 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader
+K EMR
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?207..
 $ENDCMP
 #
 $CMP UB8831
 D 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader, power down option
+K EMR
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?207..
 $ENDCMP
 #
@@ -408,9 +410,39 @@ K RAM
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u224.gif
 $ENDCMP
 #
+$CMP V4001D
+D 4 NOR-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?76
+$ENDCMP
+#
 $CMP V40098D
 D 6 invertierende Treiber mit Tristate-Ausgängen
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?101
+$ENDCMP
+#
+$CMP V4011D
+D 4 NAND-Gatter mit je 2 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?78
+$ENDCMP
+#
+$CMP V4012D
+D 2 NAND-Gatter mit je 4 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?79
+$ENDCMP
+#
+$CMP V4013D
+D 2 D-Flip-Flop
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?80
+$ENDCMP
+#
+$CMP V4015D
+D 2 4-Bit Schieberegister
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?80
+$ENDCMP
+#
+$CMP V4017D
+D Dekadischer Zähler mit 10 dekodierten Ausgängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?82
 $ENDCMP
 #
 $CMP Z80CPU

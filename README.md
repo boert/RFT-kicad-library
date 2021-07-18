@@ -248,4 +248,10 @@ U880D       | CPU, Zentrale Verarbeitungseinheit
 UB8001C     | 16-bit-Mikroprozessor
 UB8830      | 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader
 UB8831      | 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader, power down option
+V4001D      | 4 NOR-Gatter mit je 2 Eingängen
+V4011D      | 4 NAND-Gatter mit je 2 Eingängen
+V4012D      | 2 NAND-Gatter mit je 4 Eingängen
+V4013D      | 2 D-Flip-Flop
+V4015D      | 2 4-Bit Schieberegister
+V4017D      | Dekadischer Zähler mit 10 dekodierten Ausgängen
 V40098D     | 6 invertierende Treiber mit Tristate-Ausgängen
