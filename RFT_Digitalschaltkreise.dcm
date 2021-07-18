@@ -357,6 +357,12 @@ D 8K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 K EPROM
 $ENDCMP
 #
+$CMP U6264D
+D 8K × 8 Bit statischer RAM
+K RAM, SRAM
+F https://cdn-reichelt.de/documents/datenblatt/A300/HM6264.pdf
+$ENDCMP
+#
 $CMP U84C00
 D CPU, Zentrale Verarbeitungseinheit
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u880.gif
