@@ -445,6 +445,27 @@ D Dekadischer Zähler mit 10 dekodierten Ausgängen
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?82
 $ENDCMP
 #
+$CMP V4019D
+D AND/OR-Auswahlgatter mit 2 Eingängen und gemeinsamer Auswahl
+K MUX, Multiplexer
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?83
+$ENDCMP
+#
+$CMP V4023D
+D 3 NAND-Gatter mit je 3 Eingängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?84
+$ENDCMP
+#
+$CMP V4027D
+D BCD-zu-Dezimal-Dekoder
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?86
+$ENDCMP
+#
+$CMP V4029D
+D Synchroner 4stufiger binärer BCD-Vor-Rückwärtszähler mit Voreinstellung
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?87
+$ENDCMP
+#
 $CMP Z80CPU
 D CPU, Zentrale Verarbeitungseinheit
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?173

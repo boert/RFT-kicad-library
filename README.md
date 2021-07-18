@@ -225,15 +225,15 @@ DL259D      | 8-Bit-Latch, adressierbar, mit Enable und Clear
 DL295D      | 4 Bit Rechts-/Links-Schieberegister
 DL299D      | 8 Bit Universalschieberegister
 DL374D      | 8 D-Flip-Flop mit Freigabeeingang
-DL540D      | Bit Leitungstreiber, invertierend, Tristäte-Ausgänge
-DL541D      | Bit Leitungstreiber, nichtinvertierend, Tristäte-Ausgänge
+DL540D      | Bit Leitungstreiber, invertierend, Tristate-Ausgänge
+DL541D      | Bit Leitungstreiber, nichtinvertierend, Tristate-Ausgänge
 DS8205D     | 1-aus-8 Binärdekoder
-DS8212D     | 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge
-DS8216D     | Paraleller bidirektionaler 4 Bit Bustreiber, Tristäte-Ausgänge
-DS8282D     | 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge
-DS8283D     | 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge, invertierend
-DS8286D     | 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge
-DS8287D     | 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge, invertierend
+DS8212D     | 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge
+DS8216D     | Paraleller bidirektionaler 4 Bit Bustreiber, Tristate-Ausgänge
+DS8282D     | 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge
+DS8283D     | 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge, invertierend
+DS8286D     | 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
+DS8287D     | 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge, invertierend
 U214D       | 1K × 4 Bit statischer RAM
 U224D       | 1K × 4 Bit statischer RAM
 U2716       | 2k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
@@ -254,4 +254,8 @@ V4012D      | 2 NAND-Gatter mit je 4 Eingängen
 V4013D      | 2 D-Flip-Flop
 V4015D      | 2 4-Bit Schieberegister
 V4017D      | Dekadischer Zähler mit 10 dekodierten Ausgängen
+V4019D      | AND/OR-Auswahlgatter mit 2 Eingängen und gemeinsamer Auswahl
+V4023D      | 3 NAND-Gatter mit je 3 Eingängen
+V4027D      | BCD-zu-Dezimal-Dekoder
+V4029D      | Synchroner 4stufiger binärer BCD-Vor-Rückwärtszähler mit Voreinstellung
 V40098D     | 6 invertierende Treiber mit Tristate-Ausgängen
