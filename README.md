@@ -158,6 +158,9 @@ SC236       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
 SC237       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
 SC238       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
 SC239       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
+SC307       | Silizium-pnp-Transistor, NF, allgemein
+SC308       | Silizium-pnp-Transistor, NF, allgemein
+SC309       | Silizium-pnp-Transistor, NF, allgemein
 SF126       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
 SF127       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
 SF128       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
@@ -179,6 +182,7 @@ D126D       | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor, 12V
 D130D       | 1 NAND-Gatter mit 8 Eingängen
 D140D       | 2 NAND-Treiber mit je 4 Eingängen
 D174D       | 2 positiv flanken-getrigge D-Flip-Flop
+D195D       | 4 Bit Links-Rechts-Schieberegister
 D200D       | 4 NAND-Gatter mit je 2 Eingängen
 D201D       | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
 D204D       | 6 Inverter
@@ -230,6 +234,8 @@ DS8282D     | 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge
 DS8283D     | 8 Bit Bustreiber mit Speicher, Tristäte-Ausgänge, invertierend
 DS8286D     | 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge
 DS8287D     | 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge, invertierend
+U214D       | 1K × 4 Bit statischer RAM
+U224D       | 1K × 4 Bit statischer RAM
 U2716       | 2k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U2732       | 4k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U2764       | 8k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
@@ -242,4 +248,4 @@ U880D       | CPU, Zentrale Verarbeitungseinheit
 UB8001C     | 16-bit-Mikroprozessor
 UB8830      | 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader
 UB8831      | 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader, power down option
-
+V40098D     | 6 invertierende Treiber mit Tristate-Ausgängen

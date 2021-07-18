@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Q_PNP_CBE
+D PNP transistor, collector/base/emitter
+K transistor PNP
+F ~
+$ENDCMP
+#
 $CMP SC236
 D Silizium-npn-Transistor für NF-Vor- und Treiberstufen
 F https://www.tu-chemnitz.de/etit/zentral/ddr/sc236.gif
@@ -18,6 +24,24 @@ $ENDCMP
 $CMP SC239
 D Silizium-npn-Transistor für NF-Vor- und Treiberstufen
 F https://www.tu-chemnitz.de/etit/zentral/ddr/sc236.gif
+$ENDCMP
+#
+$CMP SC307
+D Silizium-pnp-Transistor, NF, allgemein
+K transistor PNP
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/sc307.gif
+$ENDCMP
+#
+$CMP SC308
+D Silizium-pnp-Transistor, NF, allgemein
+K transistor PNP
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/sc307.gif
+$ENDCMP
+#
+$CMP SC309
+D Silizium-pnp-Transistor, NF, allgemein, rauscharm
+K transistor PNP
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/sc307.gif
 $ENDCMP
 #
 $CMP SF126

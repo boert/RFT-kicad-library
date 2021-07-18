@@ -49,8 +49,13 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP D174D
-D 2 positiv flanken-getrigge D-Flip-Flop
+D 2 positiv flanken-getriggerte D-Flip-Flop
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d174.gif
+$ENDCMP
+#
+$CMP D195D
+D 4 Bit Links-Rechts-Schieberegister
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d195.gif
 $ENDCMP
 #
 $CMP D200D
@@ -89,7 +94,7 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP D274D
-D 2 positiv flanken-getrigge D-Flip-Flop
+D 2 positiv flanken-getriggerte D-Flip-Flop
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d274.gif
 $ENDCMP
 #
@@ -308,6 +313,18 @@ D 8 Bit bidirektionaler Bustreiber, Tristäte-Ausgänge, invertierend
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/ds8286.gif
 $ENDCMP
 #
+$CMP U214D
+D 1K × 4 Bit statischer RAM
+K RAM
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u214.gif
+$ENDCMP
+#
+$CMP U224D
+D 1K × 4 Bit statischer RAM
+K RAM
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u224.gif
+$ENDCMP
+#
 $CMP U27128
 D 16K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 K EPROM
@@ -385,6 +402,17 @@ D 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader, power dow
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?207..
 $ENDCMP
 #
+$CMP UL224D
+D 1K × 4 Bit statischer RAM
+K RAM
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u224.gif
+$ENDCMP
+#
+$CMP V40098D
+D 6 invertierende Treiber mit Tristate-Ausgängen
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?101
+$ENDCMP
+#
 $CMP Z80CPU
 D CPU, Zentrale Verarbeitungseinheit
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?173
@@ -418,6 +446,11 @@ $ENDCMP
 $CMP К555ИМ3
 D 4 Bit Volladdierer
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl090.gif
+$ENDCMP
+#
+$CMP К555ИР1
+D 4 Bit Links-Rechts-Schieberegister
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/d195.gif
 $ENDCMP
 #
 $CMP К555ИР16
@@ -546,7 +579,7 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP К555ТВ9
-D 2 negativ flanken-getrigge JK-Flip-Flop
+D 2 negativ flanken-getriggerte JK-Flip-Flop
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl112.gif
 $ENDCMP
 #
@@ -556,7 +589,7 @@ F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/
 $ENDCMP
 #
 $CMP К555ТМ2
-D 2 positiv flanken-getrigge D-Flip-Flop
+D 2 positiv flanken-getriggerte D-Flip-Flop
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/dl074.gif
 $ENDCMP
 #
