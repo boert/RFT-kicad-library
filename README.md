@@ -259,4 +259,6 @@ V4019D      | AND/OR-Auswahlgatter mit 2 Eingängen und gemeinsamer Auswahl
 V4023D      | 3 NAND-Gatter mit je 3 Eingängen
 V4027D      | BCD-zu-Dezimal-Dekoder
 V4029D      | Synchroner 4stufiger binärer BCD-Vor-Rückwärtszähler mit Voreinstellung
+V4030D      | 4 Exklusiv-OR-Gatter mit je 2 Eingängen
+V4034D      | 8-stufiges bidirektionales paralleles/serielles Busregister
 V40098D     | 6 invertierende Treiber mit Tristate-Ausgängen

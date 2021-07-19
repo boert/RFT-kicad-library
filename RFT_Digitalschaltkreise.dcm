@@ -472,6 +472,17 @@ D Synchroner 4stufiger binärer BCD-Vor-Rückwärtszähler mit Voreinstellung
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?87
 $ENDCMP
 #
+$CMP V4030D
+D 4 Exklusiv-OR-Gatter mit je 2 Eingängen
+K XOR
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?88
+$ENDCMP
+#
+$CMP V4034D
+D 8stufiges bidirektionales paralleles/serielles Busregister
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?89.
+$ENDCMP
+#
 $CMP Z80CPU
 D CPU, Zentrale Verarbeitungseinheit
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/g.cgi?173
