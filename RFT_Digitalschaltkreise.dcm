@@ -363,6 +363,12 @@ K RAM, SRAM
 F https://cdn-reichelt.de/documents/datenblatt/A300/HM6264.pdf
 $ENDCMP
 #
+$CMP U6516D
+D 2K × 8 Bit statischer CMOS RAM
+K RAM, SRAM
+F https://www.tvsat.com.pl/pdf/u/u6516_rft.pdf
+$ENDCMP
+#
 $CMP U84C00
 D CPU, Zentrale Verarbeitungseinheit
 F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/u880.gif
