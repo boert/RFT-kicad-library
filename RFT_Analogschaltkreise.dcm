@@ -18,6 +18,11 @@ K TCA440
 F https://www.tu-chemnitz.de/etit/zentral/ddr/a244.gif
 $ENDCMP
 #
+$CMP A302D
+D Schwellspannungsschaltkreis
+F https://www-user.tu-chemnitz.de/~heha/basteln/Konsumg%C3%BCter/DDR-Halbleiter/a302.gif
+$ENDCMP
+#
 $CMP B060D
 D Kleinleistungs-BIFET-OPV, externe Frequenzkompensation, Offsetabgleich
 K TL060
