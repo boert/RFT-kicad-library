@@ -6,15 +6,15 @@ KiCAD-Symbole für in der DDR hergestellte Halbleiter
 ```
 Achtung: Verwendung auf eigene Gefahr!
 
-Die Bauteile wurden anhand der Datenblättern erstellt und 
+Die Bauteile wurden anhand der Datenblätter erstellt und 
 nur zu einem sehr kleinen Teil in realen Schaltungen geprüft.
 
-Hinweise zu Fehlern und Verbesserungen werden gern entgegengenommen.
+Hinweise zu Fehlern sowie Verbesserungen und Erweiterungen werden gern entgegengenommen.
 
 ```
 
 
-folgende Bauteile sind enthalten:
+folgende Bauteile sind momentan enthalten:
 
 ## Analogschaltkreise
 
