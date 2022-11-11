@@ -3,5 +3,4 @@
   (lib (name "RFT_Optoelektronik")(type "KiCad")(uri "${KIPRJMOD}/RFT_Optoelektronik.kicad_sym")(options "")(descr "Optoelektronik"))
   (lib (name "RFT_Transistoren_und_Dioden")(type "KiCad")(uri "${KIPRJMOD}/RFT_Transistoren_und_Dioden.kicad_sym")(options "")(descr "Transistoren und Dioden"))
   (lib (name "RFT_Digitalschaltkreise")(type "KiCad")(uri "${KIPRJMOD}/RFT_Digitalschaltkreise.kicad_sym")(options "")(descr "Digitalschaltkreise"))
-  (lib (name "KC85_Modulsteckverbinder")(type "KiCad")(uri "${KIPRJMOD}/KC85_Modulsteckverbinder.kicad_sym")(options "")(descr ""))
 )
