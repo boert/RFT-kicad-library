@@ -179,10 +179,13 @@ D104D       | 6 Inverter
 D108D       | 4 AND-Gatter mit je 2 Eingängen
 D110D       | 3 NAND-Gatter mit je 3 Eingängen
 D120D       | 2 NAND-Gatter mit je 4 Eingängen
+D121D       | Monostabiler Multivibrator mit Schmitt-Trigger-Eingängen
 D126D       | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor, 12V
 D130D       | 1 NAND-Gatter mit 8 Eingängen
 D140D       | 2 NAND-Treiber mit je 4 Eingängen
 D174D       | 2 positiv flanken-getrigge D-Flip-Flop
+D192D       | synchroner Vor-Rückwärts-Dezimalzähler
+D193D       | synchroner Vor-Rückwärts-Binärzähler
 D195D       | 4 Bit Links-Rechts-Schieberegister
 D200D       | 4 NAND-Gatter mit je 2 Eingängen
 D201D       | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
