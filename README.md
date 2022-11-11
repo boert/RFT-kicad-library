@@ -192,6 +192,10 @@ D220D       | 2 NAND-Gatter mit je 4 Eingängen
 D230D       | 1 NAND-Gatter mit 8 Eingängen
 D240D       | 2 NAND-Treiber mit je 4 Eingängen
 D274D       | 2 positiv flanken-getrigge D-Flip-Flop
+D345D       | BCD-zu-7-Segment-Dekoder, hexadezimal
+D346D       | BCD-zu-7-Segment-Dekoder, hexadezimal, einstellbar
+D347D       | BCD-zu-7-Segment-Dekoder, Anzeige für C520
+D348D       | BCD-zu-7-Segment-Dekoder, Anzeige für C520, einstellbar
 DL000D      | 4 NAND-Gatter mit je 2 Eingängen
 DL002D      | 4 NOR-Gatter mit je 2 Eingängen
 DL003D      | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
