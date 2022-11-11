@@ -218,6 +218,7 @@ DL090D      | Dezimalzähler 4 Bit
 DL093D      | 4 Bit Binärzähler
 DL112D      | 2 negativ flanken-getriggerte JK-Flip-Flop
 DL155D      | Dekoder/Demultiplexer
+DL164D      | 8 Bit Schieberegister
 DL175D      | 4 D-Flip-Flop, gemeinsamer Clear- und Takteingang
 DL192D      | synchroner Vor-Rückwärts-Dezimalzähler
 DL193D      | synchroner Vor-Rückwärts-Binärzähler
