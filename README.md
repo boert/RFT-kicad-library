@@ -217,6 +217,7 @@ DL086D      | 4 Exklusiv-OR-Gatter mit je 2 Eingängen
 DL090D      | Dezimalzähler 4 Bit
 DL093D      | 4 Bit Binärzähler
 DL112D      | 2 negativ flanken-getriggerte JK-Flip-Flop
+DL123D      | 2 rücksetzbare monostabile Multivibratoren
 DL132D      | 4 Schmitt-Trigger-NAND-Gatter mit je 2 Eingängen
 DL155D      | Dekoder/Demultiplexer
 DL164D      | 8 Bit Schieberegister
