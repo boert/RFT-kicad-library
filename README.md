@@ -219,6 +219,9 @@ DL093D      | 4 Bit Binärzähler
 DL112D      | 2 negativ flanken-getriggerte JK-Flip-Flop
 DL155D      | Dekoder/Demultiplexer
 DL175D      | 4 D-Flip-Flop, gemeinsamer Clear- und Takteingang
+DL192D      | synchroner Vor-Rückwärts-Dezimalzähler
+DL193D      | synchroner Vor-Rückwärts-Binärzähler
+DL194D      | Bidirektionales 4-bit-Schieberegister
 DL251D      | 8- auf 1-Multiplexer mit Tristate-Ausgängen
 DL253D      | Zweifach 4- auf 1-Multiplexer mit Tristate-Ausgängen
 DL257D      | Vierfach 2- auf 1-Multiplexer mit Tristate-Ausgängen
