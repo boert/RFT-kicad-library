@@ -251,6 +251,7 @@ DS8286D     | 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
 DS8287D     | 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge, invertierend
 U214D       | 1K × 4 Bit statischer RAM
 U224D       | 1K × 4 Bit statischer RAM
+U2164C      | 64K × 1 Bit dynamischer RAM
 U2716       | 2k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U2732       | 4k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U2764       | 8k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
@@ -259,6 +260,7 @@ U27256      | 32k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U27512      | 64k × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U6264D      | 8K × 8 Bit statischer RAM
 U6516D      | 2K × 8 Bit statischer CMOS RAM
+U555C       | 1K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U855D       | PIO, Schaltkreis für parallele Ein-/Ausgabe
 U856D       | SIO, Schaltkreis für serielle Ein-/Ausgabe
 U880D       | CPU, Zentrale Verarbeitungseinheit
