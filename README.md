@@ -173,6 +173,7 @@ SSY20       | Si-npn-Schalttransistor für EDV
 
 Bezeichnung | Beschreibung
 ----------- | ------------
+75450       | Doppelperipherietreiber, Doppelleistungstreiber
 D100D       | NAND-Gatter mit 2 Eingängen
 D103D       | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
 D104D       | 6 Inverter
