@@ -149,6 +149,20 @@ VQA37       | Leuchtdiode gelb, 590nm, 3mm, rund, Farbe diffus
 VQA38       | Leuchtdiode gelb, 590nm, 5mm, rechteckig nicht anreihbar, teildiffus
 VQA46       | Leuchtdiode orange, 610nm, 5mm, rund, Farbe klar
 VQA47       | Leuchtdiode orange, 610nm, 3mm, rund, Farbe diffus
+VQB16       | einstellige Lichtschachtanzeige, rot
+VQB17       | einstellige Lichtschachtanzeige, rot, gemeinsame Kathode
+VQB18       | einstellige Lichtschachtanzeige, rot, gemeinsame Anode
+VQB26       | einstellige Lichtschachtanzeige, grün
+VQB27       | einstellige Lichtschachtanzeige, grün, gemeinsame Kathode
+VQB28       | einstellige Lichtschachtanzeige, grün, gemeinsame Anode
+VQE11       | 1,5-stellige Lichtschachtanzeige, rot, gemeinsame Kathode
+VQE12       | 1,5-stellige Lichtschachtanzeige, rot, gemeinsame Anode
+VQE13       | zweistellige Lichtschachtanzeige, rot, gemeinsame Kathode
+VQE14       | zweistellige Lichtschachtanzeige, rot, gemeinsame Anode
+VQE21       | 1,5-stellige Lichtschachtanzeige, grün, gemeinsame Kathode
+VQE22       | 1,5-stellige Lichtschachtanzeige, grün, gemeinsame Anode
+VQE23       | zweistellige Lichtschachtanzeige, grün, gemeinsame Kathode
+VQE24       | zweistellige Lichtschachtanzeige, grün, gemeinsame Anode
 
 
 ## Transistoren & Dioden
