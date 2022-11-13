@@ -286,9 +286,10 @@ V4017D      | Dekadischer Zähler mit 10 dekodierten Ausgängen
 V4019D      | AND/OR-Auswahlgatter mit 2 Eingängen und gemeinsamer Auswahl
 V4023D      | 3 NAND-Gatter mit je 3 Eingängen
 V4027D      | BCD-zu-Dezimal-Dekoder
-V4029D      | Synchroner 4stufiger binärer BCD-Vor-Rückwärtszähler mit Voreinstellung
+V4029D      | Synchroner 4-stufiger binärer BCD-Vor-Rückwärtszähler mit Voreinstellung
 V4030D      | 4 Exklusiv-OR-Gatter mit je 2 Eingängen
 V4034D      | 8-stufiges bidirektionales paralleles/serielles Busregister
+V4035D      | 4-stufiges getaktetes serielles Schieberegister
 V4042D      | 4-bit Auffangregister
 V4044D      | 4 RS-Flip-Flop
 V4046D      | PLL-Schaltung
