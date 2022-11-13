@@ -289,6 +289,10 @@ V4027D      | BCD-zu-Dezimal-Dekoder
 V4029D      | Synchroner 4stufiger binärer BCD-Vor-Rückwärtszähler mit Voreinstellung
 V4030D      | 4 Exklusiv-OR-Gatter mit je 2 Eingängen
 V4034D      | 8-stufiges bidirektionales paralleles/serielles Busregister
+V4046D      | PLL-Schaltung
+V4048D      | Multifunktionsgatter
+V4050D      | 6 nichtinvertierende Treiberstufen
+V4051D      | 8-Kanal Anlaog-Multiplexer/Demultiplexer
 V4066D      | 4 bilaterale Schalter
 V4093D      | 4 Schmitt-Trigger-NAND-Gatter mit je 2 Eingängen
 V40098D     | 6 invertierende Treiber mit Tristate-Ausgängen
