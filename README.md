@@ -265,8 +265,18 @@ U855D       | PIO, Schaltkreis für parallele Ein-/Ausgabe
 U856D       | SIO, Schaltkreis für serielle Ein-/Ausgabe
 U880D       | CPU, Zentrale Verarbeitungseinheit
 UB8001C     | 16-bit-Mikroprozessor
-UB8830      | 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader
-UB8831      | 8-bit-Controller mit 128 Byte RAM, BASIC-Interpreter mit Bootloader, power down option
+UB8810D     | 8-bit-Controller mit 2 kByte maskenprogrammierten ROM, 128 Byte RAM
+UB8811D     | 8-bit-Controller mit 2 kByte maskenprogrammierten ROM, 128 Byte RAM, power down Option
+UB8820M     | 8-bit-Controller mit 2 kByte externem ROM, 128 Byte RAM
+UB8821M     | 8-bit-Controller mit 2 kByte externem ROM, 128 Byte RAM, power down Option
+UB8830D     | 8-bit-Controller mit BASIC-Interpreter und Bootloader, 128 Byte RAM
+UB8831D     | 8-bit-Controller mit BASIC-Interpreter und Bootloader, 128 Byte RAM, power down Option
+UB8840M     | 8-bit-Controller mit 4 kByte externem ROM, 128 Byte RAM
+UB8841M     | 8-bit-Controller mit 4 kByte externem ROM, 128 Byte RAM, power down Option
+UB8860D     | 8-bit-Controller ROM-los, 128 Byte RAM
+UB8861D     | 8-bit-Controller ROM-los, 128 Byte RAM, power down Option
+U8611DC     | 8-bit-Controller mit 4 kByte maskenprogrammierten ROM, 128 Byte RAM
+U8611DC/1   | 8-bit-Controller interner ROM nicht nutzbar, 128 Byte RAM
 V4001D      | 4 NOR-Gatter mit je 2 Eingängen
 V4011D      | 4 NAND-Gatter mit je 2 Eingängen
 V4012D      | 2 NAND-Gatter mit je 4 Eingängen
