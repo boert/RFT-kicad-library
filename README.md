@@ -331,3 +331,4 @@ NSF30       | Relais
 RGK13       | DIL-Relais in Flachbauform
 RGS13       | SIL-Relais in Flachbauform
 RGT13       | DIL-Trennrelais in Flachbauform
+RGK20       | Relais
