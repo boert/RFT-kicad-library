@@ -2885,7 +2885,7 @@
     (property "Value" "GBR20.1-y.xx" (id 1) (at 11.43 0 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at -34.544 1.524 0)
+    (property "Footprint" "RFT_sonstiges:Relais_GBR20_1" (id 2) (at -34.544 1.524 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://bauarchivddr.bbr-server.de/bauarchivddr/archiv/tglarchiv/tgl30001bis40000/tgl36001bis36500/tgl-36076-mai-1983.pdf" (id 3) (at 0 -15.24 0)
