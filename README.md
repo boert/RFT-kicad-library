@@ -332,3 +332,13 @@ RGK13       | DIL-Relais in Flachbauform
 RGS13       | SIL-Relais in Flachbauform
 RGT13       | DIL-Trennrelais in Flachbauform
 RGK20       | Relais
+
+
+## sonstiges
+
+Bezeichnung           | Beschreibung
+--------------------- | ------------
+R_Potentiometer       | Potentiometer mit 3 Pins
+R_Potentiometer_Small | Potentiometer mit 3 Pins, kleines Symbol
+R_Potentiometer_Trim  | Trimmer mit 3 Pins
+

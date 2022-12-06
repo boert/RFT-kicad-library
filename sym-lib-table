@@ -4,4 +4,5 @@
   (lib (name "RFT_Transistoren_und_Dioden")(type "KiCad")(uri "${KIPRJMOD}/RFT_Transistoren_und_Dioden.kicad_sym")(options "")(descr "Transistoren und Dioden"))
   (lib (name "RFT_Digitalschaltkreise")(type "KiCad")(uri "${KIPRJMOD}/RFT_Digitalschaltkreise.kicad_sym")(options "")(descr "Digitalschaltkreise"))
   (lib (name "RFT_Relais")(type "KiCad")(uri "${KIPRJMOD}/RFT_Relais.kicad_sym")(options "")(descr "Relais"))
+  (lib (name "RFT_sonstiges")(type "KiCad")(uri "${KIPRJMOD}/RFT_sonstiges.kicad_sym")(options "")(descr "zusätzliche Symbole"))
 )
