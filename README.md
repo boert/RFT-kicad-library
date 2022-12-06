@@ -320,11 +320,13 @@ V40511D     | BCD-zu-7-Segment-Dekoder
 
 Bezeichnung | Beschreibung
 ----------- | ------------
+GBR7        | Neutrales elektromagnetisches Relais
+GBR10       | Neutrales elektromagnetisches Relais
 GBR11       | Neutrales elektromagnetisches Relais
-GBR111      | Relais
 GBR12       | Neutrales elektromagnetisches Relais
 GBR13       | Neutrales elektromagnetisches Relais
-GBR7        | Neutrales elektromagnetisches Relais
+GBR20       | Neutrales elektromagnetisches Relais
+GBR111      | Relais
 RGK13       | DIL-Relais in Flachbauform
 RGS13       | SIL-Relais in Flachbauform
 RGT13       | DIL-Trennrelais in Flachbauform
