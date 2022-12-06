@@ -327,6 +327,7 @@ GBR12       | Neutrales elektromagnetisches Relais
 GBR13       | Neutrales elektromagnetisches Relais
 GBR20       | Neutrales elektromagnetisches Relais
 GBR111      | Relais
+NSF30       | Relais
 RGK13       | DIL-Relais in Flachbauform
 RGS13       | SIL-Relais in Flachbauform
 RGT13       | DIL-Trennrelais in Flachbauform
