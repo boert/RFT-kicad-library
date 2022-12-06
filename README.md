@@ -23,6 +23,7 @@ Bezeichnung | Beschreibung
 A109D       | Universeller OPV
 A202D       | Aufnahme-, Mikrofon- und Wiedergabeverstärker
 A244D       | Integrierter AM-Empfänger bis 30 MHz
+A277D       | Ansteuerschaltkreis für 12 LED, wahlweise im Punkt- oder Bandbetrieb
 A302D       | Schwellspannungsschaltkreis
 B060D       | Kleinleistungs-BIFET-OPV, externe Frequenzkompensation, Offsetabgleich
 B061D       | Kleinleistungs-BIFET-OPV, interne Frequenzkompensation, Offsetabgleich
