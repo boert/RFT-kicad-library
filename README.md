@@ -322,6 +322,8 @@ Bezeichnung | Beschreibung
 ----------- | ------------
 GBR11       | Neutrales elektromagnetisches Relais
 GBR111      | Relais
+GBR12       | Neutrales elektromagnetisches Relais
+GBR13       | Neutrales elektromagnetisches Relais
 GBR7        | Neutrales elektromagnetisches Relais
 RGK13       | DIL-Relais in Flachbauform
 RGS13       | SIL-Relais in Flachbauform
