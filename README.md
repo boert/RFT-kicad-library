@@ -170,6 +170,21 @@ VQE24       | zweistellige Lichtschachtanzeige, grün, gemeinsame Anode
 
 Bezeichnung | Beschreibung
 ----------- | ------------
+SAL41       | Silizium-Doppeldiode, schneller Schalter
+SAL43       | Silizium-Mehrfachdiode, schneller Schalter
+SAL45       | Silizium-Mehrfachdiode, schneller Schalter
+SAM42       | Silizium-Mehrfachdiode, gemeinsame Kathode, schneller Schalter
+SAM43       | Silizium-Mehrfachdiode, gemeinsame Kathode, schneller Schalter
+SAM44       | Silizium-Mehrfachdiode, gemeinsame Kathode, schneller Schalter
+SAM45       | Silizium-Mehrfachdiode, gemeinsame Kathode, schneller Schalter
+SAM62       | Silizium-Mehrfachdiode, gemeinsame Anode, schneller Schalter
+SAM63       | Silizium-Mehrfachdiode, gemeinsame Anode, schneller Schalter
+SAM64       | Silizium-Mehrfachdiode, gemeinsame Anode, schneller Schalter
+SAM65       | Silizium-Mehrfachdiode, gemeinsame Anode, schneller Schalter
+SAY50       | Silizium-Doppeldiode, gemeinsame Kathode
+SAY52       | Silizium-Doppeldiode, gemeinsame Kathode
+SAY60       | Silizium-Doppeldiode, gemeinsame Kathode
+SAY62       | Silizium-Doppeldiode, gemeinsame Kathode
 SC236       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
 SC237       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
 SC238       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
