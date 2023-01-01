@@ -200,6 +200,7 @@ SF127       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnel
 SF128       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
 SF129       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
 SSY20       | Si-npn-Schalttransistor für EDV
+SZX21/xx    | Si-Epitaxie-Planardioden, Zenerspannung 1;5,1..24
 
 
 ## Digitalschaltkreise
