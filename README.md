@@ -176,14 +176,14 @@ SA418       | Si-Epitaxie-Diode, U_R=80V, I_F=100mA, Farbpunkt grün
 SAL41       | Silizium-Doppeldiode, schneller Schalter
 SAL43       | Silizium-Mehrfachdiode, schneller Schalter
 SAL45       | Silizium-Mehrfachdiode, schneller Schalter
-SAM42       | Silizium-Mehrfachdiode, gemeinsame Kathode, schneller Schalter
-SAM43       | Silizium-Mehrfachdiode, gemeinsame Kathode, schneller Schalter
-SAM44       | Silizium-Mehrfachdiode, gemeinsame Kathode, schneller Schalter
-SAM45       | Silizium-Mehrfachdiode, gemeinsame Kathode, schneller Schalter
-SAM62       | Silizium-Mehrfachdiode, gemeinsame Anode, schneller Schalter
-SAM63       | Silizium-Mehrfachdiode, gemeinsame Anode, schneller Schalter
-SAM64       | Silizium-Mehrfachdiode, gemeinsame Anode, schneller Schalter
-SAM65       | Silizium-Mehrfachdiode, gemeinsame Anode, schneller Schalter
+SAM42       | Si-Doppeldiode, gemeinsame Kathode, schneller Schalter
+SAM43       | Si-Dreifachdiode, gemeinsame Kathode, schneller Schalter
+SAM44       | Si-Vierfachdiode, gemeinsame Kathode, schneller Schalter
+SAM45       | Si-Fünffachdiode, gemeinsame Kathode, schneller Schalter
+SAM62       | Si-Doppeldiode, gemeinsame Anode, schneller Schalter
+SAM63       | Si-Dreifachdiode, gemeinsame Anode, schneller Schalter
+SAM64       | Si-Vierfachdiode, gemeinsame Anode, schneller Schalter
+SAM65       | Si-Fünffachdiode, gemeinsame Anode, schneller Schalter
 SAY50       | Silizium-Doppeldiode, gemeinsame Kathode
 SAY52       | Silizium-Doppeldiode, gemeinsame Kathode
 SAY60       | Silizium-Doppeldiode, gemeinsame Kathode
