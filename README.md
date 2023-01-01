@@ -170,6 +170,9 @@ VQE24       | zweistellige Lichtschachtanzeige, grün, gemeinsame Anode
 
 Bezeichnung | Beschreibung
 ----------- | ------------
+SA403       | Si-Planar-Diode, U_R=25V, I_F=30mA, Farbpunkt rot
+SA412       | Si-Epitaxie-Diode, U_R=20V, I_F=80mA, Farbpunkt gelb
+SA418       | Si-Epitaxie-Diode, U_R=80V, I_F=100mA, Farbpunkt grün
 SAL41       | Silizium-Doppeldiode, schneller Schalter
 SAL43       | Silizium-Mehrfachdiode, schneller Schalter
 SAL45       | Silizium-Mehrfachdiode, schneller Schalter
