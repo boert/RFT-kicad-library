@@ -174,6 +174,8 @@ SA403       | Si-Planar-Diode, U_R=25V, I_F=30mA, Farbpunkt rot
 SA412       | Si-Epitaxie-Diode, U_R=20V, I_F=80mA, Farbpunkt gelb
 SA418       | Si-Epitaxie-Diode, U_R=80V, I_F=100mA, Farbpunkt grün
 SAL41       | Silizium-Doppeldiode, schneller Schalter
+SAL41B      | Silizium-Doppeldiode, schneller Schalter
+SAL41K      | Silizium-Doppeldiode, schneller Schalter, ohne Mittelabgriff
 SAL43       | Silizium-Mehrfachdiode, schneller Schalter
 SAL45       | Silizium-Mehrfachdiode, schneller Schalter
 SAM42       | Si-Doppeldiode, gemeinsame Kathode, schneller Schalter
@@ -184,6 +186,10 @@ SAM62       | Si-Doppeldiode, gemeinsame Anode, schneller Schalter
 SAM63       | Si-Dreifachdiode, gemeinsame Anode, schneller Schalter
 SAM64       | Si-Vierfachdiode, gemeinsame Anode, schneller Schalter
 SAM65       | Si-Fünffachdiode, gemeinsame Anode, schneller Schalter
+SAY30       | Si-Planar-Diode
+SAY32       | Si-Planar-Diode
+SAY40       | Si-Planar-Diode
+SAY42       | Si-Planar-Diode
 SAY50       | Silizium-Doppeldiode, gemeinsame Kathode
 SAY52       | Silizium-Doppeldiode, gemeinsame Kathode
 SAY60       | Silizium-Doppeldiode, gemeinsame Kathode
