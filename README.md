@@ -356,7 +356,8 @@ GBR11       | Neutrales elektromagnetisches Relais
 GBR12       | Neutrales elektromagnetisches Relais
 GBR13       | Neutrales elektromagnetisches Relais
 GBR20       | Neutrales elektromagnetisches Relais
-GBR111      | Relais
+GBR101      | Relais, 2 Umschalter
+GBR111      | Relais, 2 Umschalter
 NSF30       | Relais
 RGK13       | DIL-Relais in Flachbauform
 RGS13       | SIL-Relais in Flachbauform
