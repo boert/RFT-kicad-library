@@ -350,7 +350,7 @@ V40511D     | BCD-zu-7-Segment-Dekoder
 
 Bezeichnung | Beschreibung
 ----------- | ------------
-GBR7        | Neutrales elektromagnetisches Relais
+GBR7        | Relais, 2 Umschalter
 GBR10       | Neutrales elektromagnetisches Relais
 GBR11       | Neutrales elektromagnetisches Relais
 GBR12       | Neutrales elektromagnetisches Relais
