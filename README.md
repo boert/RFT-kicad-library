@@ -186,25 +186,31 @@ SAM62       | Si-Doppeldiode, gemeinsame Anode, schneller Schalter
 SAM63       | Si-Dreifachdiode, gemeinsame Anode, schneller Schalter
 SAM64       | Si-Vierfachdiode, gemeinsame Anode, schneller Schalter
 SAM65       | Si-Fünffachdiode, gemeinsame Anode, schneller Schalter
-SAY30       | Si-Planar-Diode
-SAY32       | Si-Planar-Diode
-SAY40       | Si-Planar-Diode
-SAY42       | Si-Planar-Diode
-SAY50       | Silizium-Doppeldiode, gemeinsame Kathode
-SAY52       | Silizium-Doppeldiode, gemeinsame Kathode
-SAY60       | Silizium-Doppeldiode, gemeinsame Kathode
-SAY62       | Silizium-Doppeldiode, gemeinsame Kathode
-SC236       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
-SC237       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
-SC238       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
-SC239       | Silizium-npn-Transistor für NF-Vor- und Treiberstufen
-SC307       | Silizium-pnp-Transistor, NF, allgemein
-SC308       | Silizium-pnp-Transistor, NF, allgemein
-SC309       | Silizium-pnp-Transistor, NF, allgemein
-SF126       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
-SF127       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
-SF128       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
-SF129       | Silizium-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+SAY30       | Si-Planar-Diode, U_R=25V, I_F=30mA
+SAY32       | Si-Planar-Diode, U_R=25V, I_F=50mA
+SAY40       | Si-Planar-Diode, U_R=15V, I_F=30mA
+SAY42       | Si-Planar-Diode, U_R=15V, I_F=50mA
+SAY50       | Si-Doppeldiode, gemeinsame Kathode
+SAY52       | Si-Doppeldiode, gemeinsame Kathode
+SAY60       | Si-Doppeldiode, gemeinsame Kathode
+SAY62       | Si-Doppeldiode, gemeinsame Kathode
+SC236       | Si-npn-Transistor für NF-Vor- und Treiberstufen
+SC237       | Si-npn-Transistor für NF-Vor- und Treiberstufen
+SC238       | Si-npn-Transistor für NF-Vor- und Treiberstufen
+SC239       | Si-npn-Transistor für NF-Vor- und Treiberstufen
+SC307       | Si-pnp-Transistor, NF, allgemein
+SC308       | Si-pnp-Transistor, NF, allgemein
+SC309       | Si-pnp-Transistor, NF, allgemein
+SF126       | Si-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+SF127       | Si-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+SF128       | Si-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+SF129       | Si-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+SM103       | Si-N-Kanal MOSFET, I_d=15mA, V_ds=20V
+SM104       | Si-N-Kanal MOSFET, I_d=15mA, V_ds=20V
+SMY50       | P-Kanal MOSFET, I_d=-25mA, V_ds=-31V
+SMY51       | Doppel-P-Kanal MOSFET, I_d=-20mA, V_ds=-31V
+SMY52       | P-Kanal MOSFET, I_d=-60mA, V_ds=-31V
+SMY60       | Doppel-P-Kanal MOSFET, I_d=-20mA, V_ds=-25V
 SSY20       | Si-npn-Schalttransistor für EDV
 SZX21/xx    | Si-Epitaxie-Planardioden, Zenerspannung 1;5,1..24
 SZY20       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 66mV, Farbpunkt schwarz
