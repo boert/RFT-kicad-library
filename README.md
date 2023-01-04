@@ -194,17 +194,33 @@ SAY50       | Si-Doppeldiode, gemeinsame Kathode
 SAY52       | Si-Doppeldiode, gemeinsame Kathode
 SAY60       | Si-Doppeldiode, gemeinsame Kathode
 SAY62       | Si-Doppeldiode, gemeinsame Kathode
-SC236       | Si-npn-Transistor für NF-Vor- und Treiberstufen
-SC237       | Si-npn-Transistor für NF-Vor- und Treiberstufen
-SC238       | Si-npn-Transistor für NF-Vor- und Treiberstufen
-SC239       | Si-npn-Transistor für NF-Vor- und Treiberstufen
-SC307       | Si-pnp-Transistor, NF, allgemein
-SC308       | Si-pnp-Transistor, NF, allgemein
-SC309       | Si-pnp-Transistor, NF, allgemein
-SF126       | Si-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
-SF127       | Si-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
-SF128       | Si-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
-SF129       | Si-npn-Transistor für Breitbandverstärker und mittelschnelle Schalter
+SC206       | Si-NPN-Transistor, U_ce=20V, I_c=100mA, E-Line
+SC207       | Si-NPN-Transistor, U_ce=20V, I_c=100mA, E-Line
+SC236       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U_ce=20V, I_c=100mA, E-Line
+SC237       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U_ce=45V, I_c=100mA, E-Line
+SC238       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U_ce=20V, I_c=100mA, E-Line
+SC239       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, rauscharm, U_ce=20V, I_c=100mA, E-Line
+SC307       | Si-PNP-Transistor, NF, allgemein
+SC308       | Si-PNP-Transistor, NF, allgemein
+SC309       | Si-PNP-Transistor, NF, allgemein, rauscharm
+SF121       | Si-NPN-HF-Transistor, U_ce=20V, I_c=100mA, TO-39
+SF122       | Si-NPN-HF-Transistor, U_ce=33V, I_c=100mA, TO-39
+SF123       | Si-NPN-HF-Transistor, U_ce=66V, I_c=100mA, TO-39
+SF126       | Si-NPN-HF-Transistor, U_ce=20V, I_c=500mA, TO-39
+SF127       | Si-NPN-HF-Transistor, U_ce=30V, I_c=500mA, TO-39
+SF128       | Si-NPN-HF-Transistor, U_ce=60V, I_c=500mA, TO-39
+SF129       | Si-NPN-HF-Transistor, U_ce=80V, I_c=500mA, TO-39
+SF131       | Si-NPN-HF-Transistor, U_ce=12V, I_c=50mA, TO-18
+SF132       | Si-NPN-HF-Transistor, U_ce=15V, I_c=50mA, TO-18
+SF136       | Si-NPN-HF-Transistor, U_ce=12V, I_c=200mA, TO-18
+SF137       | Si-NPN-HF-Transistor, U_ce=20V, I_c=200mA, TO-18
+SF150       | Si-NPN-HF-Transistor, U_ce=160V, I_c=50mA, TO-39
+SF215       | Si-NPN-HF-Transistor, U_ce=15V, I_c=100mA, E-Line
+SF216       | Si-NPN-HF-Transistor, U_ce=20V, I_c=100mA, E-Line
+SF225       | Si-NPN-HF-Transistor, U_ce=25V, I_c=25mA, E-Line CEB!
+SF235       | Si-NPN-HF-Transistor, U_ce=25V, I_c=25mA, E-Line
+SF240       | Si-NPN-HF-Transistor, U_ce=30V, I_c=25mA, E-Line CEB!
+SF245       | Si-NPN-HF-Transistor, U_ce=25V, I_c=25mA, E-Line CEB!
 SM103       | Si-N-Kanal MOSFET, I_d=15mA, V_ds=20V
 SM104       | Si-N-Kanal MOSFET, I_d=15mA, V_ds=20V
 SMY50       | P-Kanal MOSFET, I_d=-25mA, V_ds=-31V
