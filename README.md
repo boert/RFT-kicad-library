@@ -227,6 +227,9 @@ SMY50       | P-Kanal MOSFET, I_d=-25mA, V_ds=-31V
 SMY51       | Doppel-P-Kanal MOSFET, I_d=-20mA, V_ds=-31V
 SMY52       | P-Kanal MOSFET, I_d=-60mA, V_ds=-31V
 SMY60       | Doppel-P-Kanal MOSFET, I_d=-20mA, V_ds=-25V
+SS200       | Si-NPN mit höherer Sperrspannung, U_ce=70V, I_c=30mA, E-Line
+SS201       | Si-NPN mit höherer Sperrspannung, U_ce=100V, I_c=30mA, E-Line
+SS202       | Si-NPN mit höherer Sperrspannung, U_ce=120V, I_c=30mA, E-Line
 SSY20       | Si-npn-Schalttransistor für EDV
 SZX21/xx    | Si-Epitaxie-Planardioden, Zenerspannung 1;5,1..24
 SZY20       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 66mV, Farbpunkt schwarz
