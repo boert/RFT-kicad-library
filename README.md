@@ -170,6 +170,18 @@ VQE24       | zweistellige Lichtschachtanzeige, grün, gemeinsame Anode
 
 Bezeichnung | Beschreibung
 ----------- | ------------
+GF100       | Ge-PNP-HF-Transistor, I_C=-15mA
+GF105       | Ge-PNP-HF-Transistor, I_C=-15mA
+GF120       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
+GF121       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
+GF122       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
+GF145       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
+GF147       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
+OC871       | Ge-PNP-HF-Transistor, I_C=-15mA
+OC872       | Ge-PNP-HF-Transistor, I_C=-15mA
+OC880       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
+OC881       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
+OC882       | Ge-PNP-HF-Transistor, U_CE=-25V, I_C=-10mA
 SA403       | Si-Planar-Diode, U_R=25V, I_F=30mA, Farbpunkt rot
 SA412       | Si-Epitaxie-Diode, U_R=20V, I_F=80mA, Farbpunkt gelb
 SA418       | Si-Epitaxie-Diode, U_R=80V, I_F=100mA, Farbpunkt grün
@@ -227,10 +239,16 @@ SMY50       | P-Kanal MOSFET, I_d=-25mA, V_ds=-31V
 SMY51       | Doppel-P-Kanal MOSFET, I_d=-20mA, V_ds=-31V
 SMY52       | P-Kanal MOSFET, I_d=-60mA, V_ds=-31V
 SMY60       | Doppel-P-Kanal MOSFET, I_d=-20mA, V_ds=-25V
+SS106       | Si-NPN-Schalttransistor, U_ce=15V, I_c=200mA, TO-18
+SS108       | Si-NPN-Schalttransistor, U_ce=15V, I_c=200mA, TO-18
+SS109       | Si-NPN-Schalttransistor, U_ce=15V, I_c=200mA, TO-18
 SS200       | Si-NPN mit höherer Sperrspannung, U_ce=70V, I_c=30mA, E-Line
 SS201       | Si-NPN mit höherer Sperrspannung, U_ce=100V, I_c=30mA, E-Line
 SS202       | Si-NPN mit höherer Sperrspannung, U_ce=120V, I_c=30mA, E-Line
-SSY20       | Si-npn-Schalttransistor für EDV
+SS216       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
+SS218       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
+SS219       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
+SSY20       | Si-NPN-Schalttransistor für EDV, U_ce=40V, I_c=600mA, TO-39
 SZX21/xx    | Si-Epitaxie-Planardioden, Zenerspannung 1;5,1..24
 SZY20       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 66mV, Farbpunkt schwarz
 SZY21       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 33mV, Farbpunkt gelb
