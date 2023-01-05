@@ -170,6 +170,30 @@ VQE24       | zweistellige Lichtschachtanzeige, grün, gemeinsame Anode
 
 Bezeichnung | Beschreibung
 ----------- | ------------
+GC100       | Ge-PNP-Transistor, U_CE=-10V, I_C=-15mA
+GC101       | Ge-PNP-Transistor, rauscharm, U_CE=-10V, I_C=-15mA
+GC115       | Ge-PNP-Transistor, U_CE=-20V, I_C=-50mA
+GC116       | Ge-PNP-Transistor, U_CE=-20V, I_C=-50mA
+GC117       | Ge-PNP-Transistor, rauscharm, U_CE=-20V, I_C=-50mA
+GC120       | Ge-PNP-Transistor, U_CE=-20V, I_C=-150mA
+GC121       | Ge-PNP-Transistor, U_CE=-20V, I_C=-150mA
+GC122       | Ge-PNP-Transistor, U_CE=-33V, I_C=-150mA
+GC123       | Ge-PNP-Transistor, U_CE=-66V, I_C=-150mA
+GC301       | Ge-PNP-Transistor, U_CE=-32V, I_C=-500A
+GD100       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-1,3A
+GD110       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-1,3A
+GD120       | Ge-PNP-Leistungstransistor, U_CE=-30V, I_C=-1,3A
+GD130       | Ge-PNP-Leistungstransistor, U_CE=-58V, I_C=-1,3A
+GD150       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-3,0A
+GD160       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-3,0A
+GD170       | Ge-PNP-Leistungstransistor, U_CE=-30V, I_C=-3,0A
+GD175       | Ge-PNP-Leistungstransistor, U_CE=-48V, I_C=-3,0A
+GD180       | Ge-PNP-Leistungstransistor, U_CE=-60V, I_C=-3,0A
+GD240       | Ge-PNP-Leistungstransistor, U_CE=-25V, I_C=-3,0A, P_tot=10W
+GD241       | Ge-PNP-Leistungstransistor, U_CE=-35V, I_C=-3,0A, P_tot=10W
+GD242       | Ge-PNP-Leistungstransistor, U_CE=-48V, I_C=-3,0A, P_tot=10W
+GD243       | Ge-PNP-Leistungstransistor, U_CE=-60V, I_C=-3,0A, P_tot=10W
+GD244       | Ge-PNP-Leistungstransistor, U_CE=-70V, I_C=-3,0A, P_tot=10W
 GF100       | Ge-PNP-HF-Transistor, I_C=-15mA
 GF105       | Ge-PNP-HF-Transistor, I_C=-15mA
 GF120       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
@@ -177,6 +201,27 @@ GF121       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
 GF122       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
 GF145       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
 GF147       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
+GS109       | Ge-PNP-Schalttransistor, U_CE=-15V, I_C=-50mA
+GS111       | Ge-PNP-Schalttransistor, U_CE=-15V, I_C=-200mA
+GS112       | Ge-PNP-Schalttransistor, U_CE=-15V, I_C=-200mA
+GS121       | Ge-PNP-Schalttransistor, U_CE=-20V, I_C=-100mA
+GS122       | Ge-PNP-Schalttransistor, U_CE=-20V, I_C=-100mA
+OC815       | Ge-PNP-Transistor, U_CE=-20V, I_C=-50mA
+OC816       | Ge-PNP-Transistor, U_CE=-20V, I_C=-50mA
+OC817       | Ge-PNP-Transistor, rauscharm, U_CE=-20V, I_C=-50mA
+OC820       | Ge-PNP-Transistor, U_CE=-20V, I_C=-150mA
+OC821       | Ge-PNP-Transistor, U_CE=-20V, I_C=-150mA
+OC822       | Ge-PNP-Transistor, U_CE=-33V, I_C=-150mA
+OC823       | Ge-PNP-Transistor, U_CE=-66V, I_C=-150mA
+OC830       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-1,3A
+OC831       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-1,3A
+OC832       | Ge-PNP-Leistungstransistor, U_CE=-30V, I_C=-1,3A
+OC833       | Ge-PNP-Leistungstransistor, U_CE=-58V, I_C=-1,3A
+OC835       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-3,0A
+OC836       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-3,0A
+OC837       | Ge-PNP-Leistungstransistor, U_CE=-30V, I_C=-3,0A
+OC838       | Ge-PNP-Leistungstransistor, U_CE=-60V, I_C=-3,0A
+OC870       | Ge-PNP-Transistor, U_CE=-10V, I_C=-15mA
 OC871       | Ge-PNP-HF-Transistor, I_C=-15mA
 OC872       | Ge-PNP-HF-Transistor, I_C=-15mA
 OC880       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
