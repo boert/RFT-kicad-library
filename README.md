@@ -398,6 +398,7 @@ GBR10       | Neutrales elektromagnetisches Relais
 GBR11       | Neutrales elektromagnetisches Relais
 GBR12       | Neutrales elektromagnetisches Relais
 GBR13       | Neutrales elektromagnetisches Relais
+GBR15       | Relais, 2 Umschalter
 GBR20       | Neutrales elektromagnetisches Relais
 GBR101      | Relais, 2 Umschalter
 GBR111      | Relais, 2 Umschalter
