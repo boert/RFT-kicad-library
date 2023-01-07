@@ -457,6 +457,24 @@ RGK30/1     | Relais, 1 Schließer
 RGK30/2     | Relais, 2 Schließer
 
 
+## Steckverbinder
+
+Bezeichnung | Beschreibung
+----------- | ------------
+EFS_26      | Buchsenleiste 202 - 26 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x13
+EFS_58      | Buchsenleiste 202 - 58 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x29
+EFS_90      | Buchsenleiste 202 - 90 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x45
+EFS_14      | Buchsenleiste 205 - 14 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x7
+EFS_30      | Buchsenleiste 205 - 30 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x15
+EFS_46      | Buchsenleiste 205 - 46 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x23
+EFS_26      | Buchsenleiste 212 - 26 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x13
+EFS_58      | Buchsenleiste 212 - 58 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x29
+EFS_90      | Buchsenleiste 212 - 90 TGL 29331/01, Leiterplattenanschluß, gearde, 2,5mm, 2x45
+EFS_14      | Buchsenleiste 215 - 14 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x7
+EFS_30      | Buchsenleiste 215 - 30 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x15
+EFS_46      | Buchsenleiste 215 - 46 TGL 29331/01, Leiterplattenanschluß, gearde, 5mm, 2x23
+
+
 ## sonstiges
 
 Bezeichnung           | Beschreibung
