@@ -459,20 +459,33 @@ RGK30/2     | Relais, 2 Schließer
 
 ## Steckverbinder
 
-Bezeichnung | Beschreibung
------------ | ------------
-EFS_26      | Buchsenleiste 202 - 26 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x13
-EFS_58      | Buchsenleiste 202 - 58 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x29
-EFS_90      | Buchsenleiste 202 - 90 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x45
-EFS_14      | Buchsenleiste 205 - 14 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x7
-EFS_30      | Buchsenleiste 205 - 30 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x15
-EFS_46      | Buchsenleiste 205 - 46 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x23
-EFS_26      | Buchsenleiste 212 - 26 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x13
-EFS_58      | Buchsenleiste 212 - 58 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x29
-EFS_90      | Buchsenleiste 212 - 90 TGL 29331/01, Leiterplattenanschluß, gearde, 2,5mm, 2x45
-EFS_14      | Buchsenleiste 215 - 14 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x7
-EFS_30      | Buchsenleiste 215 - 30 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x15
-EFS_46      | Buchsenleiste 215 - 46 TGL 29331/01, Leiterplattenanschluß, gearde, 5mm, 2x23
+Bezeichnung                | Beschreibung
+-----------                | ------------
+EFS-Buchsenleiste_26       | Buchsenleiste 202 - 26 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x13
+EFS-Buchsenleiste_58       | Buchsenleiste 202 - 58 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x29
+EFS-Buchsenleiste_90       | Buchsenleiste 202 - 90 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x45
+EFS-Buchsenleiste_14       | Buchsenleiste 205 - 14 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x7
+EFS-Buchsenleiste_30       | Buchsenleiste 205 - 30 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x15
+EFS-Buchsenleiste_46       | Buchsenleiste 205 - 46 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x23
+EFS-Buchsenleiste_26       | Buchsenleiste 212 - 26 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x13
+EFS-Buchsenleiste_58       | Buchsenleiste 212 - 58 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x29
+EFS-Buchsenleiste_90       | Buchsenleiste 212 - 90 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x45
+EFS-Buchsenleiste_14       | Buchsenleiste 215 - 14 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x7
+EFS-Buchsenleiste_30       | Buchsenleiste 215 - 30 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x15
+EFS-Buchsenleiste_46       | Buchsenleiste 215 - 46 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x23
+EFS-Buchsenleiste_58       | Buchsenleiste 202 - 58 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=8,7mm, 2x29, a-b
+EFS-Buchsenleiste_90       | Buchsenleiste 202 - 90 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=8,7mm, 2x45, a-b
+EFS-Buchsenleiste_58       | Buchsenleiste 212 - 58 TGL 29331/03, Leiterplattenanschluß, gerade, 2,5mm, 2x29
+EFS-Buchsenleiste_90       | Buchsenleiste 212 - 90 TGL 29331/03, Leiterplattenanschluß, gerade, 2,5mm, 2x45
+EFS-Buchsenleiste_87       | Buchsenleiste 402 - 87 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=13,7mm, 3x29, a-b-c
+EFS-Buchsenleiste_58_a-c   | Buchsenleiste 404 - 58 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=13,7mm, 2x29, a-c
+EFS-Buchsenleiste_87       | Buchsenleiste 412 - 87 TGL 29331/03, Leiterplattenanschluß, gerade, h=13,7mm , 3x29, a-b-c
+EFS-Buchsenleiste_58_a-c   | Buchsenleiste 414 - 58 TGL 29331/03, Leiterplattenanschluß, gerade, h=13,7mm, 2x29, a-c
+EFS-Steckerleiste_58       | Steckerleiste 102 - 58 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=8,7mm, 2x29, a-b
+EFS-Steckerleiste_58_a-c   | Steckerleiste 304 - 58 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=13,7mm, 2x29, a-c
+EFS-Steckerleiste_87       | Steckerleiste 302 - 87 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=13,7mm, 3x29, a-b-c
+EFS-Steckerleiste_90       | Steckerleiste 102 - 90 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=8,7mm, 2x45, a-b
+
 
 
 ## sonstiges

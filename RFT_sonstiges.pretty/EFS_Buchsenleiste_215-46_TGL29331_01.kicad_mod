@@ -1,7 +1,7 @@
 (footprint "EFS_Buchsenleiste_215-46_TGL29331_01" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F422629)
-  (descr "Buchsenleiste 215 - 46 TGL 29331/01, Leiterplattenanschluß, gearde, 5mm, 2x23")
+  (descr "Buchsenleiste 215 - 46 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x23")
   (tags "direkter Steckverbinder, edge board connector")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -8 180) (layer "F.SilkS")
