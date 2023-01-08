@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5ec60884-6b53-4ef2-953f-db426529961a)
   )
-  (fp_text value "Buchsenleiste 412 - 87 - TGL 29331/03" (at 0 9.5) (layer "F.Fab")
+  (fp_text value "Buchsenleiste 412 - 87 - TGL 29331/03" (at 0 9.5) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f35f2287-1cc6-4813-95b3-f6127439981d)
   )
