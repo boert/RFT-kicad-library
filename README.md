@@ -123,6 +123,8 @@ MB126       | Reflexkoppler: GaAs-LED + Si-Fototransistor
 MB133       | IR-LED + Si-npn-Fototransistor
 MB134       | IR-LED + Si-npn-Fototransistor
 MB135       | IR-LED + Si-npn-Fototransistor
+SP201       | Si-npn-Fototransistor in Plastverkappung
+SP211       | Si-npn-Planar-Fototransistor im Metall-Keramik-Gehäuse
 VQ110       | Infrarotemitterdiode 940nm, 4mm, rund
 VQ120       | Infrarotemitterdiode 940nm, In-Loch-Montage
 VQ121       | GaAs Infrarotemitterdiode 940nm, 2mm
