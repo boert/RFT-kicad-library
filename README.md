@@ -260,6 +260,7 @@ SC239       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, rauscharm, U_ce=
 SC307       | Si-PNP-Transistor, NF, allgemein
 SC308       | Si-PNP-Transistor, NF, allgemein
 SC309       | Si-PNP-Transistor, NF, allgemein, rauscharm
+SD168       | Si-NPN-Leistungstransistor, U_ce=300V, I_c=3A, TO-3
 SF121       | Si-NPN-HF-Transistor, U_ce=20V, I_c=100mA, TO-39
 SF122       | Si-NPN-HF-Transistor, U_ce=33V, I_c=100mA, TO-39
 SF123       | Si-NPN-HF-Transistor, U_ce=66V, I_c=100mA, TO-39
@@ -294,6 +295,8 @@ SS216       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
 SS218       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
 SS219       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
 SSY20       | Si-NPN-Schalttransistor für EDV, U_ce=40V, I_c=600mA, TO-39
+SU161       | Si-NPN-Leistungstransistor, U_ce=700V, I_c=2,5A, TO-3
+SU165       | Si-NPN-Leistungstransistor, U_ce=350V, I_c=2,5A, TO-3
 SZX21/xx    | Si-Epitaxie-Planardioden, Zenerspannung 1;5,1..24
 SZY20       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 66mV, Farbpunkt schwarz
 SZY21       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 33mV, Farbpunkt gelb
