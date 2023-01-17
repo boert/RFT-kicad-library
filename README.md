@@ -310,6 +310,7 @@ SZY20       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 66mV, Farbpunkt schwarz
 SZY21       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 33mV, Farbpunkt gelb
 SZY22       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 13,2mV, Farbpunkt mittelblau
 SZY23       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 6,6mV, Farbpunkt rot
+U105D       | 6fach-P-Kanal MOSFET, gemeinsamer Source-Pin, I_d=-3mA, V_ds=-31V, DIP14
 
 
 ## Digitalschaltkreise
