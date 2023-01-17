@@ -256,6 +256,8 @@ SAY50       | Si-Doppeldiode, gemeinsame Kathode
 SAY52       | Si-Doppeldiode, gemeinsame Kathode
 SAY60       | Si-Doppeldiode, gemeinsame Kathode
 SAY62       | Si-Doppeldiode, gemeinsame Kathode
+SAZ12       | Si-Kapazitätsdiode, U_R=18V, f_Q>10GHz
+SAZ13       | Si-Kapazitätsdiode, U_R=18V, f_Q>20GHz
 SC206       | Si-NPN-Transistor, U_ce=20V, I_c=100mA, E-Line
 SC207       | Si-NPN-Transistor, U_ce=20V, I_c=100mA, E-Line
 SC236       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U_ce=20V, I_c=100mA, E-Line
