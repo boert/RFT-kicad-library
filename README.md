@@ -158,6 +158,9 @@ VQB18       | einstellige Lichtschachtanzeige, rot, gemeinsame Anode
 VQB26       | einstellige Lichtschachtanzeige, grün
 VQB27       | einstellige Lichtschachtanzeige, grün, gemeinsame Kathode
 VQB28       | einstellige Lichtschachtanzeige, grün, gemeinsame Anode
+VQB37       | einstellige LED-Anzeige, rot, 3mm, gemeinsame Kathode
+VQB71       | einstellige LED-Anzeige, rot, 7mm, gemeinsame Anode
+VQB73       | plus/minus LED-Anzeige, rot, 7mm, gemeinsame Anode
 VQE11       | 1,5-stellige Lichtschachtanzeige, rot, gemeinsame Kathode
 VQE12       | 1,5-stellige Lichtschachtanzeige, rot, gemeinsame Anode
 VQE13       | zweistellige Lichtschachtanzeige, rot, gemeinsame Kathode
