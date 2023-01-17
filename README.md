@@ -284,6 +284,9 @@ SF225       | Si-NPN-HF-Transistor, U_ce=25V, I_c=25mA, E-Line CEB!
 SF235       | Si-NPN-HF-Transistor, U_ce=25V, I_c=25mA, E-Line
 SF240       | Si-NPN-HF-Transistor, U_ce=30V, I_c=25mA, E-Line CEB!
 SF245       | Si-NPN-HF-Transistor, U_ce=25V, I_c=25mA, E-Line CEB!
+SF357       | Si-NPN-HF-Transistor, U_ce=160V, I_c=100mA, TO-126
+SF358       | Si-NPN-HF-Transistor, U_ce=250V, I_c=100mA, TO-126
+SF359       | Si-NPN-HF-Transistor, U_ce=300V, I_c=100mA, TO-126
 SM103       | Si-N-Kanal MOSFET, I_d=15mA, V_ds=20V
 SM104       | Si-N-Kanal MOSFET, I_d=15mA, V_ds=20V
 SMY50       | P-Kanal MOSFET, I_d=-25mA, V_ds=-31V
