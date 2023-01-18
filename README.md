@@ -248,6 +248,11 @@ SAM62       | Si-Doppeldiode, gemeinsame Anode, schneller Schalter
 SAM63       | Si-Dreifachdiode, gemeinsame Anode, schneller Schalter
 SAM64       | Si-Vierfachdiode, gemeinsame Anode, schneller Schalter
 SAM65       | Si-Fünffachdiode, gemeinsame Anode, schneller Schalter
+SAY12       | Si-Schaltdiode, U_R=50V, I_F=300mA, orange
+SAY16       | Si-Schaltdiode, U_R=30V, I_F=300mA, grün
+SAY17       | Si-Schaltdiode, U_R=50V, I_F=175mA, rot
+SAY18       | Si-Schaltdiode, U_R=25V, I_F=115mA, gelb
+SAY20       | Si-Schaltdiode, U_R=15V, I_F=75mA, blau
 SAY30       | Si-Planar-Diode, U_R=25V, I_F=30mA
 SAY32       | Si-Planar-Diode, U_R=25V, I_F=50mA
 SAY40       | Si-Planar-Diode, U_R=15V, I_F=30mA
@@ -256,6 +261,7 @@ SAY50       | Si-Doppeldiode, gemeinsame Kathode
 SAY52       | Si-Doppeldiode, gemeinsame Kathode
 SAY60       | Si-Doppeldiode, gemeinsame Kathode
 SAY62       | Si-Doppeldiode, gemeinsame Kathode
+SAY73 *     | Si-Schaltdiode, U_R=50V, I_F=300mA, weiß
 SAZ12       | Si-Kapazitätsdiode, U_R=18V, f_Q>10GHz
 SAZ13       | Si-Kapazitätsdiode, U_R=18V, f_Q>20GHz
 SC206       | Si-NPN-Transistor, U_ce=20V, I_c=100mA, E-Line
