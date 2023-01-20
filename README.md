@@ -318,6 +318,7 @@ SS216       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
 SS218       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
 SS219       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
 SSY20       | Si-NPN-Schalttransistor für EDV, U_ce=40V, I_c=600mA, TO-39
+ST103       | Si-Kleinleistungsthyristor, 3A, 100V...600V
 SU161       | Si-NPN-Leistungstransistor, U_ce=700V, I_c=2,5A, TO-3
 SU165       | Si-NPN-Leistungstransistor, U_ce=350V, I_c=2,5A, TO-3
 SZX21/xx    | Si-Epitaxie-Planardioden, Zenerspannung 1;5,1..24
