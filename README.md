@@ -321,7 +321,11 @@ SSY20       | Si-NPN-Schalttransistor für EDV, U_ce=40V, I_c=600mA, TO-39
 ST103       | Si-Kleinleistungsthyristor, 3A, 100V...600V
 SU161       | Si-NPN-Leistungstransistor, U_ce=700V, I_c=2,5A, TO-3
 SU165       | Si-NPN-Leistungstransistor, U_ce=350V, I_c=2,5A, TO-3
+SY320/xx    | Si-Diode, U_R=75V...1000V, I_F=0,95A
 SY330/xx    | Schnelle-Si-Diode, U_R=100V...2000V, I_F=0,48A...0,29A
+SY335/xx    | Schnelle-Si-Diode, U_R=50V...800V, I_F=1,4A...1,0A
+SZX18/xx    | Z-Diode in Allglasausführung, Farbring schwarz
+SZX19/xx    | Z-Diode in Allglasausführung, Farbring rot
 SZX21/xx    | Si-Epitaxie-Planardioden, Zenerspannung 1;5,1..24
 SZY20       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 66mV, Farbpunkt schwarz
 SZY21       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 33mV, Farbpunkt gelb
