@@ -232,6 +232,13 @@ OC872       | Ge-PNP-HF-Transistor, I_C=-15mA
 OC880       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
 OC881       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
 OC882       | Ge-PNP-HF-Transistor, U_CE=-25V, I_C=-10mA
+GY099       | Ge-Diode, U_R=12V, I_F=100mA
+GY100       | Ge-Diode, U_R=24V, I_F=100mA
+GY101       | Ge-Diode, U_R=40V, I_F=100mA
+GY102       | Ge-Diode, U_R=75V, I_F=100mA
+GY103       | Ge-Diode, U_R=100V, I_F=100mA
+GY104       | Ge-Diode, U_R=150V, I_F=100mA
+GY105       | Ge-Diode, U_R=200V, I_F=100mA
 SA403       | Si-Planar-Diode, U_R=25V, I_F=30mA, Farbpunkt rot
 SA412       | Si-Epitaxie-Diode, U_R=20V, I_F=80mA, Farbpunkt gelb
 SA418       | Si-Epitaxie-Diode, U_R=80V, I_F=100mA, Farbpunkt grün
@@ -261,7 +268,7 @@ SAY50       | Si-Doppeldiode, gemeinsame Kathode
 SAY52       | Si-Doppeldiode, gemeinsame Kathode
 SAY60       | Si-Doppeldiode, gemeinsame Kathode
 SAY62       | Si-Doppeldiode, gemeinsame Kathode
-SAY73 *     | Si-Schaltdiode, U_R=50V, I_F=300mA, weiß
+SAY73       | Si-Schaltdiode, U_R=50V, I_F=300mA, weiß
 SAZ12       | Si-Kapazitätsdiode, U_R=18V, f_Q>10GHz
 SAZ13       | Si-Kapazitätsdiode, U_R=18V, f_Q>20GHz
 SC206       | Si-NPN-Transistor, U_ce=20V, I_c=100mA, E-Line
