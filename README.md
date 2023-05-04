@@ -352,6 +352,8 @@ D108D       | 4 AND-Gatter mit je 2 Eingängen
 D110D       | 3 NAND-Gatter mit je 3 Eingängen
 D120D       | 2 NAND-Gatter mit je 4 Eingängen
 D121D       | Monostabiler Multivibrator mit Schmitt-Trigger-Eingängen
+D122D       | 2-Kanal-Leseverstärker
+D123D       | 2-Kanal-Leseverstärker
 D126D       | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor, 12V
 D130D       | 1 NAND-Gatter mit 8 Eingängen
 D140D       | 2 NAND-Treiber mit je 4 Eingängen
@@ -371,6 +373,7 @@ D345D       | BCD-zu-7-Segment-Dekoder, hexadezimal
 D346D       | BCD-zu-7-Segment-Dekoder, hexadezimal, einstellbar
 D347D       | BCD-zu-7-Segment-Dekoder, Anzeige für C520
 D348D       | BCD-zu-7-Segment-Dekoder, Anzeige für C520, einstellbar
+D492D       | 6 Digitaltreiber, invertierend
 DL000D      | 4 NAND-Gatter mit je 2 Eingängen
 DL002D      | 4 NOR-Gatter mit je 2 Eingängen
 DL003D      | 4 NAND-Gatter mit je 2 Eingängen und offenem Kollektor
