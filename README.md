@@ -69,6 +69,12 @@ B391D       | Motorprozessor für Kassettenlaufwerke
 B3925DD     | Motorprozessor für Diskettenlaufwerke
 B4002D      | Schnittstelle Logik zu Leistung
 B411DD      | Präzisions-BIFET-OPV, interne Frequenzkompensation, Offsetabgleich
+B451G       | Magnetisch betätigter (Hall-)Schalter
+B452G       | Magnetisch betätigter (Hall-)Schalter
+B453G       | Magnetisch betätigter (Hall-)Schalter
+B460G       | Hall-Sensor mit analogem Ausgang
+B461G       | Magnetisch betätigter (Hall-)Schalter, mit Freigabeeingang
+B462G       | Magnetisch betätigter (Hall-)Schalter, mit Freigabeeingang
 B4206D      | Drehzahlregelung, stromgeführt
 B4207D      | Drehzahlregelung, tachogeführt
 B4211D      | Drehzahlregelung, tachogeführt, Phasenanschnitt
