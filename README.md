@@ -80,8 +80,10 @@ B4207D      | Drehzahlregelung, tachogeführt
 B4211D      | Drehzahlregelung, tachogeführt, Phasenanschnitt
 B4761D      | 4-fach OPV mit offenem Kollektor
 B4765D      | 4-fach OPV mit offenem Kollektor
+B551N       | Temperatursensor 1 µA/K
 B555D       | Zeitgeber mit 200-mA-Ausgang
 B556D       | Zeitgeber mit 200-mA-Ausgang
+B589N       | Referenzspannungsquelle 1,235 V
 B611D       | OPV mit TTL-Ausgang
 B615D       | OPV mit TTL-Ausgang
 B621D       | OPV mit TTL-Ausgang
