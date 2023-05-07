@@ -1,0 +1,13 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "name": "boert",
+        "contact": {
+            "web": "https://github.com/boert"
+        }
+    },
+    "packages": {
+        "url": "https://raw.githubusercontent.com/boert/RFT-kicad-library/kicad7/mpackages.json"
+    }
+}
+

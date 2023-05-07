@@ -1,0 +1,37 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "RFT kicad library",
+            "description": "KiCAD symbols and footprints for semiconductors from GDR ",
+            "description_full": "KiCAD symbols and footprints for semiconductors from GDR ",
+            "identifier": "com.github.boert.RFT-kicad-library",
+            "type": "library",
+            "author": {
+                "name": "boert",
+                "contact": {
+                    "web": "https://github.com/boert"
+                }
+            },
+            "maintainer": {
+                "name": "boert",
+                "contact": {
+                    "web": "https://github.com/boert"
+                }
+            },
+            "license": "WTFPL",
+            "resources": {
+                "homepage": "https://github.com/boert/RFT-kicad-library"
+            },
+            "versions": [
+                {
+                    "version": "1.0",
+                    "status": "development",
+                    "kicad_version": "5.99",
+                    "download_url": "https://github.com/boert/RFT-kicad-library"
+                }
+            ]
+        }
+    ]
+}
+
