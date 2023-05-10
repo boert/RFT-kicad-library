@@ -7,7 +7,9 @@
         }
     },
     "packages": {
-        "url": "https://raw.githubusercontent.com/boert/RFT-kicad-library/kicad7/packages.json"
+        "url": "https://raw.githubusercontent.com/boert/RFT-kicad-library/kicad7/packages.json",
+        "update_time_utc": "2023-05-10 16:38:28",
+        "update_timestamp": 1683736708
     },
     "name": "RFT parts repository"
 }
