@@ -1,7 +1,7 @@
 (footprint "EFS_Steckerleiste_122-58_TGL29331_03" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F422629)
-  (descr "Steckerleiste 122 - 58 TGL 29331/03, Lötanschluß, gerade, h=8,5mm, 2x13, a-b")
+  (descr "Steckerleiste 122 - 58 TGL 29331/03, Lötanschluß, gerade, h=8,5mm, 2x29, a-b")
   (tags "indirekter Steckverbinder, plug connector")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -6 180) (layer "F.SilkS")
