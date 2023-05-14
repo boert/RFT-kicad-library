@@ -36,9 +36,13 @@
   (fp_line (start 63.75 0) (end 63.75 2.5) (layer "F.SilkS") (width 0.06) (tstamp 58d8889e-e825-4eac-b99a-5e9a67435d4f))
   (fp_line (start -63.75 0) (end -63.75 2.5) (layer "F.SilkS") (width 0.06) (tstamp 6f56c021-24fc-4262-800d-7977bea24394))
   (fp_line (start -58.75 -5) (end -44.5 -5) (layer "F.SilkS") (width 0.12) (tstamp 757d0de0-1a0d-4832-8a3f-f3c411df5524))
+  (fp_line (start -51 -4.75) (end -51 1.75) (layer "F.SilkS") (width 0.05) (tstamp 78efa04d-a189-483b-94d2-4a486fc0af8e))
+  (fp_line (start -54 -4.75) (end -54 1.75) (layer "F.SilkS") (width 0.05) (tstamp 7c9db47e-919d-40a1-ad31-b3b2568cff39))
   (fp_line (start 44.5 -5) (end 43.5 -4) (layer "F.SilkS") (width 0.12) (tstamp 7eb7e286-c707-41a0-8abc-a1caf50fceee))
   (fp_line (start -43.5 -4) (end 43.5 -4) (layer "F.SilkS") (width 0.12) (tstamp 9cf5ca0e-12ff-4958-a89d-0d56419aa3b8))
   (fp_line (start -58.75 -5) (end -58.75 10) (layer "F.SilkS") (width 0.12) (tstamp aaee5428-39fa-48e8-8999-7aa37bd3ef8c))
+  (fp_line (start 48.5 -4.75) (end 48.5 1.75) (layer "F.SilkS") (width 0.05) (tstamp c5d49195-256e-475b-afc0-22a3f78bd492))
+  (fp_line (start 51.5 -4.75) (end 51.5 1.75) (layer "F.SilkS") (width 0.05) (tstamp cc0e0edd-de32-4aa2-a5cd-69d82ecd68a8))
   (fp_line (start 58.75 10) (end 58.75 -5) (layer "F.SilkS") (width 0.12) (tstamp fb42dedc-4696-4257-9eb7-8a4104b9cb7c))
   (fp_rect (start -58.75 10) (end -63.75 2.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 0e7ce0b6-eb78-42eb-b535-4475c83a53d1))
   (fp_rect (start -40 7) (end 40 5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 0eed07d9-7260-42e2-a3ae-480c0ce4c849))
@@ -136,4 +140,16 @@
   (pad "44b" thru_hole oval (at -52.5 17.5) (size 1.3 2) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 6838d1a9-be7e-418d-afa7-b6356f7a014d))
   (pad "45a" thru_hole oval (at -55 12.5) (size 1.3 2) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 9acb3ef1-f3a2-49a9-a6a2-5a77ad8d8cf9))
   (pad "45b" thru_hole oval (at -55 17.5) (size 1.3 2) (drill 1) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 247b2723-d0c0-436b-8172-1b7948512030))
+  (group "" (id 6cdd77c4-5175-44b3-a13a-67c260e89956)
+    (members
+      c5d49195-256e-475b-afc0-22a3f78bd492
+      cc0e0edd-de32-4aa2-a5cd-69d82ecd68a8
+    )
+  )
+  (group "" (id df02de39-9d19-4b90-8c2c-883177abdb10)
+    (members
+      78efa04d-a189-483b-94d2-4a486fc0af8e
+      7c9db47e-919d-40a1-ad31-b3b2568cff39
+    )
+  )
 )

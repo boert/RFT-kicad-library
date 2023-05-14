@@ -28,12 +28,16 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f6b30fc4-234f-4daf-bb61-18d38ae7d596)
   )
+  (fp_line (start 8.5 -4.75) (end 8.5 1.75) (layer "F.SilkS") (width 0.05) (tstamp 03905ff2-899d-45a7-8717-9a5422533201))
   (fp_line (start -18.75 0) (end -23.75 0) (layer "F.SilkS") (width 0.06) (tstamp 079c6cf7-2eee-4380-b7d6-b4f99031f2e1))
+  (fp_line (start -14 -4.75) (end -14 1.75) (layer "F.SilkS") (width 0.05) (tstamp 1f55e1d7-dfe6-4711-9302-8804de616275))
   (fp_line (start -18.75 10) (end 18.75 10) (layer "F.SilkS") (width 0.12) (tstamp 29f5b7af-0d2c-4f04-a0db-077b586a6d37))
   (fp_line (start 23.75 0) (end 18.75 0) (layer "F.SilkS") (width 0.06) (tstamp 33af0672-4344-46a0-9802-237dae584ccc))
+  (fp_line (start -11 -4.75) (end -11 1.75) (layer "F.SilkS") (width 0.05) (tstamp 425f9fdf-82ed-457f-a0f2-cc58fd08cd24))
   (fp_line (start 23.75 0) (end 23.75 2.5) (layer "F.SilkS") (width 0.06) (tstamp 58d8889e-e825-4eac-b99a-5e9a67435d4f))
   (fp_line (start -23.75 0) (end -23.75 2.5) (layer "F.SilkS") (width 0.06) (tstamp 6f56c021-24fc-4262-800d-7977bea24394))
   (fp_line (start -18.75 -5) (end 18.75 -5) (layer "F.SilkS") (width 0.12) (tstamp 757d0de0-1a0d-4832-8a3f-f3c411df5524))
+  (fp_line (start 11.5 -4.75) (end 11.5 1.75) (layer "F.SilkS") (width 0.05) (tstamp a46932c0-0ad2-41ad-90a3-bea174caa254))
   (fp_line (start -18.75 -5) (end -18.75 10) (layer "F.SilkS") (width 0.12) (tstamp aaee5428-39fa-48e8-8999-7aa37bd3ef8c))
   (fp_line (start 18.75 10) (end 18.75 -5) (layer "F.SilkS") (width 0.12) (tstamp fb42dedc-4696-4257-9eb7-8a4104b9cb7c))
   (fp_rect (start -18.75 10) (end -23.75 2.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 0e7ce0b6-eb78-42eb-b535-4475c83a53d1))
@@ -68,4 +72,16 @@
   (pad "12b" thru_hole oval (at -12.5 17.5) (size 1.3 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp be78ad85-496d-40e9-be54-49ef6a503e51))
   (pad "13a" thru_hole oval (at -15 12.5) (size 1.3 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 7ca5d091-6a2b-4735-9805-ac49b45f0cb4))
   (pad "13b" thru_hole oval (at -15 17.5) (size 1.3 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 3fb43656-9bd9-489c-a25b-51184fbac9ac))
+  (group "" (id 37a4c0a7-a603-4b37-a25d-3a11b794ec39)
+    (members
+      1f55e1d7-dfe6-4711-9302-8804de616275
+      425f9fdf-82ed-457f-a0f2-cc58fd08cd24
+    )
+  )
+  (group "" (id a0d82271-7268-4526-a7e0-c4f5d5fc022e)
+    (members
+      03905ff2-899d-45a7-8717-9a5422533201
+      a46932c0-0ad2-41ad-90a3-bea174caa254
+    )
+  )
 )

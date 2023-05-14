@@ -33,11 +33,15 @@
     (tstamp f6b30fc4-234f-4daf-bb61-18d38ae7d596)
   )
   (fp_line (start -18.75 0) (end -23.75 0) (layer "F.SilkS") (width 0.06) (tstamp 079c6cf7-2eee-4380-b7d6-b4f99031f2e1))
+  (fp_line (start 11.5 -4.5) (end 11.5 2) (layer "F.SilkS") (width 0.05) (tstamp 11e155d1-bc8e-4e76-ad7f-dc508a301925))
+  (fp_line (start -14 -4.5) (end -14 2) (layer "F.SilkS") (width 0.05) (tstamp 1261464c-2243-4978-96e2-8a5ecea8db5f))
+  (fp_line (start -11 -4.5) (end -11 2) (layer "F.SilkS") (width 0.05) (tstamp 16730ed4-e473-4977-af72-cc89317ebc4a))
   (fp_line (start -18.75 10) (end 18.75 10) (layer "F.SilkS") (width 0.12) (tstamp 29f5b7af-0d2c-4f04-a0db-077b586a6d37))
   (fp_line (start 23.75 0) (end 18.75 0) (layer "F.SilkS") (width 0.06) (tstamp 33af0672-4344-46a0-9802-237dae584ccc))
   (fp_line (start 23.75 0) (end 23.75 2.5) (layer "F.SilkS") (width 0.06) (tstamp 58d8889e-e825-4eac-b99a-5e9a67435d4f))
   (fp_line (start -23.75 0) (end -23.75 2.5) (layer "F.SilkS") (width 0.06) (tstamp 6f56c021-24fc-4262-800d-7977bea24394))
   (fp_line (start -18.75 -5) (end 18.75 -5) (layer "F.SilkS") (width 0.12) (tstamp 757d0de0-1a0d-4832-8a3f-f3c411df5524))
+  (fp_line (start 8.5 -4.5) (end 8.5 2) (layer "F.SilkS") (width 0.05) (tstamp 7bfddd98-140b-426f-91ef-cd042939a7f7))
   (fp_line (start -18.75 -5) (end -18.75 10) (layer "F.SilkS") (width 0.12) (tstamp aaee5428-39fa-48e8-8999-7aa37bd3ef8c))
   (fp_line (start 18.75 10) (end 18.75 -5) (layer "F.SilkS") (width 0.12) (tstamp fb42dedc-4696-4257-9eb7-8a4104b9cb7c))
   (fp_rect (start -18.75 10) (end -23.75 2.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 0e7ce0b6-eb78-42eb-b535-4475c83a53d1))
@@ -72,4 +76,16 @@
   (pad "12c" thru_hole oval (at -12.5 17.5 180) (size 1.3 1.6) (drill 1 (offset 0 0.15)) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp a73d0ec3-79e9-4d30-b3e9-2c07e0802e4d))
   (pad "13a" thru_hole oval (at -15 12.5 180) (size 1.3 1.6) (drill 1 (offset 0 -0.15)) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp a351ab12-a147-44f2-b4c9-a72a49475ea1))
   (pad "13c" thru_hole oval (at -15 17.5 180) (size 1.3 1.6) (drill 1 (offset 0 0.15)) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp a3d74797-b042-483a-8173-be003916e723))
+  (group "" (id 61412822-f60c-4837-b8c5-fde9db029990)
+    (members
+      11e155d1-bc8e-4e76-ad7f-dc508a301925
+      7bfddd98-140b-426f-91ef-cd042939a7f7
+    )
+  )
+  (group "" (id 61788cc2-e0ec-43da-9b9c-1ce489d1b1b0)
+    (members
+      1261464c-2243-4978-96e2-8a5ecea8db5f
+      16730ed4-e473-4977-af72-cc89317ebc4a
+    )
+  )
 )
