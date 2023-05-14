@@ -73,6 +73,8 @@
   (fp_line (start 40 -9) (end 40 -4) (layer "F.SilkS") (width 0.12) (tstamp c441dce0-2ba6-45d4-995b-8ae6b9d22cab))
   (fp_line (start 37 3.5) (end 37 -4) (layer "F.SilkS") (width 0.12) (tstamp ee9464d4-fdca-4d07-8dea-a730f25004b6))
   (fp_line (start -40 -9) (end -40 -4) (layer "F.SilkS") (width 0.12) (tstamp fb42dedc-4696-4257-9eb7-8a4104b9cb7c))
+  (fp_rect (start 29 -4) (end 31 3.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 34ac706d-6d9f-4639-9ba1-d79c9c97d0fd))
+  (fp_rect (start -33.5 -4) (end -31.5 3.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp d9691005-335f-4228-b648-8c2c71a53ed2))
   (fp_rect (start -44.25 -18) (end 44.25 0) (layer "F.CrtYd") (width 0.12) (fill none) (tstamp 86b6d063-3802-46d0-a9dc-127b88cc419a))
   (pad "" np_thru_hole circle (at 42.5 -6.5 180) (size 2.7 2.7) (drill 2.7) (layers F&B.Cu *.Mask) (tstamp c9ac37eb-44eb-400b-bf85-1c80c97a7964))
   (pad "" np_thru_hole circle (at -42.5 -6.5 180) (size 2.7 2.7) (drill 2.7) (layers F&B.Cu *.Mask) (tstamp f8f15f38-5875-4dd9-b5de-ebbb742c8ccc))
