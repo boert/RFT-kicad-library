@@ -555,6 +555,8 @@ EFS10-Buchsenleiste        | Buchsenleiste 202 - 10 TGL 29331/04, Leiterplattena
 EFS26-Buchsenleiste        | Buchsenleiste 202 - 26 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=8,7mm, 2x13, a-b
 EFS58-Buchsenleiste        | Buchsenleiste 202 - 58 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=8,7mm, 2x29, a-b
 EFS90-Buchsenleiste        | Buchsenleiste 202 - 90 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=8,7mm, 2x45, a-b
+EFS05-Buchsenleiste        | Buchsenleiste 203 - 05 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=8,7mm, 1x5, versetzt
+EFS13-Buchsenleiste        | Buchsenleiste 203 - 13 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=8,7mm, 1x13, versetzt
 EFS29-Buchsenleiste        | Buchsenleiste 203 - 29 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=8,7mm, 1x29, a-b
 EFS45-Buchsenleiste        | Buchsenleiste 203 - 45 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=8,7mm, 1x45, a-b
 EFS30-Buchsenleiste        | Buchsenleiste 207 - 30 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=8,7mm, 2x15, a-b
@@ -563,6 +565,8 @@ EFS10-Buchsenleiste        | Buchsenleiste 212 - 10 TGL 29331/04, Leiterplattena
 EFS26-Buchsenleiste        | Buchsenleiste 212 - 26 TGL 29331/04, Leiterplattenanschluß, gerade, h=8,5mm, 2x13, a-b
 EFS58-Buchsenleiste        | Buchsenleiste 212 - 58 TGL 29331/03, Leiterplattenanschluß, gerade, 2,5mm, 2x29
 EFS90-Buchsenleiste        | Buchsenleiste 212 - 90 TGL 29331/03, Leiterplattenanschluß, gerade, 2,5mm, 2x45
+EFS05-Buchsenleiste        | Buchsenleiste 213 - 05 TGL 29331/04, Leiterplattenanschluß, gerade, h=8,5mm, 1x5, versetzt
+EFS13-Buchsenleiste        | Buchsenleiste 213 - 13 TGL 29331/04, Leiterplattenanschluß, gerade, h=8,5mm, 1x13, versetzt
 EFS29-Buchsenleiste        | Buchsenleiste 213 - 29 TGL 29331/03, Leiterplattenanschluß, gerade, 2,5mm, 1x29
 EFS45-Buchsenleiste        | Buchsenleiste 213 - 45 TGL 29331/03, Leiterplattenanschluß, gerade, 2,5mm, 1x45
 EFS30-Buchsenleiste        | Buchsenleiste 217 - 30 TGL 29331/03, Leiterplattenanschluß, gerade, 5mm, 2x15
@@ -598,20 +602,28 @@ EFS44-Steckerleiste        | Steckerleiste 323 - 44 TGL 29331/03, Lötanschluß,
 EFS58-Steckerleiste_a-c    | Steckerleiste 324 - 58 TGL 29331/03, Lötanschluß, gerade, h=13,7mm, 2x29, a-c
 EFS30-Steckerleiste_a-c    | Steckerleiste 325 - 30 TGL 29331/03, Lötanschluß, gerade, h=13,7mm, 2x15, a-c
 EFS15-Buchsenleiste        | Buchsenleiste 402 - 15 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=13,7mm, 3x5, a-b-c
+EFS39-Buchsenleiste        | Buchsenleiste 402 - 39 TGL 29332/04, Leiterplattenanschluß, gewinkelt, h=13,7mm, 3x13, a-b-c
 EFS87-Buchsenleiste        | Buchsenleiste 402 - 87 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=13,7mm, 3x29, a-b-c
-EFS39-Buchsenleiste        | Buchsenleiste 403 - 39 TGL 29332/04, Leiterplattenanschluß, gewinkelt, h=13,7mm, 3x13, a-b-c
+EFS08-Buchsenleiste        | Buchsenleiste 403 - 08 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=13,7mm, Raster 2,5mm versetzt
+EFS20-Buchsenleiste        | Buchsenleiste 403 - 20 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=13,7mm, Raster 2,5mm versetzt
 EFS44-Buchsenleiste        | Buchsenleiste 403 - 44 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=13,7mm, Raster 2,5mm versetzt
 EFS10-Buchsenleiste_a-c    | Buchsenleiste 404 - 10 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=13,7mm, 2x5, a-c
 EFS26-Buchsenleiste_a-c    | Buchsenleiste 404 - 26 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=13,7mm, 2x13, a-c
 EFS58-Buchsenleiste_a-c    | Buchsenleiste 404 - 58 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=13,7mm, 2x29, a-c
+EFS06-Buchsenleiste_a-c    | Buchsenleiste 405 - 06 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=13,7mm, 2x3, a-c
+EFS14-Buchsenleiste_a-c    | Buchsenleiste 405 - 14 TGL 29331/04, Leiterplattenanschluß, gewinkelt, h=13,7mm, 2x7, a-c
 EFS30-Buchsenleiste_a-c    | Buchsenleiste 405 - 30 TGL 29331/03, Leiterplattenanschluß, gewinkelt, h=13,7mm, 2x15, a-c
 EFS15-Buchsenleiste        | Buchsenleiste 412 - 15 TGL 29331/04, Leiterplattenanschluß, gerade, h=13,7mm, 3x5, a-b-c
 EFS39-Buchsenleiste        | Buchsenleiste 412 - 39 TGL 29331/04, Leiterplattenanschluß, gerade, h=13,7mm, 3x13, a-b-c
 EFS87-Buchsenleiste        | Buchsenleiste 412 - 87 TGL 29331/03, Leiterplattenanschluß, gerade, h=13,7mm, 3x29, a-b-c
+EFS08-Buchsenleiste        | Buchsenleiste 413 - 08 TGL 29331/04, Leiterplattenanschluß, gerade, h=13,7mm , Raster 2,5mm versetzt
+EFS20-Buchsenleiste        | Buchsenleiste 413 - 20 TGL 29331/04, Leiterplattenanschluß, gerade, h=13,7mm , Raster 2,5mm versetzt
 EFS44-Buchsenleiste        | Buchsenleiste 413 - 44 TGL 29331/03, Leiterplattenanschluß, gerade, h=13,7mm , Raster 2,5mm versetzt
 EFS10-Buchsenleiste_a-c    | Buchsenleiste 414 - 10 TGL 29331/04, Leiterplattenanschluß, gerade, h=13,7mm, 2x5, a-c
 EFS26-Buchsenleiste_a-c    | Buchsenleiste 414 - 26 TGL 29331/04, Leiterplattenanschluß, gerade, h=13,7mm, 2x13, a-c
 EFS58-Buchsenleiste_a-c    | Buchsenleiste 414 - 58 TGL 29331/03, Leiterplattenanschluß, gerade, h=13,7mm, 2x29, a-c
+EFS06-Buchsenleiste_a-c    | Buchsenleiste 415 - 06 TGL 29331/04, Leiterplattenanschluß, gerade, h=13,7mm , 2x3, a-c
+EFS14-Buchsenleiste_a-c    | Buchsenleiste 415 - 14 TGL 29331/04, Leiterplattenanschluß, gerade, h=13,7mm , 2x7, a-c
 EFS30-Buchsenleiste_a-c    | Buchsenleiste 415 - 30 TGL 29331/03, Leiterplattenanschluß, gerade, h=13,7mm, 2x15, a-c
 EFS87-Buchsenleiste        | Buchsenleiste 422 - 87 TGL 29331/03, Lötanschluß, gerade, h=13,7mm , 3x29, a-b-c
 EFS44-Buchsenleiste        | Buchsenleiste 423 - 44 TGL 29331/03, Lötanschluß, gerade, h=13,7mm , Raster 2,5mm versetzt
