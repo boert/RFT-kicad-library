@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "RFT_sonstiges")(type "KiCad")(uri "${KIPRJMOD}/RFT_sonstiges.pretty")(options "")(descr "Footprints für RFT-Bauteile"))
+  (lib (name "RFT_EFS-Steckverbinder")(type "KiCad")(uri "${KIPRJMOD}/RFT_EFS-Steckverbinder.pretty")(options "")(descr "EFS-Steckverbinder"))
 )
