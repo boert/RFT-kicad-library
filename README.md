@@ -508,18 +508,24 @@ RGK30/2     | Relais, 2 Schließer
 ### direkte Steckverbinder
 Bezeichnung                | Beschreibung
 -----------                | ------------
-EFS26-Buchsenleiste        | Buchsenleiste 202 - 26 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x13
-EFS58-Buchsenleiste        | Buchsenleiste 202 - 58 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x29
-EFS90-Buchsenleiste        | Buchsenleiste 202 - 90 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x45
-EFS14-Buchsenleiste        | Buchsenleiste 205 - 14 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x7
-EFS30-Buchsenleiste        | Buchsenleiste 205 - 30 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x15
-EFS46-Buchsenleiste        | Buchsenleiste 205 - 46 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x23
-EFS26-Buchsenleiste        | Buchsenleiste 212 - 26 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x13
-EFS58-Buchsenleiste        | Buchsenleiste 212 - 58 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x29
-EFS90-Buchsenleiste        | Buchsenleiste 212 - 90 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x45
-EFS14-Buchsenleiste        | Buchsenleiste 215 - 14 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x7
-EFS30-Buchsenleiste        | Buchsenleiste 215 - 30 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x15
-EFS46-Buchsenleiste        | Buchsenleiste 215 - 46 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x23
+EFS26-Direktverbinder      | Direktverbinder 202 - 26 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x13
+EFS58-Direktverbinder      | Direktverbinder 202 - 58 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x29
+EFS90-Direktverbinder      | Direktverbinder 202 - 90 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 2,5mm, 2x45
+EFS14-Direktverbinder      | Direktverbinder 205 - 14 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x7
+EFS30-Direktverbinder      | Direktverbinder 205 - 30 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x15
+EFS46-Direktverbinder      | Direktverbinder 205 - 46 TGL 29331/01, Leiterplattenanschluß, gewinkelt, 5mm, 2x23
+EFS26-Direktverbinder      | Direktverbinder 212 - 26 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x13
+EFS58-Direktverbinder      | Direktverbinder 212 - 58 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x29
+EFS90-Direktverbinder      | Direktverbinder 212 - 90 TGL 29331/01, Leiterplattenanschluß, gerade, 2,5mm, 2x45
+EFS14-Direktverbinder      | Direktverbinder 215 - 14 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x7
+EFS30-Direktverbinder      | Direktverbinder 215 - 30 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x15
+EFS46-Direktverbinder      | Direktverbinder 215 - 46 TGL 29331/01, Leiterplattenanschluß, gerade, 5mm, 2x23
+EFS26-Direktverbinder      | Direktverbinder 222 - 26 TGL 29331/01, Lötanschluß, gerade, 2,5mm, 2x13
+EFS58-Direktverbinder      | Direktverbinder 222 - 58 TGL 29331/01, Lötanschluß, gerade, 2,5mm, 2x29
+EFS90-Direktverbinder      | Direktverbinder 222 - 90 TGL 29331/01, Lötanschluß, gerade, 2,5mm, 2x45
+EFS14-Direktverbinder      | Direktverbinder 225 - 14 TGL 29331/01, Lötanschluß, gerade, 5mm, 2x7
+EFS30-Direktverbinder      | Direktverbinder 225 - 30 TGL 29331/01, Lötanschluß, gerade, 5mm, 2x15
+EFS46-Direktverbinder      | Direktverbinder 225 - 46 TGL 29331/01, Lötanschluß, gerade, 5mm, 2x23
 
 ### indirekte Steckverbinder
 
