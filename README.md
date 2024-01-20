@@ -442,6 +442,7 @@ U6516D      | 2K × 8 Bit statischer CMOS RAM
 U555C       | 1K × 8 bit UV-löschbarer Festwertspeicher (EPROM)
 U855D       | PIO, Schaltkreis für parallele Ein-/Ausgabe
 U856D       | SIO, Schaltkreis für serielle Ein-/Ausgabe
+U857D       | CTC, Zähler-Zeitgeber-Schaltkreis
 U880D       | CPU, Zentrale Verarbeitungseinheit
 UB8001C     | 16-bit-Mikroprozessor
 UB8810D     | 8-bit-Controller mit 2 kByte maskenprogrammierten ROM, 128 Byte RAM
