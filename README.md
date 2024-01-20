@@ -427,6 +427,7 @@ DS8282D     | 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge
 DS8283D     | 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge, invertierend
 DS8286D     | 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
 DS8287D     | 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge, invertierend
+U202D       | 1K × 1 Bit statischer RAM
 U214D       | 1K × 4 Bit statischer RAM
 U224D       | 1K × 4 Bit statischer RAM
 U2164C      | 64K × 1 Bit dynamischer RAM
