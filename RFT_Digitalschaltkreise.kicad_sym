@@ -10822,7 +10822,7 @@
         (name "~{CS}" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at 8.89 0 180) (length 2.54)
+      (pin tri_state line (at 8.89 0 180) (length 2.54)
         (name "DO" (effects (font (size 1.27 1.27))))
         (number "12" (effects (font (size 1.27 1.27))))
       )
