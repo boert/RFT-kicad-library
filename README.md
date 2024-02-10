@@ -427,6 +427,7 @@ DS8282D     | 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge
 DS8283D     | 8 Bit Bustreiber mit Speicher, Tristate-Ausgänge, invertierend
 DS8286D     | 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge
 DS8287D     | 8 Bit bidirektionaler Bustreiber, Tristate-Ausgänge, invertierend
+U125D       | 4-Dekaden-Zähler mit 7-Segment-Multiplexausgang
 U192D       | 1½-stelliger Siebensegment-Dekoder
 U202D       | 1K × 1 Bit statischer RAM
 U214D       | 1K × 4 Bit statischer RAM
