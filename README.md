@@ -485,6 +485,7 @@ V40511D     | BCD-zu-7-Segment-Dekoder
 V4520D      | 2 binäre 4-Bit-Vorwärtszähler
 V4531D      | 13-Bit-Paritätsprüfer
 V4538D      | 2 Monoflop
+V4585D      | 4 Bit Größenkomparator
 
 
 ## Relais
