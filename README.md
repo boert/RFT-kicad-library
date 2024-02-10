@@ -458,6 +458,7 @@ UB8861D     | 8-bit-Controller ROM-los, 128 Byte RAM, power down Option
 U8611DC     | 8-bit-Controller mit 4 kByte maskenprogrammierten ROM, 128 Byte RAM
 U8611DC/1   | 8-bit-Controller interner ROM nicht nutzbar, 128 Byte RAM
 V4001D      | 4 NOR-Gatter mit je 2 Eingängen
+V4007D      | 2 Transistorpaare und 1 Inverter
 V4011D      | 4 NAND-Gatter mit je 2 Eingängen
 V4012D      | 2 NAND-Gatter mit je 4 Eingängen
 V4013D      | 2 D-Flip-Flop
