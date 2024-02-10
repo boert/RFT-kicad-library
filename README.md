@@ -466,6 +466,7 @@ V4015D      | 2 4-Bit Schieberegister
 V4017D      | Dekadischer Zähler mit 10 dekodierten Ausgängen
 V4019D      | AND/OR-Auswahlgatter mit 2 Eingängen und gemeinsamer Auswahl
 V4023D      | 3 NAND-Gatter mit je 3 Eingängen
+V4027D      | 2 Master-Slave-JK-Flip-Flop
 V4028D      | BCD-zu-Dezimal-Dekoder
 V4029D      | Synchroner 4-stufiger binärer BCD-Vor-Rückwärtszähler mit Voreinstellung
 V4030D      | 4 Exklusiv-OR-Gatter mit je 2 Eingängen
