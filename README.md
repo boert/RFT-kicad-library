@@ -22,8 +22,12 @@ Bezeichnung | Beschreibung
 ----------- | ------------
 A109D       | Universeller OPV
 A202D       | Aufnahme-, Mikrofon- und Wiedergabeverstärker
+A211D       | 1W NF-Verstärker (optional mit Kühlfahne)
+A220D       | FM-ZF-Verstärker und Demodulator
 A244D       | Integrierter AM-Empfänger bis 30 MHz
 A277D       | Ansteuerschaltkreis für 12 LED, wahlweise im Punkt- oder Bandbetrieb
+A301D       | Initiatorschaltung
+A301V       | Initiatorschaltung
 A302D       | Schwellspannungsschaltkreis
 B060D       | Kleinleistungs-BIFET-OPV, externe Frequenzkompensation, Offsetabgleich
 B061D       | Kleinleistungs-BIFET-OPV, interne Frequenzkompensation, Offsetabgleich
