@@ -24,6 +24,7 @@ A109D       | Universeller OPV
 A202D       | Aufnahme-, Mikrofon- und Wiedergabeverstärker
 A211D       | 1W NF-Verstärker (optional mit Kühlfahne)
 A220D       | FM-ZF-Verstärker und Demodulator
+A225D       | FM-ZF-Verstärker
 A244D       | Integrierter AM-Empfänger bis 30 MHz
 A277D       | Ansteuerschaltkreis für 12 LED, wahlweise im Punkt- oder Bandbetrieb
 A301D       | Initiatorschaltung
@@ -189,80 +190,80 @@ VQE24       | zweistellige Lichtschachtanzeige, grün, gemeinsame Anode
 
 Bezeichnung | Beschreibung
 ----------- | ------------
-GA100       | Germanium-Universaldiode, U_R=20V, I_F=20mA
-GA101       | Germanium-Universaldiode, U_R=40V, I_F=15mA
-GA102       | Germanium-Universaldiode, U_R=60V, I_F=12mA
-GA103       | Germanium-Universaldiode, U_R=80V, I_F=10mA
-GA104       | Germanium-Universaldiode, U_R=110V, I_F=10mA
-GA105       | Germanium-Universaldiode, U_R=20V, I_F=20mA
-GA108       | Germanium-Universaldiode, U_R=80V, I_F=20mA
-GC100       | Ge-PNP-Transistor, U_CE=-10V, I_C=-15mA
-GC101       | Ge-PNP-Transistor, rauscharm, U_CE=-10V, I_C=-15mA
-GC115       | Ge-PNP-Transistor, U_CE=-20V, I_C=-50mA
-GC116       | Ge-PNP-Transistor, U_CE=-20V, I_C=-50mA
-GC117       | Ge-PNP-Transistor, rauscharm, U_CE=-20V, I_C=-50mA
-GC120       | Ge-PNP-Transistor, U_CE=-20V, I_C=-150mA
-GC121       | Ge-PNP-Transistor, U_CE=-20V, I_C=-150mA
-GC122       | Ge-PNP-Transistor, U_CE=-33V, I_C=-150mA
-GC123       | Ge-PNP-Transistor, U_CE=-66V, I_C=-150mA
-GC301       | Ge-PNP-Transistor, U_CE=-32V, I_C=-500A
-GD100       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-1,3A
-GD110       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-1,3A
-GD120       | Ge-PNP-Leistungstransistor, U_CE=-30V, I_C=-1,3A
-GD130       | Ge-PNP-Leistungstransistor, U_CE=-58V, I_C=-1,3A
-GD150       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-3,0A
-GD160       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-3,0A
-GD170       | Ge-PNP-Leistungstransistor, U_CE=-30V, I_C=-3,0A
-GD175       | Ge-PNP-Leistungstransistor, U_CE=-48V, I_C=-3,0A
-GD180       | Ge-PNP-Leistungstransistor, U_CE=-60V, I_C=-3,0A
-GD240       | Ge-PNP-Leistungstransistor, U_CE=-25V, I_C=-3,0A, P_tot=10W
-GD241       | Ge-PNP-Leistungstransistor, U_CE=-35V, I_C=-3,0A, P_tot=10W
-GD242       | Ge-PNP-Leistungstransistor, U_CE=-48V, I_C=-3,0A, P_tot=10W
-GD243       | Ge-PNP-Leistungstransistor, U_CE=-60V, I_C=-3,0A, P_tot=10W
-GD244       | Ge-PNP-Leistungstransistor, U_CE=-70V, I_C=-3,0A, P_tot=10W
-GF100       | Ge-PNP-HF-Transistor, I_C=-15mA
-GF105       | Ge-PNP-HF-Transistor, I_C=-15mA
-GF120       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
-GF121       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
-GF122       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
-GF145       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
-GF147       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
-GS109       | Ge-PNP-Schalttransistor, U_CE=-15V, I_C=-50mA
-GS111       | Ge-PNP-Schalttransistor, U_CE=-15V, I_C=-200mA
-GS112       | Ge-PNP-Schalttransistor, U_CE=-15V, I_C=-200mA
-GS121       | Ge-PNP-Schalttransistor, U_CE=-20V, I_C=-100mA
-GS122       | Ge-PNP-Schalttransistor, U_CE=-20V, I_C=-100mA
-OC815       | Ge-PNP-Transistor, U_CE=-20V, I_C=-50mA
-OC816       | Ge-PNP-Transistor, U_CE=-20V, I_C=-50mA
-OC817       | Ge-PNP-Transistor, rauscharm, U_CE=-20V, I_C=-50mA
-OC820       | Ge-PNP-Transistor, U_CE=-20V, I_C=-150mA
-OC821       | Ge-PNP-Transistor, U_CE=-20V, I_C=-150mA
-OC822       | Ge-PNP-Transistor, U_CE=-33V, I_C=-150mA
-OC823       | Ge-PNP-Transistor, U_CE=-66V, I_C=-150mA
-OC830       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-1,3A
-OC831       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-1,3A
-OC832       | Ge-PNP-Leistungstransistor, U_CE=-30V, I_C=-1,3A
-OC833       | Ge-PNP-Leistungstransistor, U_CE=-58V, I_C=-1,3A
-OC835       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-3,0A
-OC836       | Ge-PNP-Leistungstransistor, U_CE=-18V, I_C=-3,0A
-OC837       | Ge-PNP-Leistungstransistor, U_CE=-30V, I_C=-3,0A
-OC838       | Ge-PNP-Leistungstransistor, U_CE=-60V, I_C=-3,0A
-OC870       | Ge-PNP-Transistor, U_CE=-10V, I_C=-15mA
-OC871       | Ge-PNP-HF-Transistor, I_C=-15mA
-OC872       | Ge-PNP-HF-Transistor, I_C=-15mA
-OC880       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
-OC881       | Ge-PNP-HF-Transistor, U_CE=-15V, I_C=-10mA
-OC882       | Ge-PNP-HF-Transistor, U_CE=-25V, I_C=-10mA
-GY099       | Ge-Diode, U_R=12V, I_F=100mA
-GY100       | Ge-Diode, U_R=24V, I_F=100mA
-GY101       | Ge-Diode, U_R=40V, I_F=100mA
-GY102       | Ge-Diode, U_R=75V, I_F=100mA
-GY103       | Ge-Diode, U_R=100V, I_F=100mA
-GY104       | Ge-Diode, U_R=150V, I_F=100mA
-GY105       | Ge-Diode, U_R=200V, I_F=100mA
-SA403       | Si-Planar-Diode, U_R=25V, I_F=30mA, Farbpunkt rot
-SA412       | Si-Epitaxie-Diode, U_R=20V, I_F=80mA, Farbpunkt gelb
-SA418       | Si-Epitaxie-Diode, U_R=80V, I_F=100mA, Farbpunkt grün
+GA100       | Germanium-Universaldiode, U<sub>R</sub>=20V, I<sub>F</sub>=20mA
+GA101       | Germanium-Universaldiode, U<sub>R</sub>=40V, I<sub>F</sub>=15mA
+GA102       | Germanium-Universaldiode, U<sub>R</sub>=60V, I<sub>F</sub>=12mA
+GA103       | Germanium-Universaldiode, U<sub>R</sub>=80V, I<sub>F</sub>=10mA
+GA104       | Germanium-Universaldiode, U<sub>R</sub>=110V, I<sub>F</sub>=10mA
+GA105       | Germanium-Universaldiode, U<sub>R</sub>=20V, I<sub>F</sub>=20mA
+GA108       | Germanium-Universaldiode, U<sub>R</sub>=80V, I<sub>F</sub>=20mA
+GC100       | Ge-PNP-Transistor, U<sub>CE</sub>=-10V, I<sub>C</sub>=-15mA
+GC101       | Ge-PNP-Transistor, rauscharm, U<sub>CE</sub>=-10V, I<sub>C</sub>=-15mA
+GC115       | Ge-PNP-Transistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-50mA
+GC116       | Ge-PNP-Transistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-50mA
+GC117       | Ge-PNP-Transistor, rauscharm, U<sub>CE</sub>=-20V, I<sub>C</sub>=-50mA
+GC120       | Ge-PNP-Transistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-150mA
+GC121       | Ge-PNP-Transistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-150mA
+GC122       | Ge-PNP-Transistor, U<sub>CE</sub>=-33V, I<sub>C</sub>=-150mA
+GC123       | Ge-PNP-Transistor, U<sub>CE</sub>=-66V, I<sub>C</sub>=-150mA
+GC301       | Ge-PNP-Transistor, U<sub>CE</sub>=-32V, I<sub>C</sub>=-500A
+GD100       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-18V, I<sub>C</sub>=-1,3A
+GD110       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-18V, I<sub>C</sub>=-1,3A
+GD120       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-30V, I<sub>C</sub>=-1,3A
+GD130       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-58V, I<sub>C</sub>=-1,3A
+GD150       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-18V, I<sub>C</sub>=-3,0A
+GD160       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-18V, I<sub>C</sub>=-3,0A
+GD170       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-30V, I<sub>C</sub>=-3,0A
+GD175       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-48V, I<sub>C</sub>=-3,0A
+GD180       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-60V, I<sub>C</sub>=-3,0A
+GD240       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-25V, I<sub>C</sub>=-3,0A, P<sub>tot</sub>=10W
+GD241       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-35V, I<sub>C</sub>=-3,0A, P<sub>tot</sub>=10W
+GD242       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-48V, I<sub>C</sub>=-3,0A, P<sub>tot</sub>=10W
+GD243       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-60V, I<sub>C</sub>=-3,0A, P<sub>tot</sub>=10W
+GD244       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-70V, I<sub>C</sub>=-3,0A, P<sub>tot</sub>=10W
+GF100       | Ge-PNP-HF-Transistor, I<sub>C</sub>=-15mA
+GF105       | Ge-PNP-HF-Transistor, I<sub>C</sub>=-15mA
+GF120       | Ge-PNP-HF-Transistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-10mA
+GF121       | Ge-PNP-HF-Transistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-10mA
+GF122       | Ge-PNP-HF-Transistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-10mA
+GF145       | Ge-PNP-HF-Transistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-10mA
+GF147       | Ge-PNP-HF-Transistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-10mA
+GS109       | Ge-PNP-Schalttransistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-50mA
+GS111       | Ge-PNP-Schalttransistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-200mA
+GS112       | Ge-PNP-Schalttransistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-200mA
+GS121       | Ge-PNP-Schalttransistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-100mA
+GS122       | Ge-PNP-Schalttransistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-100mA
+OC815       | Ge-PNP-Transistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-50mA
+OC816       | Ge-PNP-Transistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-50mA
+OC817       | Ge-PNP-Transistor, rauscharm, U<sub>CE</sub>=-20V, I<sub>C</sub>=-50mA
+OC820       | Ge-PNP-Transistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-150mA
+OC821       | Ge-PNP-Transistor, U<sub>CE</sub>=-20V, I<sub>C</sub>=-150mA
+OC822       | Ge-PNP-Transistor, U<sub>CE</sub>=-33V, I<sub>C</sub>=-150mA
+OC823       | Ge-PNP-Transistor, U<sub>CE</sub>=-66V, I<sub>C</sub>=-150mA
+OC830       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-18V, I<sub>C</sub>=-1,3A
+OC831       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-18V, I<sub>C</sub>=-1,3A
+OC832       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-30V, I<sub>C</sub>=-1,3A
+OC833       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-58V, I<sub>C</sub>=-1,3A
+OC835       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-18V, I<sub>C</sub>=-3,0A
+OC836       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-18V, I<sub>C</sub>=-3,0A
+OC837       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-30V, I<sub>C</sub>=-3,0A
+OC838       | Ge-PNP-Leistungstransistor, U<sub>CE</sub>=-60V, I<sub>C</sub>=-3,0A
+OC870       | Ge-PNP-Transistor, U<sub>CE</sub>=-10V, I<sub>C</sub>=-15mA
+OC871       | Ge-PNP-HF-Transistor, I<sub>C</sub>=-15mA
+OC872       | Ge-PNP-HF-Transistor, I<sub>C</sub>=-15mA
+OC880       | Ge-PNP-HF-Transistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-10mA
+OC881       | Ge-PNP-HF-Transistor, U<sub>CE</sub>=-15V, I<sub>C</sub>=-10mA
+OC882       | Ge-PNP-HF-Transistor, U<sub>CE</sub>=-25V, I<sub>C</sub>=-10mA
+GY099       | Ge-Diode, U<sub>R</sub>=12V, I<sub>F</sub>=100mA
+GY100       | Ge-Diode, U<sub>R</sub>=24V, I<sub>F</sub>=100mA
+GY101       | Ge-Diode, U<sub>R</sub>=40V, I<sub>F</sub>=100mA
+GY102       | Ge-Diode, U<sub>R</sub>=75V, I<sub>F</sub>=100mA
+GY103       | Ge-Diode, U<sub>R</sub>=100V, I<sub>F</sub>=100mA
+GY104       | Ge-Diode, U<sub>R</sub>=150V, I<sub>F</sub>=100mA
+GY105       | Ge-Diode, U<sub>R</sub>=200V, I<sub>F</sub>=100mA
+SA403       | Si-Planar-Diode, U<sub>R</sub>=25V, I<sub>F</sub>=30mA, Farbpunkt rot
+SA412       | Si-Epitaxie-Diode, U<sub>R</sub>=20V, I<sub>F</sub>=80mA, Farbpunkt gelb
+SA418       | Si-Epitaxie-Diode, U<sub>R</sub>=80V, I<sub>F</sub>=100mA, Farbpunkt grün
 SAL41       | Silizium-Doppeldiode, schneller Schalter
 SAL41B      | Silizium-Doppeldiode, schneller Schalter
 SAL41K      | Silizium-Doppeldiode, schneller Schalter, ohne Mittelabgriff
@@ -276,90 +277,90 @@ SAM62       | Si-Doppeldiode, gemeinsame Anode, schneller Schalter
 SAM63       | Si-Dreifachdiode, gemeinsame Anode, schneller Schalter
 SAM64       | Si-Vierfachdiode, gemeinsame Anode, schneller Schalter
 SAM65       | Si-Fünffachdiode, gemeinsame Anode, schneller Schalter
-SAY10       | Si-Schaltdiode, U_R=50V, I_F=175mA, 3. rot, 4. rot
-SAY11       | Si-Schaltdiode, U_R=25V, I_F=115mA, 3. rot, 4. gelb
-SAY12       | Si-Schaltdiode, U_R=50V, I_F=300mA, orange (alt: 3. rot, 4. orange)
+SAY10       | Si-Schaltdiode, U<sub>R</sub>=50V, I<sub>F</sub>=175mA, 3. rot, 4. rot
+SAY11       | Si-Schaltdiode, U<sub>R</sub>=25V, I<sub>F</sub>=115mA, 3. rot, 4. gelb
+SAY12       | Si-Schaltdiode, U<sub>R</sub>=50V, I<sub>F</sub>=300mA, orange (alt: 3. rot, 4. orange)
 SAY13       | Si-Schaltdiode, Markierung 3. rot, 4. grün
-SAY14       | Si-Schaltdiode, U_R=25V, I_F=115mA, 3. rot, 4. blau
-SAY15       | Si-Schaltdiode, U_R=15V, I_F=75mA, 3. rot, 4. weiß
-SAY16       | Si-Schaltdiode, U_R=30V, I_F=300mA, grün (alt: 3. gelb, 4. rot)
-SAY17       | Si-Schaltdiode, U_R=50V, I_F=175mA, rot
-SAY18       | Si-Schaltdiode, U_R=25V, I_F=115mA, gelb
-SAY20       | Si-Schaltdiode, U_R=15V, I_F=75mA, blau
-SAY30       | Si-Planar-Diode, U_R=25V, I_F=30mA
-SAY32       | Si-Planar-Diode, U_R=25V, I_F=50mA
-SAY40       | Si-Planar-Diode, U_R=15V, I_F=30mA
-SAY42       | Si-Planar-Diode, U_R=15V, I_F=50mA
+SAY14       | Si-Schaltdiode, U<sub>R</sub>=25V, I<sub>F</sub>=115mA, 3. rot, 4. blau
+SAY15       | Si-Schaltdiode, U<sub>R</sub>=15V, I<sub>F</sub>=75mA, 3. rot, 4. weiß
+SAY16       | Si-Schaltdiode, U<sub>R</sub>=30V, I<sub>F</sub>=300mA, grün (alt: 3. gelb, 4. rot)
+SAY17       | Si-Schaltdiode, U<sub>R</sub>=50V, I<sub>F</sub>=175mA, rot
+SAY18       | Si-Schaltdiode, U<sub>R</sub>=25V, I<sub>F</sub>=115mA, gelb
+SAY20       | Si-Schaltdiode, U<sub>R</sub>=15V, I<sub>F</sub>=75mA, blau
+SAY30       | Si-Planar-Diode, U<sub>R</sub>=25V, I<sub>F</sub>=30mA
+SAY32       | Si-Planar-Diode, U<sub>R</sub>=25V, I<sub>F</sub>=50mA
+SAY40       | Si-Planar-Diode, U<sub>R</sub>=15V, I<sub>F</sub>=30mA
+SAY42       | Si-Planar-Diode, U<sub>R</sub>=15V, I<sub>F</sub>=50mA
 SAY50       | Si-Doppeldiode, gemeinsame Kathode
 SAY52       | Si-Doppeldiode, gemeinsame Kathode
 SAY60       | Si-Doppeldiode, gemeinsame Kathode
 SAY62       | Si-Doppeldiode, gemeinsame Kathode
-SAY73       | Si-Schaltdiode, U_R=50V, I_F=300mA, weiß
-SAZ12       | Si-Kapazitätsdiode, U_R=18V, f_Q>10GHz
-SAZ13       | Si-Kapazitätsdiode, U_R=18V, f_Q>20GHz
-SC206       | Si-NPN-Transistor, U_ce=20V, I_c=100mA, E-Line
-SC207       | Si-NPN-Transistor, U_ce=20V, I_c=100mA, E-Line
-SC236       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U_ce=20V, I_c=100mA, E-Line
-SC237       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U_ce=45V, I_c=100mA, E-Line
-SC238       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U_ce=20V, I_c=100mA, E-Line
-SC239       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, rauscharm, U_ce=20V, I_c=100mA, E-Line
+SAY73       | Si-Schaltdiode, U<sub>R</sub>=50V, I<sub>F</sub>=300mA, weiß
+SAZ12       | Si-Kapazitätsdiode, U<sub>R</sub>=18V, f<sub>Q</sub>>10GHz
+SAZ13       | Si-Kapazitätsdiode, U<sub>R</sub>=18V, f<sub>Q</sub>>20GHz
+SC206       | Si-NPN-Transistor, U<sub>ce</sub>=20V, I<sub>c</sub>=100mA, E-Line
+SC207       | Si-NPN-Transistor, U<sub>ce</sub>=20V, I<sub>c</sub>=100mA, E-Line
+SC236       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U<sub>ce</sub>=20V, I<sub>c</sub>=100mA, E-Line
+SC237       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U<sub>ce</sub>=45V, I<sub>c</sub>=100mA, E-Line
+SC238       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, U<sub>ce</sub>=20V, I<sub>c</sub>=100mA, E-Line
+SC239       | Si-NPN-Transistor für NF-Vor- und Treiberstufen, rauscharm, U<sub>ce</sub>=20V, I<sub>c</sub>=100mA, E-Line
 SC307       | Si-PNP-Transistor, NF, allgemein
 SC308       | Si-PNP-Transistor, NF, allgemein
 SC309       | Si-PNP-Transistor, NF, allgemein, rauscharm
-SD168       | Si-NPN-Leistungstransistor, U_ce=300V, I_c=3A, TO-3
-SF121       | Si-NPN-HF-Transistor, U_ce=20V, I_c=100mA, TO-39
-SF122       | Si-NPN-HF-Transistor, U_ce=33V, I_c=100mA, TO-39
-SF123       | Si-NPN-HF-Transistor, U_ce=66V, I_c=100mA, TO-39
-SF126       | Si-NPN-HF-Transistor, U_ce=20V, I_c=500mA, TO-39
-SF127       | Si-NPN-HF-Transistor, U_ce=30V, I_c=500mA, TO-39
-SF128       | Si-NPN-HF-Transistor, U_ce=60V, I_c=500mA, TO-39
-SF129       | Si-NPN-HF-Transistor, U_ce=80V, I_c=500mA, TO-39
-SF131       | Si-NPN-HF-Transistor, U_ce=12V, I_c=50mA, TO-18
-SF132       | Si-NPN-HF-Transistor, U_ce=15V, I_c=50mA, TO-18
-SF136       | Si-NPN-HF-Transistor, U_ce=12V, I_c=200mA, TO-18
-SF137       | Si-NPN-HF-Transistor, U_ce=20V, I_c=200mA, TO-18
-SF150       | Si-NPN-HF-Transistor, U_ce=160V, I_c=50mA, TO-39
-SF215       | Si-NPN-HF-Transistor, U_ce=15V, I_c=100mA, E-Line
-SF216       | Si-NPN-HF-Transistor, U_ce=20V, I_c=100mA, E-Line
-SF225       | Si-NPN-HF-Transistor, U_ce=25V, I_c=25mA, E-Line CEB!
-SF235       | Si-NPN-HF-Transistor, U_ce=25V, I_c=25mA, E-Line
-SF240       | Si-NPN-HF-Transistor, U_ce=30V, I_c=25mA, E-Line CEB!
-SF245       | Si-NPN-HF-Transistor, U_ce=25V, I_c=25mA, E-Line CEB!
-SF357       | Si-NPN-HF-Transistor, U_ce=160V, I_c=100mA, TO-126
-SF358       | Si-NPN-HF-Transistor, U_ce=250V, I_c=100mA, TO-126
-SF359       | Si-NPN-HF-Transistor, U_ce=300V, I_c=100mA, TO-126
-SM103       | Si-N-Kanal MOSFET, I_d=15mA, V_ds=20V
-SM104       | Si-N-Kanal MOSFET, I_d=15mA, V_ds=20V
-SMY50       | P-Kanal MOSFET, I_d=-25mA, V_ds=-31V
-SMY51       | Doppel-P-Kanal MOSFET, I_d=-20mA, V_ds=-31V
-SMY52       | P-Kanal MOSFET, I_d=-60mA, V_ds=-31V
-SMY60       | Doppel-P-Kanal MOSFET, I_d=-20mA, V_ds=-25V
-SS106       | Si-NPN-Schalttransistor, U_ce=15V, I_c=200mA, TO-18
-SS108       | Si-NPN-Schalttransistor, U_ce=15V, I_c=200mA, TO-18
-SS109       | Si-NPN-Schalttransistor, U_ce=15V, I_c=200mA, TO-18
-SS200       | Si-NPN mit höherer Sperrspannung, U_ce=70V, I_c=30mA, E-Line
-SS201       | Si-NPN mit höherer Sperrspannung, U_ce=100V, I_c=30mA, E-Line
-SS202       | Si-NPN mit höherer Sperrspannung, U_ce=120V, I_c=30mA, E-Line
-SS216       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
-SS218       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
-SS219       | Si-NPN-Schalttransistor, U_ce=15V, I_c=100mA, E-Line
-SSY20       | Si-NPN-Schalttransistor für EDV, U_ce=40V, I_c=600mA, TO-39
+SD168       | Si-NPN-Leistungstransistor, U<sub>ce</sub>=300V, I<sub>c</sub>=3A, TO-3
+SF121       | Si-NPN-HF-Transistor, U<sub>ce</sub>=20V, I<sub>c</sub>=100mA, TO-39
+SF122       | Si-NPN-HF-Transistor, U<sub>ce</sub>=33V, I<sub>c</sub>=100mA, TO-39
+SF123       | Si-NPN-HF-Transistor, U<sub>ce</sub>=66V, I<sub>c</sub>=100mA, TO-39
+SF126       | Si-NPN-HF-Transistor, U<sub>ce</sub>=20V, I<sub>c</sub>=500mA, TO-39
+SF127       | Si-NPN-HF-Transistor, U<sub>ce</sub>=30V, I<sub>c</sub>=500mA, TO-39
+SF128       | Si-NPN-HF-Transistor, U<sub>ce</sub>=60V, I<sub>c</sub>=500mA, TO-39
+SF129       | Si-NPN-HF-Transistor, U<sub>ce</sub>=80V, I<sub>c</sub>=500mA, TO-39
+SF131       | Si-NPN-HF-Transistor, U<sub>ce</sub>=12V, I<sub>c</sub>=50mA, TO-18
+SF132       | Si-NPN-HF-Transistor, U<sub>ce</sub>=15V, I<sub>c</sub>=50mA, TO-18
+SF136       | Si-NPN-HF-Transistor, U<sub>ce</sub>=12V, I<sub>c</sub>=200mA, TO-18
+SF137       | Si-NPN-HF-Transistor, U<sub>ce</sub>=20V, I<sub>c</sub>=200mA, TO-18
+SF150       | Si-NPN-HF-Transistor, U<sub>ce</sub>=160V, I<sub>c</sub>=50mA, TO-39
+SF215       | Si-NPN-HF-Transistor, U<sub>ce</sub>=15V, I<sub>c</sub>=100mA, E-Line
+SF216       | Si-NPN-HF-Transistor, U<sub>ce</sub>=20V, I<sub>c</sub>=100mA, E-Line
+SF225       | Si-NPN-HF-Transistor, U<sub>ce</sub>=25V, I<sub>c</sub>=25mA, E-Line CEB!
+SF235       | Si-NPN-HF-Transistor, U<sub>ce</sub>=25V, I<sub>c</sub>=25mA, E-Line
+SF240       | Si-NPN-HF-Transistor, U<sub>ce</sub>=30V, I<sub>c</sub>=25mA, E-Line CEB!
+SF245       | Si-NPN-HF-Transistor, U<sub>ce</sub>=25V, I<sub>c</sub>=25mA, E-Line CEB!
+SF357       | Si-NPN-HF-Transistor, U<sub>ce</sub>=160V, I<sub>c</sub>=100mA, TO-126
+SF358       | Si-NPN-HF-Transistor, U<sub>ce</sub>=250V, I<sub>c</sub>=100mA, TO-126
+SF359       | Si-NPN-HF-Transistor, U<sub>ce</sub>=300V, I<sub>c</sub>=100mA, TO-126
+SM103       | Si-N-Kanal MOSFET, I<sub>d</sub>=15mA, V<sub>ds</sub>=20V
+SM104       | Si-N-Kanal MOSFET, I<sub>d</sub>=15mA, V<sub>ds</sub>=20V
+SMY50       | P-Kanal MOSFET, I<sub>d</sub>=-25mA, V<sub>ds</sub>=-31V
+SMY51       | Doppel-P-Kanal MOSFET, I<sub>d</sub>=-20mA, V<sub>ds</sub>=-31V
+SMY52       | P-Kanal MOSFET, I<sub>d</sub>=-60mA, V<sub>ds</sub>=-31V
+SMY60       | Doppel-P-Kanal MOSFET, I<sub>d</sub>=-20mA, V<sub>ds</sub>=-25V
+SS106       | Si-NPN-Schalttransistor, U<sub>ce</sub>=15V, I<sub>c</sub>=200mA, TO-18
+SS108       | Si-NPN-Schalttransistor, U<sub>ce</sub>=15V, I<sub>c</sub>=200mA, TO-18
+SS109       | Si-NPN-Schalttransistor, U<sub>ce</sub>=15V, I<sub>c</sub>=200mA, TO-18
+SS200       | Si-NPN mit höherer Sperrspannung, U<sub>ce</sub>=70V, I<sub>c</sub>=30mA, E-Line
+SS201       | Si-NPN mit höherer Sperrspannung, U<sub>ce</sub>=100V, I<sub>c</sub>=30mA, E-Line
+SS202       | Si-NPN mit höherer Sperrspannung, U<sub>ce</sub>=120V, I<sub>c</sub>=30mA, E-Line
+SS216       | Si-NPN-Schalttransistor, U<sub>ce</sub>=15V, I<sub>c</sub>=100mA, E-Line
+SS218       | Si-NPN-Schalttransistor, U<sub>ce</sub>=15V, I<sub>c</sub>=100mA, E-Line
+SS219       | Si-NPN-Schalttransistor, U<sub>ce</sub>=15V, I<sub>c</sub>=100mA, E-Line
+SSY20       | Si-NPN-Schalttransistor für EDV, U<sub>ce</sub>=40V, I<sub>c</sub>=600mA, TO-39
 ST103       | Si-Kleinleistungsthyristor, 3A, 100V...600V
-SU161       | Si-NPN-Leistungstransistor, U_ce=700V, I_c=2,5A, TO-3
-SU165       | Si-NPN-Leistungstransistor, U_ce=350V, I_c=2,5A, TO-3
-SY200       | Si-Gleichrichterdiode, U_R=75V, I_F=1A
-SY201       | Si-Gleichrichterdiode, U_R=100V, I_F=1A
-SY202       | Si-Gleichrichterdiode, U_R=200V, I_F=1A
-SY203       | Si-Gleichrichterdiode, U_R=300V, I_F=1A
-SY204       | Si-Gleichrichterdiode, U_R=400V, I_F=1A
-SY205       | Si-Gleichrichterdiode, U_R=500V, I_F=1A
-SY206       | Si-Gleichrichterdiode, U_R=600V, I_F=1A
-SY207       | Si-Gleichrichterdiode, U_R=700V, I_F=1A
-SY208       | Si-Gleichrichterdiode, U_R=800V, I_F=1A
-SY210       | Si-Gleichrichterdiode, U_R=1000V, I_F=1A
-SY320/xx    | Si-Diode, U_R=75V...1000V, I_F=0,95A
-SY330/xx    | Schnelle-Si-Diode, U_R=100V...2000V, I_F=0,48A...0,29A
-SY335/xx    | Schnelle-Si-Diode, U_R=50V...800V, I_F=1,4A...1,0A
+SU161       | Si-NPN-Leistungstransistor, U<sub>ce</sub>=700V, I<sub>c</sub>=2,5A, TO-3
+SU165       | Si-NPN-Leistungstransistor, U<sub>ce</sub>=350V, I<sub>c</sub>=2,5A, TO-3
+SY200       | Si-Gleichrichterdiode, U<sub>R</sub>=75V, I<sub>F</sub>=1A
+SY201       | Si-Gleichrichterdiode, U<sub>R</sub>=100V, I<sub>F</sub>=1A
+SY202       | Si-Gleichrichterdiode, U<sub>R</sub>=200V, I<sub>F</sub>=1A
+SY203       | Si-Gleichrichterdiode, U<sub>R</sub>=300V, I<sub>F</sub>=1A
+SY204       | Si-Gleichrichterdiode, U<sub>R</sub>=400V, I<sub>F</sub>=1A
+SY205       | Si-Gleichrichterdiode, U<sub>R</sub>=500V, I<sub>F</sub>=1A
+SY206       | Si-Gleichrichterdiode, U<sub>R</sub>=600V, I<sub>F</sub>=1A
+SY207       | Si-Gleichrichterdiode, U<sub>R</sub>=700V, I<sub>F</sub>=1A
+SY208       | Si-Gleichrichterdiode, U<sub>R</sub>=800V, I<sub>F</sub>=1A
+SY210       | Si-Gleichrichterdiode, U<sub>R</sub>=1000V, I<sub>F</sub>=1A
+SY320/xx    | Si-Diode, U<sub>R</sub>=75V...1000V, I<sub>F</sub>=0,95A
+SY330/xx    | Schnelle-Si-Diode, U<sub>R=100V...2000V, I<sub>F</sub>=0,48A...0,29A
+SY335/xx    | Schnelle-Si-Diode, U<sub>R</sub>=50V...800V, I<sub>F</sub>=1,4A...1,0A
 SZX18/xx    | Z-Diode in Allglasausführung, Farbring schwarz
 SZX19/xx    | Z-Diode in Allglasausführung, Farbring rot
 SZX21/xx    | Si-Epitaxie-Planardioden, Zenerspannung 1;5,1..24
@@ -367,7 +368,7 @@ SZY20       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 66mV, Farbpunkt schwarz
 SZY21       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 33mV, Farbpunkt gelb
 SZY22       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 13,2mV, Farbpunkt mittelblau
 SZY23       | Spannungsreferenz 8,4 ± 0,4V, ΔU ≤ 6,6mV, Farbpunkt rot
-U105D       | 6fach-P-Kanal MOSFET, gemeinsamer Source-Pin, I_d=-3mA, V_ds=-31V, DIP14
+U105D       | 6fach-P-Kanal MOSFET, gemeinsamer Source-Pin, I<sub>d</sub>=-3mA, V<sub>ds</sub>=-31V, DIP14
 
 
 ## Digitalschaltkreise
