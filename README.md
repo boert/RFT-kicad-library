@@ -189,6 +189,13 @@ VQE24       | zweistellige Lichtschachtanzeige, grün, gemeinsame Anode
 
 Bezeichnung | Beschreibung
 ----------- | ------------
+GA100       | Germanium-Universaldiode, U_R=20V, I_F=20mA
+GA101       | Germanium-Universaldiode, U_R=40V, I_F=15mA
+GA102       | Germanium-Universaldiode, U_R=60V, I_F=12mA
+GA103       | Germanium-Universaldiode, U_R=80V, I_F=10mA
+GA104       | Germanium-Universaldiode, U_R=110V, I_F=10mA
+GA105       | Germanium-Universaldiode, U_R=20V, I_F=20mA
+GA108       | Germanium-Universaldiode, U_R=80V, I_F=20mA
 GC100       | Ge-PNP-Transistor, U_CE=-10V, I_C=-15mA
 GC101       | Ge-PNP-Transistor, rauscharm, U_CE=-10V, I_C=-15mA
 GC115       | Ge-PNP-Transistor, U_CE=-20V, I_C=-50mA
@@ -269,8 +276,13 @@ SAM62       | Si-Doppeldiode, gemeinsame Anode, schneller Schalter
 SAM63       | Si-Dreifachdiode, gemeinsame Anode, schneller Schalter
 SAM64       | Si-Vierfachdiode, gemeinsame Anode, schneller Schalter
 SAM65       | Si-Fünffachdiode, gemeinsame Anode, schneller Schalter
-SAY12       | Si-Schaltdiode, U_R=50V, I_F=300mA, orange
-SAY16       | Si-Schaltdiode, U_R=30V, I_F=300mA, grün
+SAY10       | Si-Schaltdiode, U_R=50V, I_F=175mA, 3. rot, 4. rot
+SAY11       | Si-Schaltdiode, U_R=25V, I_F=115mA, 3. rot, 4. gelb
+SAY12       | Si-Schaltdiode, U_R=50V, I_F=300mA, orange (alt: 3. rot, 4. orange)
+SAY13       | Si-Schaltdiode, Markierung 3. rot, 4. grün
+SAY14       | Si-Schaltdiode, U_R=25V, I_F=115mA, 3. rot, 4. blau
+SAY15       | Si-Schaltdiode, U_R=15V, I_F=75mA, 3. rot, 4. weiß
+SAY16       | Si-Schaltdiode, U_R=30V, I_F=300mA, grün (alt: 3. gelb, 4. rot)
 SAY17       | Si-Schaltdiode, U_R=50V, I_F=175mA, rot
 SAY18       | Si-Schaltdiode, U_R=25V, I_F=115mA, gelb
 SAY20       | Si-Schaltdiode, U_R=15V, I_F=75mA, blau
@@ -335,6 +347,16 @@ SSY20       | Si-NPN-Schalttransistor für EDV, U_ce=40V, I_c=600mA, TO-39
 ST103       | Si-Kleinleistungsthyristor, 3A, 100V...600V
 SU161       | Si-NPN-Leistungstransistor, U_ce=700V, I_c=2,5A, TO-3
 SU165       | Si-NPN-Leistungstransistor, U_ce=350V, I_c=2,5A, TO-3
+SY200       | Si-Gleichrichterdiode, U_R=75V, I_F=1A
+SY201       | Si-Gleichrichterdiode, U_R=100V, I_F=1A
+SY202       | Si-Gleichrichterdiode, U_R=200V, I_F=1A
+SY203       | Si-Gleichrichterdiode, U_R=300V, I_F=1A
+SY204       | Si-Gleichrichterdiode, U_R=400V, I_F=1A
+SY205       | Si-Gleichrichterdiode, U_R=500V, I_F=1A
+SY206       | Si-Gleichrichterdiode, U_R=600V, I_F=1A
+SY207       | Si-Gleichrichterdiode, U_R=700V, I_F=1A
+SY208       | Si-Gleichrichterdiode, U_R=800V, I_F=1A
+SY210       | Si-Gleichrichterdiode, U_R=1000V, I_F=1A
 SY320/xx    | Si-Diode, U_R=75V...1000V, I_F=0,95A
 SY330/xx    | Schnelle-Si-Diode, U_R=100V...2000V, I_F=0,48A...0,29A
 SY335/xx    | Schnelle-Si-Diode, U_R=50V...800V, I_F=1,4A...1,0A
