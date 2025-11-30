@@ -26,6 +26,7 @@ A211D       | 1W NF-Verstärker (optional mit Kühlfahne)
 A220D       | FM-ZF-Verstärker und Demodulator
 A225D       | FM-ZF-Verstärker
 A244D       | Integrierter AM-Empfänger bis 30 MHz
+A274D       | Höhen- und Tiefeneinstellung von Stereo-NF-Verstärkern
 A277D       | Ansteuerschaltkreis für 12 LED, wahlweise im Punkt- oder Bandbetrieb
 A301D       | Initiatorschaltung
 A301V       | Initiatorschaltung
