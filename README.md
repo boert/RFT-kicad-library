@@ -363,6 +363,8 @@ SY210       | Si-Gleichrichterdiode, U<sub>R</sub>=1000V, I<sub>F</sub>=1A
 SY320/xx    | Si-Diode, U<sub>R</sub>=75V...1000V, I<sub>F</sub>=0,95A
 SY330/xx    | Schnelle-Si-Diode, U<sub>R=100V...2000V, I<sub>F</sub>=0,48A...0,29A
 SY335/xx    | Schnelle-Si-Diode, U<sub>R</sub>=50V...800V, I<sub>F</sub>=1,4A...1,0A
+SY345/xx    | Schnelle Si-Gleichrichteriode, U_<sub>R</sub>=35V...700V, I_<sub>F</sub>=1A
+SY351/xx    | Gleichrichteriode, U_<sub>R</sub>=50V...1600V, I_<sub>F</sub>=3A
 SZX18/xx    | Z-Diode in Allglasausführung, Farbring schwarz
 SZX19/xx    | Z-Diode in Allglasausführung, Farbring rot
 SZX21/xx    | Si-Epitaxie-Planardioden, Zenerspannung 1;5,1..24
