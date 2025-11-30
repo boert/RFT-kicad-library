@@ -28,6 +28,7 @@ A225D       | FM-ZF-Verstärker
 A244D       | Integrierter AM-Empfänger bis 30 MHz
 A274D       | Höhen- und Tiefeneinstellung von Stereo-NF-Verstärkern
 A277D       | Ansteuerschaltkreis für 12 LED, wahlweise im Punkt- oder Bandbetrieb
+A290D       | Stereo-Dekoder
 A301D       | Initiatorschaltung
 A301V       | Initiatorschaltung
 A302D       | Schwellspannungsschaltkreis
